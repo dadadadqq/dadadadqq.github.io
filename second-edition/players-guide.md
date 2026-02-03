@@ -2,7 +2,6 @@
 layout: default
 title: 플레이어 가이드
 parent: Second Edition
-has_children: true
 nav_order: 1
 ---
 
