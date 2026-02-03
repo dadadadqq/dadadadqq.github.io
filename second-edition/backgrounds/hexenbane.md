@@ -1,7 +1,7 @@
----
+﻿---
 title: 마녀사냥꾼
 layout: default
-parent: Backgrounds
+parent: 배경
 grand_parent: Second Edition
 ---
 

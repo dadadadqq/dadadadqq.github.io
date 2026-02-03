@@ -1,7 +1,7 @@
----
+﻿---
 title: 땜장이
 layout: default
-parent: Backgrounds
+parent: 배경
 grand_parent: Second Edition
 ---
 

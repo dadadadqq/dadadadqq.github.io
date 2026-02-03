@@ -1,7 +1,7 @@
----
+﻿---
 title: 버려진 아이
 layout: default
-parent: Backgrounds
+parent: 배경
 grand_parent: Second Edition
 ---
 
