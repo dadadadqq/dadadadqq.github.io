@@ -1,46 +1,46 @@
 ---
-title: Mountebank
+title: 사기꾼
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Mountebank
+# 사기꾼
 
-> Wits are your sharpest weapon, a facade your strongest shield. But when you do lose, you lose badly. 
+> 재치는 당신의 가장 날카로운 무기이며, 가면은 가장 강력한 방패입니다. 하지만 패배한다면 크게 패배합니다.
 
-## Names
+## 이름
 
-Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, Noa
+앰브로즈, 루시우스, 보레가르드, 코넬리우스, 아리아, 토프, 인디고, 델핀, 솔렌, 노아
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Cart (+4 slots, _bulky_ when pulled)
-- Trick Playing Cards 
-- Fancy Hat (_petty_)
-- Cane Sword (d6)
+- 3d6 금화
+- 식량 (3회 사용)
+- 횃불 (3회 사용) 
+- 수레 (+4 슬롯, 끌 때 _대형_)
+- 속임수 플레잉 카드
+- 화려한 모자 (_소형_)
+- 지팡이 검 (d6)
 
-## How was your fraud exposed? Roll 1d6:
+## 당신의 사기는 어떻게 발각되었습니까? 1d6을 굴리시오:
 
 |       |                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Your "patients" kept reporting miraculous recoveries, despite your lack of training. Start with **Bandages** (3 uses) and a knack for healing.                                                                                                                                                                                                                                                                 |
-| **2** | After seducing a wealthy patron, their family hired a criminal gang to retrieve you. You got away and need to lay low. Start with **Beauty Cream**, 2 uses. Apply to appear irresistibly beautiful for the next 12 hours.                                                                                                                                                                                      |
-| **3** | You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself. Start with a concealable **Knife** (d6, _petty_).                                                                                                                                                                                         |
-| **4** | Your latest stunt destroyed a priceless artifact and injured a dozen bystanders. Start with a **Captain's Uniform** (_petty_), a **Ceremonial Sword** (harmless, 60gp), and a **Bouquet of Flowers**.                                                                                                                                                                                                          |
-| **5** | You were cursed by a hedgewitch for fooling some innocent village folk. Magic acts unpredictably in your hands (_WIL save to avoid disaster_). If you are the target of magic, the same applies to its wielder.                                                                                                                                                                                                |
-| **6** | Your "seances" with the dead were in actuality a ruse involving a cleverly hidden spellbook of Auditory Illusion. Inevitably, a patron discovered your secret. Start with the **Spellbook** and a bundle of scarves. Auditory Illusion: You create illusory sounds that seem to come from a direction of your choice. _Produces random and occasionally inopportune sounds throughout the day_. |
+| **1** | 당신의 "환자들"은 당신의 의료 훈련 부족에도 불구하고 기적적인 회복을 계속 보고했습니다. **붕대** (3회 사용)와 치유 재능으로 시작합니다.                                                                                                                                                                                                                                                 |
+| **2** | 부유한 후원자를 유혹한 후, 그들의 가족이 당신을 되찾기 위해 범죄 조직을 고용했습니다. 당신은 탈출했고 숨어 지내야 합니다. **미용 크림** (2회 사용)으로 시작합니다. 바르면 다음 12시간 동안 저항할 수 없을 만큼 아름답게 보입니다.                                                                                                                                                                                      |
+| **3** | 당신은 가짜 예언을 파는 행상이었지만, 하나가 진실로 밝혀지자 원치 않는 관심을 끌었습니다. **징조** 표에서 굴리되, 결과는 자신만 알고 있으십시오. 은폐 가능한 **칼** (d6, _소형_)로 시작합니다.                                                                                                                                                                                         |
+| **4** | 당신의 최근 묘기는 귀중한 유물을 파괴하고 십여 명의 구경꾼을 다치게 했습니다. **선장 제복** (_소형_), **의례용 검** (무해함, 60gp), **꽃다발**로 시작합니다.                                                                                                                                                                                                          |
+| **5** | 당신은 순진한 마을 사람들을 속인 대가로 마녀의 저주를 받았습니다. 마법은 당신의 손에서 예측할 수 없게 작동합니다 (_재앙을 피하려면 의지 내성 굴림_). 당신이 마법의 대상이 되면, 시전자에게도 동일하게 적용됩니다.                                                                                                                                                                                                |
+| **6** | 죽은 자와의 "강령술"은 실제로는 교묘하게 숨겨진 청각 환영 주문서를 이용한 속임수였습니다. 결국 후원자가 당신의 비밀을 발견했습니다. **주문서**와 스카프 다발로 시작합니다. 청각 환영: 당신이 선택한 방향에서 나오는 것처럼 보이는 환영 소리를 만듭니다. _하루 종일 무작위로 때때로 부적절한 소리를 냅니다_. |
 
-## What keepsake could always identify you? Roll 1d6:
+## 당신을 항상 식별할 수 있는 기념품은 무엇입니까? 1d6을 굴리시오:
 
 |       |                       |                                                                                                                                                                                  |
 | ----- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Royal Crest**       | Born into royalty, you chose a different life. The crest grants you access but also alerts your family of your whereabouts. _Petty_.                                            |
-| **2** | **Miracle Oil**       | A smelly, slippery concoction. 2 uses.                                                                                                                                           |
-| **3** | **Surgeon's Soap**    | A lye and ash block that makes skin temporarily transparent, revealing the anatomy within. 4 uses.                                                                               |
-| **4** | **Goat Powder**       | Derived from the placenta of a baby goat.  Temporarily cures any affliction, but symptoms return within hours.                                                                   |
-| **5** | **Cursed Sapphire**   | Worth **200gp**, it noticeably returns to your pocket shortly after you spend it. You can't seem to get rid of it.                                                             |
-| **6** | **Alchemical Tattoo** | A dog, cat, or bird that can leave your body on demand. It follows your commands to the best of its abilities and can pass its injuries (_as STR loss_) back onto you. _Petty_. |
+| **1** | **왕실 문장**       | 왕족으로 태어났지만, 당신은 다른 삶을 선택했습니다. 문장은 접근권을 부여하지만 가족에게 당신의 행방도 알립니다. _소형_.                                            |
+| **2** | **기적의 기름**       | 냄새나고 미끄러운 조합물. 2회 사용.                                                                                                                                           |
+| **3** | **외과의 비누**    | 피부를 일시적으로 투명하게 만들어 내부를 드러내는 잿물과 재 블록. 4회 사용.                                                                               |
+| **4** | **염소 가루**       | 새끼 염소의 태반에서 추출됨. 모든 병을 일시적으로 치료하지만, 증상은 몇 시간 내에 돌아옵니다.                                                                   |
+| **5** | **저주받은 사파이어**   | **200gp** 가치가 있으며, 판매한 직후 눈에 띄게 주머니로 돌아옵니다. 없앨 수가 없는 것 같습니다.                                                             |
+| **6** | **연금술 문신** | 요구 시 당신의 몸을 떠날 수 있는 개, 고양이 또는 새. 능력이 닿는 한 당신의 명령을 따르며 부상을 (_근력 손실 등_) 당신에게 되돌립니다. _소형_. |

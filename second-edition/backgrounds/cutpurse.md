@@ -1,48 +1,48 @@
 ---
-title: Cutpurse
+title: 도둑
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Cutpurse
+# 도둑
 
-> You live in the grey space between those who have power and those who don’t. You find opportunity where others see only chaos. With nimble fingers, you unburden both the richest merchant and the lowliest guard. 
+> 당신은 권력을 가진 자와 그렇지 못한 자 사이의 회색지대에서 살아갑니다. 다른 이들이 혼돈만 보는 곳에서 당신은 기회를 찾습니다. 재빠른 손가락으로 가장 부유한 상인과 가장 비천한 경비 모두의 짐을 덜어줍니다.
 
-## Names
+## 이름
 
-Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
+알로, 라이라, 에이먼, 살리나, 엘라라, 프레야, 불, 스패로, 아이비, 사일러스
 
-## Starting Gear
+## 시작 장비
  
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Twin Daggers (d6+d6, _bulky_)
-- Padded Leather (1 Armor)
-- Lockpicks
-- Black Outfit (_petty_)
+- 3d6 금화
+- 식량 (3회용)
+- 횃불 (3회용) 
+- 쌍 단검 (d6+d6, _대형_)
+- 누빈 가죽 (1 장갑)
+- 자물쇠 따개
+- 검은 복장 (_소형_)
 
-## What was your last big job? Roll 1d6:
+## 마지막 큰 일은 무엇이었는가? 1d6 굴림:
 
 |       |                                                                                                                                                                                                   |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A noble's summer home. The place was full of fancy wine (+20gp) but not much else. Take **Fence Cutters**.                                                                                        |
-| **2** | A bank. (You were caught.) You bear a brand only visible by firelight, and anyone who sees the mark can ask you for a beer. Take **Retractable Wires**.                                           |
-| **3** | A guild warehouse. Take a **Ladder** (_bulky_, 10ft) and **Blinding Powder** (1 use).                                                                                                             |
-| **4** | Moneylender. Someone beat you to the job but left behind a **Scroll** of _Arcane Eye_ (_petty_). _Arcane Eye_: You can see through a magical floating eyeball that flies around at your command. |
-| **5** | Constable's quarters. You escaped but left some friends behind. Take **Strong Silk Rope** (30ft) and a queasy feeling.                                                                           |
-| **6** | A university. You were seen but not pursued. You still don't know why. Take **Smoke Pellets** (3 uses).                                                                                          |
+| **1** | 귀족의 여름 별장. 고급 와인 (+20금화)으로 가득했지만 그 외엔 별로 없었습니다. **철조망 절단기**를 얻습니다.                                                                                        |
+| **2** | 은행. (잡혔습니다.) 불빛으로만 보이는 낙인이 찍혀 있으며, 그 표식을 보는 사람은 누구든 당신에게 맥주를 요구할 수 있습니다. **접이식 철사**를 얻습니다.                                           |
+| **3** | 길드 창고. **사다리** (_대형_, 10피트)와 **실명 가루** (1회용)를 얻습니다.                                                                                                             |
+| **4** | 대금업자. 누군가 먼저 털고 갔지만 _비전의 눈_ **두루마리** (_소형_)를 남겼습니다. _비전의 눈_: 당신의 명령에 따라 날아다니는 마법 눈알을 통해 볼 수 있습니다. |
+| **5** | 경비대장 숙소. 탈출했지만 몇몇 친구를 남겨두고 왔습니다. **튼튼한 비단 밧줄** (30피트)과 불편한 기분을 얻습니다.                                                                           |
+| **6** | 대학. 목격당했지만 추적당하지 않았습니다. 아직도 그 이유를 모릅니다. **연막탄** (3회용)을 얻습니다.                                                                                          |
 
-## What helps you steal? Roll 1d6:
+## 무엇이 당신의 도둑질을 돕는가? 1d6 굴림:
 
 |       |                       |                                                                                                                                                    |
 | ----- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Catring**           | 2 charges. Climb up walls and fall safely. **Recharge**: Place the ring on a stray cat's tail.                                                     |
-| **2** | **Gildfinger**        | 1 charge. A finger glove that mimics any mundane key. **Recharge**: Bundle it with at least 100gp for a night.                                     |
-| **3** | **Glimpse Glass**     | 3 uses. A monocle that lets you see through walls or other obstructions. It shatters after the last use.                                        |
-| **4** | **Sweetwhistle**      | 1 charge. Listeners hear a soft, familiar voice in the distance that they cannot resist following. **Recharge**: Lose a dear memory. (Describe it.) |
-| **5** | **Vagrant's Veil**    | 1 charge. Wear it to blend seamlessly into crowds, appearing as a simple pauper. **Recharge**: Donate the day's winnings to the poor. _Petty_      |
-| **6** | **Reverse Teetotum** | 1 use. When spun, time skips backwards 30 seconds. Everyone remembers what happened.                                                                                    |
+| **1** | **고양이 반지**           | 2 충전. 벽을 타고 오르고 안전하게 떨어질 수 있습니다. **충전**: 떠돌이 고양이의 꼬리에 반지를 끼웁니다.                                                     |
+| **2** | **금손가락**        | 1 충전. 평범한 열쇠를 흉내 낼 수 있는 손가락 장갑. **충전**: 최소 100GP를 하룻밤동안 같이 묶습니다.                                     |
+| **3** | **엿보기 안경**     | 3회용. 벽이나 장애물을 통해 볼 수 있는 단안경. 마지막 사용 후 산산조각 납니다.                                        |
+| **4** | **달콤한 휘슬**      | 1 충전. 듣는 이는 멀리서 부드럽고 익숙한 목소리를 들으며 따르지 않고는 견딜 수 없습니다. **충전**: 소중한 기억을 잃습니다. (묘사하세요.) |
+| **5** | **방랑자의 베일**    | 1 충전. 착용하면 군중 속에 자연스럽게 녹아들며 평범한 거지로 보입니다. **충전**: 하루의 수익을 가난한 이들에게 기부합니다. _소형_      |
+| **6** | **역행 팽이** | 1회용. 돌리면 시간이 30초 뒤로 돌아갑니다. 모두가 무슨 일이 있었는지 기억합니다.                                                                                    |
 
 

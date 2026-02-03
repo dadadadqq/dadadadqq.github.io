@@ -1,46 +1,46 @@
 ---
-title: Scrivener
+title: 필경사
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Scrivener
+# 필경사
 
-> You copy ancient texts and illuminate manuscripts, recording the voices of the clever, the great, and the powerful. You will prove that the pen truly is mightier than the sword.
+> 당신은 고대 문헌을 베끼고 필사본을 장식하며, 영리하고 위대하며 강력한 이들의 목소리를 기록합니다. 펜이 진정 검보다 강하다는 것을 증명할 것입니다.
 
-## Names
+## 이름
 
-Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
+라즐로, 스틸로, 악샤라, 피사, 지윤, 칼라모스, 휴고, 슈이, 칼람, 율리우스
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Quill & Ink
-- Blank Book
-- Awl (d6)
-- Badge (_petty_)
+- 3d6 금화
+- 식량 (3회 사용)
+- 횃불 (3회 사용) 
+- 깃펜과 잉크
+- 백지 책
+- 송곳 (d6)
+- 배지 (_소형_)
 
-## What work did you keep for yourself? Roll 1d6:
+## 당신이 자신을 위해 간직한 작품은 무엇인가? 1d6을 굴리시오:
 
 |       |                                                                                                                                                                                                           |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **The Wild Tongue**. A bundle of leather-bound scrolls. A seminal work, cataloging the hidden languages of beasts and how to understand them.                                                            |
-| **2** | **The Silent Symphony**. Bound in fluorescent wrap. Very rare, it chronicles the subtle signs used by those employing invisibility magic.                                                                 |
-| **3** | **A Treatise on the Abyss**. A nondescript black book. An in-depth, largely theoretical text describing the **Roots**, as well as information about the location of a nearby **Gate**.                  |
-| **4** | **The Star Waltz**. A comet-shaped clasp bound in a fine leather cover. Detailed astronomical charts, celestial movements, and stellar festivals. Highly valued (100gp) for its usefulness to travelers. |
-| **5** | **The Cathedral and the Canopy**. Large-leaf binding over vellum. Nominally a children's storybook, the margins detail information about traveling, eating, and sleeping in the cloud forests.            |
-| **6** | **Garden of Glass**. Bound in the cover of another book. A heretical work, it describes the materials, procedures, and optimal locations required to open a **Gate**.                                     |
+| **1** | **야생의 혀**. 가죽으로 묶인 두루마리 묶음. 야수의 숨겨진 언어와 이를 이해하는 방법을 목록화한 중요한 저서.                                                            |
+| **2** | **고요한 교향곡**. 형광 포장지에 묶여 있습니다. 매우 희귀하며, 투명화 마법을 사용하는 이들이 쓰는 미묘한 신호를 기록합니다.                                                                 |
+| **3** | **심연에 대한 논고**. 눈에 띄지 않는 검은 책. **뿌리**를 설명하는 심도 있고 주로 이론적인 문헌이며, 인근 **관문**의 위치에 대한 정보도 담고 있습니다.                  |
+| **4** | **별의 왈츠**. 혜성 모양의 걸쇠가 고급 가죽 표지에 묶여 있습니다. 상세한 천문 차트, 천체 운동, 별의 축제. 여행자에게 유용하여 높은 가치 (100gp)를 지닙니다. |
+| **5** | **대성당과 숲**. 양피지 위에 큰 잎으로 제본되어 있습니다. 명목상 어린이 동화책이지만, 여백에는 구름 숲에서 여행하고, 먹고, 자는 것에 대한 정보가 상세히 기록되어 있습니다.            |
+| **6** | **유리 정원**. 다른 책의 표지로 묶여 있습니다. 이단적인 저서로, **관문**을 여는 데 필요한 재료, 절차, 최적 위치를 설명합니다.                                     |
 
-## How do you transcribe sensitive information? Roll 1d6:
+## 민감한 정보를 어떻게 기록하는가? 1d6을 굴리시오:
 
 |       |                   |                                                                                                                           |
 | ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Fib Ink**       | Glows when used to write true statements but fades if used to write false ones.                                           |
-| **2** | **Cipher Stone**  | A pair of sharp black stones. Each one decrypts any message written by the other.                                         |
-| **3** | **Everquill**     | A quill that writes on any surface. You still need ink. _Petty_.                                                          |
-| **4** | **Whisper Vial**  | Whisper a message into the vial, and it will play it back to whoever opens it next.                                      |
-| **5** | **Sanguine Lens** | Extracts blood from a target without their knowledge. A stolen drop placed on the eye reveals memories from the past day. |
-| **6** | **Echo Leaf**     | A blank parchment. Whomever unfurls it sees their actions of the day slowly revealed in a tight scrawl. _Petty_.          |
+| **1** | **거짓말 잉크**       | 진실한 문장을 쓸 때 빛나지만 거짓 문장을 쓸 때는 희미해집니다.                                           |
+| **2** | **암호석**  | 날카로운 검은 돌 한 쌍. 각각은 다른 하나가 쓴 메시지를 해독합니.                                         |
+| **3** | **영원의 깃펜**     | 어떤 표면에도 쓸 수 있는 깃펜. 여전히 잉크가 필요합니다. _소형_.                                                          |
+| **4** | **속삭임 병**  | 병에 메시지를 속삭이면, 다음에 여는 사람에게 재생됩니다.                                      |
+| **5** | **혈액 렌즈** | 대상이 모르게 그들의 피를 추출합니다. 훔친 한 방울을 눈에 올리면 지난날의 기억을 드러냅니다. |
+| **6** | **메아리 잎**     | 백지 양피지. 펼치는 이는 하루의 행동이 빽빽한 필체로 천천히 드러나는 것을 봅니다. _소형_.          |

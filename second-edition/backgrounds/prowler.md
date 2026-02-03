@@ -1,46 +1,46 @@
 ---
-title: Prowler
+title: 사냥꾼
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Prowler
+# 사냥꾼
 
-> You are a specter in the night, a fleeting shadow that slips by its prey, unseen. Each kill is a test of cunning and animal determination, a contest between life and death. You know that one day you will lose. You look forward to it. 
+> 당신은 밤의 유령이고, 먹이를 지나치는 순간적인 그림자이며, 보이지 않습니다. 각 살상은 교활함과 야수적 결단력의 시험이며, 생명과 죽음 사이의 경쟁입니다. 언젠가 질 것을 알고 있습니다. 그것을 기대합니다.
 
-## Names
+## 이름
 
 Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable, Baruani
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Tarp
-- Boiled Leather (1 Armor)
-- Short Sword (d6)
-- Spring-Loaded trap (4 STR damage)
+- 3d6 금화
+- 식량 (3회용)
+- 횃불 (3회용) 
+- 방수포
+- 경화된 가죽 (1 장갑)
+- 단검 (d6)
+- 스프링 함정 (4 근력 피해)
 
-## What did you last hunt? Roll 1d6:
+## 마지막으로 무엇을 사냥했는가? 1d6 굴림:
 
 |       |                                                                                                                                                                                                                                           |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A _mock firefly_, baiting water carriers with its glowing lure. Take an **Alchemical Limb** (d8, _petty_ when worn) to replace the one it tore off and an **Oil Can** (6 uses). The limb is immune to heat and poison. Needs to be oiled daily. |
-| **2** | An _ice nettle_, trapping and draining sheep. You lost your commission when the fungus you introduced killed half the flock. Take a **Rime Seed** (1 use). It freezes any body of water, no matter the size. Don't eat it.                |
-| **3** | A _silver marsh crawler_ that killed someone close to you. You now carry its **Tooth** (_petty_) on a chain around your neck as a warning to others of its kind. _The tooth hums softly when something is stalking you_.                  |
-| **4** | A malicious _forest spirit_ that poisoned a homestead. You saved a **Heartseed** from the roots of a dying tree. (Plant it to create a new forest.) Also, take **Iron Bracers** (+1 Armor, _bulky_).                                        |
-| **5** | A _hollow wolf_ that had been frightening travelers. You took pity on the half-starved creature and nursed it back to health. Now it is loyal to you unto death. It is also a great tunneler. 5 HP, 11 STR, 13 DEX, 8 WIL, teeth (d6).  |
-| **6** | An _azure warbler_. The gametes attract a sizeable profit, if properly extracted. You succeeded but left its nest to the wolves. Take a **Paring Knife** (d6), **an extra 20gp**, and a pang of regret.                                  |                                                               |
+| **1** | 빛으로 물지게꾼을 꾀는 _가짜 반딧불_. 놈이 뜯어낸 사지를 대신할 **연금술 의지** (d8, 착용 시 _소형_)와 **기름통** (6회용)을 얻습니다. 이 의지는 열과 독에 면역입니다. 매일 기름을 발라야 합니다. |
+| **2** | 양을 가두고 진액을 빨아들이는 _얼음 쐐기풀_. 당신이 들여온 균류가 양 떼의 절반을 죽여 의뢰를 잃었습니다. **서리씨** (1회용)을 얻습니다. 크기에 상관없이 어떤 수역이든 얼려버립니다. 먹지 마세요. |
+| **3** | 가까운 이를 죽인 _은빛 늪 벌레_. 같은 종족에게 경고가 되도록, 당신은 놈의 **이빨** (_소형_)을 사슬에 꿰어 목에 걸고 다닙니다. _무언가가 당신을 노릴 때, 그 이빨이 낮게 웅웅 울립니다_. |
+| **4** | 한 농가에 독을 퍼뜨린 사악한 _숲 정령_. 죽어가던 나무의 뿌리에서 **심장씨앗**을 건져냈습니다. (심으면 새로운 숲이 자라납니다.) 또한 **철 완갑** (+1 장갑, _대형_)을 얻습니다. |
+| **5** | 여행자들을 공포에 떨게 하던 _속 빈 늑대_. 반쯤 굶어 죽어가던 놈이 불쌍해 치료해 주었고, 이제 놈은 목숨을 걸고 당신에게 충성합니다. 굴 파는 데도 능합니다. 피격치 5, 근력 11, 민첩 13, 정신 8, 이빨 (d6). |
+| **6** | _푸른 휘파람새_. 생식세포를 제대로 채취하면 제법 큰돈이 됩니다. 당신은 성공했지만, 둥지는 늑대들에게 내버려두었습니다. **손질칼** (d6), **추가 20금화**, 그리고 한 줄기 후회를 얻습니다. |
 
-## What tool is always in your pack? Roll 1d6:
+## 어떤 도구가 늘 배낭에 들어있는가? 1d6 굴림:
 
 |       |                       |                                                                                                     |
 | ----- | --------------------- | --------------------------------------------------------------------------------------------------- |
-| **1** | **Fermented Spirits** | Keeps you warm at the best of times and as an explosive at the worst. 3 Uses.                       |
-| **2** | **Trail Shaker**      | A noisy instrument that reveals nearby trails, even when deeply hidden.                             |
-| **3** | **Drowse Balm**       | A wax bar. If boiled in water, the steam acts as a soporific agent.                                 |
-| **4** | **Spike and Cord**    | For traversing difficult terrain or for creating makeshift traps and structures.      |
-| **5** | **Iron Rattle**       | A noisemaker for distracting or scaring your quarry. Sounds convincingly like a snake.              |
-| **6** | **Hardening Glue**    | Makes any flat material (cloth, leather, sand) as hard as stone. Expensive (20gp a bottle, 3 uses). |
+| **1** | **발효 독주** | 좋을 때는 몸을 덥히고, 나쁠 때는 폭발물로도 씁니다. 3회용.                       |
+| **2** | **길찾기 딸랑이** | 아무리 깊이 숨겨진 길이라도, 주변의 오솔길을 드러내는 시끄러운 도구입니다.                             |
+| **3** | **졸음 연고** | 밀랍 막대기입니다. 물에 끓이면 증기가 수면 유도제로 작용합니다.                                 |
+| **4** | **말뚝과 끈** | 험지를 넘거나 임시 함정과 구조물을 만드는 데 씁니다.      |
+| **5** | **철 딸랑이** | 먹이를 유인하거나 겁주는 도구입니다. 뱀 소리를 그럴듯하게 흉내 냅니다.              |
+| **6** | **경화 접착제** | 천, 가죽, 모래 같은 평평한 재료를 돌처럼 단단하게 만듭니다. 비쌉니다 (한 병 20금화, 3회용). |

@@ -1,46 +1,46 @@
 ---
-title: Fungal Forager
+title: 버섯 채집꾼
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Fungal Forager
+# 버섯 채집꾼
 
-> You follow the whisperings of the deep earth, the rhythmic pulse of the mycelium forest that grows beneath the surface. The dark holds no terror for you. Also, you really love mushrooms.
+> 당신은 깊은 땅의 속삭임, 표면 아래에서 자라는 균사체 숲의 리듬 같은 맥박을 따릅니다. 어둠은 당신에게 공포가 아닙니다. 그리고 당신은 버섯을 정말 좋아합니다.
 
-## Names
+## 이름
 
 Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Sharpened Trowel (d6)
-- Candle Helmet (+1 Armor, dim, 6 uses)
-- Rope (25ft)
-- Metal Pail
+- 3d6 금화
+- 식량 (3회용)
+- 날카로운 흙삽 (d6)
+- 양초 헬멧 (+1 장갑, 희미한, 6회용)
+- 밧줄 (25피트)
+- 금속 양동이
 
-## What strange fungus did you discover? Roll 1d6:
+## 어떤 이상한 균류를 발견했는가? 1d6 굴림:
 
 |       |                                                                                                                                                                                |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Shrieking Trumpet**. When exposed to light, it screams so loudly that all nearby attacks (including your own) are _impaired_. 2 uses.                                        |
-| **2** | **Torch Fungus**. When crushed, it creates a cold blue light for a short while. 2 uses.                                                                                        |
-| **3** | **Murderous Truffle**. Pungent, highly toxic, and very rare (worth 50gp to assassins).  Illegal pretty much everywhere. 1 use.                                                 |
-| **4** | **Hellcap**. Exposure to its aroma causes intense nausea and vomiting. Either way, it clears the room. Bottled (1 use).                                                        |
-| **5** | **Sproutcup**. Ingest to shrink down to the size of a mouse. (Your belongings stay the same size.) You return to normal size within the hour, often in fits and starts. 1 use. |
-| **6** | **Rootflower**. A white fungus found only on corpses deep underground. Ingest to restore d6 WIL. You will dream of the dead and their stories. 1 use.                          |
+| **1** | **비명 트럼펫**. 빛에 노출되면 너무나 크게 비명을 지르며 근처의 모든 공격(당신 포함)이 _약화_됩니다. 2회용.                                        |
+| **2** | **횃불 곰팡이**. 으깨면 짧은 시간 동안 차가운 파란 빛을 만듭니다. 2회용.                                                                                        |
+| **3** | **살인 트러플**. 자극적이고 매우 독성이 강하며 매우 희귀합니다 (암살자에게 50gp). 거의 모든 곳에서 불법입니다. 1회용.                                                 |
+| **4** | **지옥모**. 그 향기에 노출되면 강한 메스꺼움과 구토를 일으킵니다. 병에 담겨 있음 (1회용).                                                        |
+| **5** | **싹컵**. 섭취하면 쥐 크기로 줄어듭니다. (소지품은 그대로입니다.) 1시간 내에 정상 크기로 돌아오며 그 과정은 종종 끊어지듯 간헐적으로 진행됩니다. 1회용. |
+| **6** | **뿌리꽃**. 깊은 지하의 시체에서만 발견되는 흰 곰팡이. 섭취하면 d6 정신을 회복합니다. 죽은 자들과 그들의 이야기를 꿈꿉니다. 1회용.                          |
  
 
-## What keeps you sane, even in utter darkness? Roll 1d6:
+## 완전한 어둠 속에서도 당신을 유지하게 하는 것은? 1d6 굴림:
 
 |       |                     |                                                                                                |
 | ----- | ------------------- | ---------------------------------------------------------------------------------------------- |
-| **1** | **Glowsnail**       | Casts a soft, bioluminescent light. Feeds on one ration every two days.                        |
-| **2** | **Silk Moth Shawl** | A weatherproof blanket, it can also douse a fire without being damaged.                        |
-| **3** | **Milkflower**      | A gentle stimulant. Chewing it makes you immune to _panic_ for the next hour. 3 uses.          |
-| **4** | **Luxcompass**      | Hums softly as it moves closer to the Sun. Eventually the noise becomes unbearably loud.       |
-| **5** | **Sloth-Tarp**      | A tough and weatherproof fabric, useful for hanging off trees. When inside, you have +1 Armor. |
-| **6** | **Miner's Grease**  | Great for dislodging a gem, tool, or limb from a tight crack. Highly explosive. 3 uses.        |
+| **1** | **발광 달팽이**       |  부드러운 빛을 냅니다. 이틀에 한 번 식량 한 개를 먹습니다.                        |
+| **2** | **비단 나방 숄** | 방수 담요로, 피해 없이 불을 끌 수도 있습니다.                        |
+| **3** | **우유꽃**      | 온화한 각성제. 씹으면 다음 한 시간 동안 _공황_에 면역이 됩니다. 3회용.          |
+| **4** | **빛나침반**      | 태양에 가까워질수록 부드럽게 윙윙거립니다. 결국 소리는 참을 수 없을 정도로 커집니다.       |
+| **5** | **나무늘보 방수포**      | 나무에 매달기에 유용한 강하고 방수가 되는 천. 안에 있을 때 +1 장갑. |
+| **6** | **광부의 기름**  | 보석, 도구, 또는 사지를 좁은 갈라진 틈에서 분리하는 데 좋습니다. 매우 폭발적입니다. 3회용.        |

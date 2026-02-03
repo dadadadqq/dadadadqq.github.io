@@ -1,47 +1,47 @@
 ---
-title: Greenwise
+title: 녹의 현자
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Greenwise
+# 녹의 현자
 
-> You delve deep into the **Wood**, prying its secrets from between rough boughs and whispering leaves. To this verdant kingdom, you are no mere scholar but its confidant as well.
+> 당신은 **숲** 깊은 곳을 파고들며 거친 가지와 속삭이는 잎사귀 사이에서 그 비밀을 캐냅니다. 이 푸른 왕국에서 당신은 단순한 학자가 아니라 친구이기도 합니다.
 
-## Names
+## 이름
 
 Gunther, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Iron Pot
-- Root Knife (d6)
-- Healing Salve (restore 1d4 STR, 1 use)
-- Twine Bauble (_petty_, _Ward_ once per day)
-_Ward_: A silver circle 50ft across appears on the ground. Choose one species that cannot cross it.
+- 3d6 금화
+- 식량 (3회용)
+- 횃불 (3회용) 
+- 철 냄비
+- 뿌리 칼 (d6)
+- 치유 연고 (1d4 근력 회복, 1회용)
+- 끈 장신구 (_소형_, 하루에 한 번 _결계_)
+_결계_: 50피트 넓이의 은빛 원이 때에 나타납니다. 하나의 종을 선택하면 그것은 원을 넘을 수 없습니다.
 
-## How has the Wood failed you ? Roll 1d6:
+## 숲이 당신을 어떻게 실망시키었는가? 1d6 굴림:
 
 |       |                                                                                                                                                                                               |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | An ill-tempered forest spirit cursed you for stealing, marking you as an enemy of their kind. Take a **Bezoar Stone**. Ingesting it cures any poison (1 use, unless retrieved).             |
-| **2** | A close friend disappeared into the forest. Now you see their face in any tea you brew. Take a **Soporific Concoction** (3 uses).                                                                                 |
-| **3** | You were poisoned, losing your sense of taste and smell. You can now withstand noxious fumes and always carry **Antitoxin** (2 uses).                                                        |
-| **4** | Your radical experiments turned your skin green, and you now gain nourishment as a plant. You don't need **Rations**, but a day without sufficient sunlight and water leaves you _deprived_. |
-| **5** | Your impressive corpseflower won a local contest then promptly killed a judge. You fled, but not without the **Prize Money (100gp)** and a warrant for your arrest.                    |
-| **6** | You created a restorative tincture that also causes accidental infertility. Take a **Healing Potion** that completely restores STR. Only you know of its unintended side-effects.                       |
+| **1** | 성질 더러운 숲 정령이 도둑질한 당신을 저주하며 그들의 종의 적으로 만들었습니다. **위석**을 얻습니다. 섭취하면 모든 독을 치료합니다 (1회용, 회수하지 않으면).             |
+| **2** | 친한 친구가 숲 속으로 사라졌습니다. 차를 끓일 때마다 그의 얼굴을 봅니다. **수면액** (3회용)을 얻습니다.                                                                                 |
+| **3** | 당신은 중독되어 미각과 후각을 잃었습니다. 이제 유해 증기를 견딜 수 있으며 항상 **해독제** (2회용)를 가지고 다닙니다.                                                        |
+| **4** | 당신의 급진적인 실험으로 피부가 녹색으로 변했고 이제 식물처럼 영양을 얻습니다. **식량**이 필요없지만 충분한 햇볕과 물이 없는 하루를 보내면 _결핍_됩니다. |
+| **5** | 당신의 인상적인 시체꽃이 지역 경연대회에서 우승한 후 즉시 심사위원을 죽였습니다. 도망쳤지만 **상금 (100금화)**과 체포영장을 가지고 왔습니다.                    |
+| **6** | 당신은 우연한 불임을 일으키는 회복 비약을 만들었습니다. 근력을 완전히 회복하는 **치유 물약**을 얻습니다. 의도하지 않은 부작용은 당신만 알고 있습니다.                       |
 
-## What keeps you safe while in the Wood? Roll 1d6:
+## 숲에서 당신을 안전하게 지켜주는 것은? 1d6 굴림:
 
 |       |                  |                                                                                                          |
 | ----- | ---------------- | -------------------------------------------------------------------------------------------------------- |
-| **1** | **Amadou**       | A vermilion fungus that catches fire quite easily. 3 uses.                                              |
-| **2** | **Delphinium**   | Breathe water for up to one hour. 1 use, but can be divided into fractional doses.                       |
-| **3** | **Tacky Stalk**  | A woody reed that hardens into a permanent adhesive when chewed. 2 uses.                                 |
-| **4** | **Wisp Lantern** | Caged in wrought iron, provides a dim light so long as the wisp is able to feed on nearby pain and fear. |
-| **5** | **Seed Bomb**    | A canvas sack filled with seeds that explode on impact. d6 damage (_blast_, 3 uses).                     |
-| **6** | **Briarvine**    | Entangles any creature up to horse size (STR to break free). Reusable.                                   |
+| **1** | **암도우**       | 쉽게 불이 붙는 주황색 곰팡이. 3회용.                                              |
+| **2** | **델피늄**   | 최대 1시간 동안 물 속에서 숨쉴 수 있습니다. 1회용이지만 분할 투여 가능.                       |
+| **3** | **차겨운 줄기**  | 씹으면 영구적인 접착제로 굳는 나무 갈대. 2회용.                                 |
+| **4** | **위스프 랜턴** | 단철로 만든 우리에 갇힌 위스프가 근처의 고통과 공포를 먹을 수 있는 한 희미한 빛을 제공합니다. |
+| **5** | **씨앗 폭탄**    | 충돌 시 폭발하는 씨앗으로 가득한 캔버스 자루. d6 피해 (_범위_, 3회용).                     |
+| **6** | **가시덩굴**    | 말 크기까지의 모든 생물을 얽습니다 (근력으로 탈출). 재사용 가능.                                   |

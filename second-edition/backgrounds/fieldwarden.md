@@ -1,46 +1,46 @@
 ---
-title: Fieldwarden
+title: 벌판지기
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Fieldwarden
+# 벌판지기
 
-> Protectors of the harvest, defense against pests, thieves, and beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives. Roll a second time on the **Bonds** table. 
+> 수확물의 보호자, 해충과 도둑, 야수에 대한 방어자. 대단히 명예로운 위치지만 오래 가지는 못합니다: 많은 벌판지기들은 자연 수명을 다하지 못합니다. **유대** 테이블에서 두 번 굴림하세요.
 
-## Names
+## 이름
 
 Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye 
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Brigandine (1 Armor, _bulky_)
-- Sling (d6)
-- Hand Axe (d6)
-- Repellent (pick the type, 3 uses)
+- 3d6 금화
+- 식량 (3회용)
+- 횃불 (3회용) 
+- 두정갑 (1 장갑, _대형_)
+- 돌팔매 (d6)
+- 손도끼 (d6)
+- 퇴치제 (종류 선택, 3회용)
  
-## What got the better of you? Roll 1d6:
+## 무엇이 당신을 압도했는가? 1d6 굴림:
 
 |       |                                                                         |
 | ----- | --------------------------------------------------------------- |
-| **1** | A voracious swarm of pests that swallowed crops and animals alike. With nothing to defend, you left. Take **Gale Seed Extract** (3 uses).  Ingesting it lets you sprint with a speed four times your regular rate. Afterward you add two **Fatigue**.        |
-| **2** | A crop spirit, angered by a poor tithing. The fires consumed nearly everything, and afterward you were able to gather a pouch of **Fireseeds** (d8, _blast_, 4 uses).        |
-| **3** | An antlered, toothy demon that nearly ended you. Take a blood-stained **Bone Knife** (d6). On **Critical Damage**, its next attack becomes _enhanced_ from contact with blood. |
-| **4** | _The Withering_, a type of stem rot from the **Roots**. Take a **Diseased Crop** (6 uses) that quickly decays any plant it touches.                        |
-| **5** | Wolves, or so you thought. You are now a **Werewolf** [8 HP, 15 STR, 14 DEX, claws (d6+d6), bite (d8)]. Your WIL remains the same. You can _turn_ at will (once per day) but must make a WIL save to revert. Anyone left alive from your attacks must make a WIL save to avoid infection. |
-| **6** | Crop thieves. Not all of them survived, but you were outnumbered. Start with +d4 HP and a **Cusped Falchion** (d8).  |
+| **1** | 작물과 동물을 모두 삼키는 탐욕스러운 해충 떼. 지킬 것이 없어졌기에 떠났습니다. **강풍씨 추출물** (3회용)을 얻습니다. 섭취하면 평소 속도의 4배로 질주할 수 있습니다. 이후 두 **피로**를 추가합니다.        |
+| **2** | 불충분한 헌사에 분노한 작물 정령. 불길은 거의 모든 것을 태웠고, 그 후 **불씨앗** 주머니를 모을 수 있었습니다 (d8, _범위_, 4회용).        |
+| **3** | 거의 당신을 끝내버릴 뻔한 뿔와 긴 이빨을 가진 악마. 피로 얼룩진 **뼈 칼** (d6)을 얻습니다. **치명적 피해** 시 피와의 접촉으로 다음 공격이 _강화_됩니다. |
+| **4** | **뿌리**로부터 비롯된 줄기, _시들음_.닿는 모든 식물을 빠르게 부패시키는 **병든 작물** (6회용)을 얻습니다.                       |
+| **5** | 늑대, 혹은 그렇게 생각했습니다. 이제 당신은 **늑대인간** [8 피격치, 15 근력, 14 민첩, 발톱 (d6+d6), 물어뜯기 (d8)]입니다. 정신 수치는 그대로입니다. 원할 때 마음대로 _변신_할 수 있지만 (하루 한 번) 되돌리려면 정신 극복 굴림을 해야 합니다. 당신의 공격에서 살아남은 자들은 감염을 피하려면 정신 극복 굴림을 해야 합니다. |
+| **6** | 작물 도둑들. 모두 살아남지는 못했지만 당신은 수적으로 열세였습니다. +d4 피격치과 **첨형 팔치온** (d8)을 가지고 시작합니다.  |
 
-## What tool saved your life? Roll 1d6:
+## 어떤 도구가 당신의 목숨을 구했는가? 1d6 굴림:
 
 |       |                    |                                                                                                                                               |
 | ----- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Bloodvine Whip** | d8 damage. On **Critical Damage**, it drains the target's blood, granting the weapon's next attack the _blast_ quality             |
-| **2** | **Clatter Keeper** | A hand-cranked device that emits a loud noise, frightening away most creatures.                                                               |
-| **3** | **Sun Stick**      | Provides ample warmth and light for up to one hour. **Recharge**: Leave in heavy sunlight for a full day. 1 use. |
-| **4** | **Root Tether**    | When thrown, binds a creature as large as a wolf to the soil for a short time.                                                                        |
-| **5** | **Greenwhistle**   | A small flute that calms plants, making passage through areas heavy with plant life a bit easier.                                                   |
-| **6** | **Everbloom Band** | A circlet adorned with flowers that never wilt. On **Critical Damage**, the flowers dissolve into dust, but you act as if your save succeeded (STR loss still occurs). |
+| **1** | **피뿌리 채찍** | d8 피해. **치명적 피해** 시 대상의 피를 흡수하여 무기의 다음 공격에 _범위_ 속성을 부여합니다             |
+| **2** | **소음 방출기** | 손으로 돌리면 대부분의 생물을 겁내는 큰 소리를 냅니다.                                                               |
+| **3** | **태양 막대기**      | 최대 1시간 동안 충분한 온기와 빛을 제공합니다. **충전**: 하루 종일 강한 햇볕에 놓습니다. 1회용. |
+| **4** | **뿌리 묶기**    | 던지면 늑대만한 크기의 생물을 짧은 시간 동안 땅에 묶습니다.                                                                        |
+| **5** | **푸른 휘슬**   | 식물을 진정시키는 작은 피리로, 식물이 많은 지역을 통과하기가 조금 더 쉬워집니다.                                                   |
+| **6** | **만개의 띠** | 시들지 않는 꽃으로 장식된 머리띠. **치명적 피해** 시 꽃이 먼지로 흘어지지만 극복 굴림에 성공한 것처럼 행동합니다 (근력 손실은 여전히 발생). |

@@ -1,47 +1,47 @@
 ---
-title: Outrider
+title: 기마용병
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Outrider
+# 기마용병
 
-> Your coin comes from escorting caravans, tracking fugitives, or lending your blade to a cause. You've been a savior, an executioner, a hero, and even a villain. Yours is not a solitary path, however: you'll always have your horse.
+> 당신의 돈은 대상을 호위하거나 도망자를 추적하거나 대의에 칼날을 바치는 데서 옵니다. 당신은 구원자, 집행자, 영웅, 심지어 악당이었습니다. 하지만 당신의 길은 고독한 길이 아닙니다: 항상 말이 함께 할 것입니다.
 
-## Names
+## 이름
 
 Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Long Sword (d10, _bulky_)
-- Leather Jerkin (1 Armor)
-- Crossbow (d8, _bulky_)
-- Spyglass
+- 3d6 금화
+- 식량 (3회용)
+- 횃불 (3회용) 
+- 장검 (d10, _대형_)
+- 가죽 조끼 (1 장갑)
+- 쇠뇌 (d8, _대형_)
+- 망원경
 
-## What personal code or principle do you uphold? Roll 1d6:
+## 당신이 지키는 개인적인 규율이나 원칙은 무엇입니까? 1d6을 굴리시오:
 
 |       |                                                                                                                                                                                                                                                                                       |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **No innocent blood**: No bystander will come to harm on your watch. Take a **Steadymade Buckler** (+1 Armor). While holding this shield, you cannot be moved so long as both feet are planted on firm ground.                                                                         |
-| **2** | **Revere the tools of death**: Weapons are to be respected and maintained. Take a **Wyrmbone Whetstone**. Following a half-hour ritual sharpening, attacks with the weapon are _enhanced_ until STR damage is dealt.                                                                  |
-| **3** | **To the death, always**: You never back down from a fight, no matter the odds. Take a **Death-Whistle**, 1 charge. Its scream frightens away all who hear it (save WIL or flee). **Recharge**: Capture the final breath of a dying warrior.                                          |
-| **4** | **Revere the dead**: Death is a journey we all take, and it deserves respect. Take an extra **30gp**. You always place two gold pieces on the eyelids of a slain foe. Somehow, you always find the coin.                                                                              |
-| **5** | **Loyalty to the work**: Your word is your bond. Once you've accepted a job, you see it through to the end. Take a weathered **Tally Stick**. Once a vow is marked onto its face, the stick hardens (d8) until it is complete. The stick will snap in half if the vow is ever broken. |
-| **6** | **Always pay your debts**: You always repay what you owe, whether in coin or in kind. You expect nothing less from all others. Take a **Blacked-Out Ledger**, then roll a second time on the **Bonds** table.                                                                         |
+| **1** | **무고한 피해자 금지**: 당신이 지키는 동안 방관자는 해를 입지 않습니다. **견고한 방패** (+1 장갑)를 가져가십시오. 이 방패를 들고 있는 동안, 양발이 단단한 땅에 붙어 있는 한 밀려나지 않습니다.                                                                         |
+| **2** | **죽음의 도구를 존중**: 무기는 존중하고 관리해야 합니다. **용골 숫돌**을 가져가십시오. 30분간의 의식적 날 세우기 후, 무기로 한 공격은 근력 피해를 입힐 때까지 _강화_됩니다.                                                                  |
+| **3** | **항상 죽음까지**: 당신은 승산과 상관없이 절대 싸움에서 물러서지 않습니다. **죽음의 휘슬** (1 충전)을 가져가십시오. 그 비명은 듣는 모든 이를 두렵게 합니다 (의지 내성 굴림 실패 시 도주). **충전**: 죽어가는 전사의 마지막 숨결을 포획하십시오.                                          |
+| **4** | **죽은 자를 존중**: 죽음은 우리 모두가 가는 여정이며, 존중받을 가치가 있습니다. 추가로 **30gp**를 가져가십시오. 당신은 항상 쓰러진 적의 눈꺼풀에 금화 두 닢을 올립니다. 어떻게든 항상 그 금화를 찾게 됩니다.                                                                              |
+| **5** | **일에 대한 충성**: 당신의 말은 곧 약속입니다. 일단 일을 받아들이면, 끝까지 완수합니다. 낡은 **계산 막대기**를 가져가십시오. 일단 서약이 표면에 새겨지면, 막대기는 완료될 때까지 단단해집니다 (d8). 서약이 깨지면 막대기는 반으로 부러집니다. |
+| **6** | **항상 빚을 갚음**: 당신은 빚진 것을 항상 갚으며, 금화든 현물이든 상관없습니다. 다른 모든 이에게도 똑같이 기대합니다. **검게 지워진 원장**을 가져가고, **유대** 표에서 한 번 더 굴리십시오.                                                                         |
 
 
-## What breed is your horse? Roll 1d6:
+## 당신의 말은 어떤 품종입니까? 1d6을 굴리시오:
 
 |       |                       |                                                                                                                 |
 | ----- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **1** | **Heavy Destrier**    | A beast built for war, an imposing creature. 8 HP, 1 Armor, hooves (d10+d10), +2 slots.                         |
-| **2** | **Blacklegged Dandy** | Hardy and adaptable. **Tough** or **Perilous** terrain are one step easier. 6 HP. +4 slots.                     |
-| **3** | **Rivertooth**        | Impressively strong, capable of carrying heavy loads. 4 HP. +6 slots (only +2 slots if carrying two people).    |
-| **4** | **Piebald Cob**       | Intelligent, it can understand simple commands and even has an instinct for danger. 6 HP. +4 slots.            |
-| **5** | **Linden White**      | Highly trained and agile, it can perform intricate maneuvers in a time of need (no DEX save to flee). 4 HP. +3 slots. |
-| **6** | **Stray Fogger**      | Wild but very fast (even in **Tough** terrain). Rides light. 4 HP. +2 slots.                                 |
+| **1** | **중형 군마**    | 전쟁을 위해 만들어진 야수, 위압적인 생물. 8 피격치, 1 장갑, 발굽 (d10+d10), +2 슬롯.                         |
+| **2** | **검은다리 멋쟁이** | 강인하고 적응력이 뛰어남. **힘든** 또는 **위험한** 지형이 한 단계 쉬워집니다. 6 피격치. +4 슬롯.                     |
+| **3** | **강이빨**        | 인상적으로 강하며, 무거운 짐을 운반할 수 있습니다. 4 피격치. +6 슬롯 (두 사람을 태우면 +2 슬롯만).    |
+| **4** | **얼룩말**       | 지능적이며, 간단한 명령을 이해하고 위험에 대한 본능도 있습니다. 6 피격치. +4 슬롯.            |
+| **5** | **린든 백마**      | 고도로 훈련되고 민첩하며, 필요할 때 복잡한 기동을 수행할 수 있습니다 (도주 시 민첩 내성 굴림 불필요). 4 피격치. +3 슬롯. |
+| **6** | **떠돌이 안개말**      | 거칠지만 매우 빠릅니다 (**힘든** 지형에서도). 가볍게 탑니다. 4 피격치. +2 슬롯.                                 |

@@ -1,45 +1,45 @@
 ---
-title: Marchguard
+title: 변경수비대
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Marchguard
+# 변경수비대
 
-> Bound by blood Oath to patrol the border and protect the realm. Once sworn, the Oath cannot be broken. The Guard always finds their own.
+> 국경을 순찰하고 왕국을 보호하기 위한 혈약으로 묶여 있습니다. 서약은 깨뜨릴 수 없습니다. 수비대는 항상 자기 사람을 찾아내니까요.
 
-## Names
+## 이름
 
 Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Lantern
-- Oil Can (6 uses)
-- Long Sword (d10, _bulky_)
-- Boiled Leather (1 Armor)
+- 3d6 금화
+- 식량 (3회용)
+- 랜턴
+- 기름통 (6회용)
+- 장검 (d10, _대형_)
+- 경화된 가죽 (1 장갑)
 
-## Why did you take the Oath?
+## 왜 서약했는가?
 
 |       |                                                                                                                                                                                                                                                                     |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Your family has a long tradition of serving, and you were trained from an early age on how to survive in the wild. When taking the Supply action, your yield increases by one step (e.g. 1d4 > 1d6). |
-| **2** | As a convict, the Oath was simply a means of avoiding punishment. Take a set of **Lockpicks** and the **Key** (_petty_) to a safehouse.                                                                                                                                          |
-| **3** | Noble-born, you joined to escape family trouble. Take a **Goosefelt Tarp** (fits two) that you stole before leaving home.                                                                                                                                           |
-| **4** | When your family lost everything, you took the Oath to avoid becoming a burden. Take extra **Rations** (3 uses) and a brace of **Throwing Knives** (d6).                                                                                                               |
-| **5** | Your life was saved by a member of the **Marchguard**, and you were inspired to join their ranks. Take a **Snare Trap** and a **Sketchbook** filled with detailed drawings.                                                                                         |
-| **6** | You were in a dark place and decided that your life needed a little direction. You're still not so sure it was the right choice. Take an **Oilskin Coat** and **Mapping Paper**.                                                                                   |
+| **1** | 당신의 가족은 오랫동안 그들에게 봉사해왔으며 어렸을 때부터 야생에서 살아남는 법을 훈련받았습니다. 보급 행동 시 수확량이 한 단계 증가합니다 (예: 1d4 > 1d6). |
+| **2** | 범죄자로서 서약은 단순히 처벌을 피하는 수단이었습니다. **자물쇠 따개**와 은신처로 가는 **열쇠** (_소형_)를 얻습니다.                                                                                                                                                          |
+| **3** | 귀족 가문 출신으로 가족 문제를 피하기 위해 가입했습니다. 집을 떠나기 전 훔친 **거위 털 방수포** (2명 수용)를 얻습니다.                                                                                                                                           |
+| **4** | 가족이 모든 걸 잃었을 때 짐이 되지 않기 위해 서약했습니다. 추가 **식량** (3회용)과 한 묶음의 **투척용 칼** (d6)을 얻습니다.                                                                                                               |
+| **5** | **변경수비대** 대원에게 목숨을 구해져 그들의 대열에 합류하기로 했습니다. **올가미 함정**과 상세한 그림이 가득한 **스케치북**을 얻습니다.                                                                                         |
+| **6** | 어두운 곳에 있었고 인생에 약간의 방향이 필요하다고 결정했습니다. 여전히 올바른 선택이었는지 확신하지 못합니다. **방수 코트**와 **지도 용지**를 얻습니다.                                                                                   |
 
-## What do you carry as proof of your Oath?
+## 서약의 증거로 무엇을 지니고 있는가?
 
 |       |                    |                                                                                                                                                                          |
 | ----- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Impressive Pin** | A metal badge of honor from the Guard. It can open doors but leaves a trail. _Petty_.                                                                                            |
-| **2** | **Oath Compass**   | Points not towards North, but instead to the nearest member of the Guard. It also lets you know when they're getting close.                                              |
-| **3** | **Pullstones**     | Two jet-black stones. When separated, the stones will always roll toward one another.                                                                         |
-| **4** | **Fireflask**      | Highly alcoholic, yet strangely delicious. When thrown, it creates a wall of flames 10ft high that burns out after a few minutes. 1 use.                                                                    |
-| **5** | **Pain Band**      | Touch an injured creature to transfer their wounds to you. (Exchange their lost STR with your own.) **Recharge**: Wear the ring while in perfect health. You will lose 1 STR, permanently. _Petty_. |
-| **6** | **Poacher's Woe**  | Strongly-scented arrows (3 uses). The scent is powerful enough to track with ease.                                                                                       |
+| **1** | **인상적인 배지** | 수비대의 명예로운 금속 배지. 문을 열 수 있지만 흔적을 남깁니다. _소형_.                                                                                            |
+| **2** | **서약 나침반**   | 북쪽이 아닌 가장 가까운 수비대 대원을 가리킵니다. 그들이 가까이 오고 있는지도 알려줍니다.                                              |
+| **3** | **끌기돌**     | 두 개의 검은 돌. 분리되면 돌들은 항상 서로를 향해 굴러갑니다.                                                                         |
+| **4** | **화염액**      | 매우 독하지만 이상하게 맛있습니다. 던지면 불길 벽을 만들어 10피트 높이로 몇 분 동안 타오릅니다. 1회용.                                                                    |
+| **5** | **고통끈**      | 다친 생물을 만져 그들의 상처를 당신에게 전달합니다. (그들의 잃은 근력을 당신의 근력과 교환합니다.) **충전**: 완벽히 건강한 상태에서 반지를 착용합니다. 영구적으로 1 근력을 잃습니다. _소형_. |
+| **6** | **밀렵꾼의 불행**  | 강한 향을 가진 화살 (3회용). 그 향은 추적하기 충분히 강력합니다.                                                                                       |

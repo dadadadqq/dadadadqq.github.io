@@ -1,49 +1,49 @@
 ---
 layout: default
-title: Warden's Guide
+title: 워든 가이드
 parent: Second Edition
 has_children: true
 nav_order: 3
 has_toc: false
 ---
 
-# Warden's Guide
+# 워든 가이드
 
-The Warden’s Guide includes tools, tables, and advice for running Cairn, with procedures to generate content that fits into the Vald setting or any fantasy world of your imagining. The following chapters offer resources and detailed instructions for creating immersive adventures, with an emphasis on dynamic gameplay and rich worldbuilding. It is our hope that with these pages anyone can craft unique, challenging experiences that engage and captivate players.
+워든 가이드는 Cairn을 운영하기 위한 도구, 표, 조언을 포함하고 있으며, Vald 설정이나 여러분이 상상하는 어떤 판타지 세계에도 맞는 콘텐츠를 생성하는 절차를 제공합니다. 다음 장들은 동적인 게임플레이와 풍부한 세계관 구축에 중점을 두고 몰입감 있는 모험을 만들기 위한 자료와 상세한 지침을 제공합니다. 이 페이지들로 누구나 플레이어를 참여시키고 사로잡는 독특하고 도전적인 경험을 만들 수 있기를 바랍니다.
 
 * * *
 
-## Table of Contents
+## 목차
 
-### Part 1: World Building
-- [Setting Seeds](setting-seeds)
-- [Factions](setting-seeds#factions)
-- [Topography](setting-seeds#topography)
-- [Dungeon Seeds](dungeon-seeds)
-- [Forest Seeds](forest-seeds)
+### 파트 1: 세계 구축
+- [설정 시드](setting-seeds)
+- [파벌](setting-seeds#factions)
+- [지형](setting-seeds#topography)
+- [던전 시드](dungeon-seeds)
+- [숲 시드](forest-seeds)
 
-### Part 2: Warden's Tools
-- [Bestiary](bestiary)
-- [Creating Monsters](creating-monsters)
-- [Naming Procedures](naming-procedures)
-- [Growth](growth)
-- [Spellbooks](spellbooks)
-- [Reliquary](reliquary)
+### 파트 2: 워든의 도구
+- [베스티어리](bestiary)
+- [몬스터 만들기](creating-monsters)
+- [명명 절차](naming-procedures)
+- [성장](growth)
+- [스펠북](spellbooks)
+- [유물](reliquary)
 
-### Part 3: Advice & Examples
-- [Creating Backgrounds](creating-backgrounds)
-- [Pointcrawls](pointcrawls)
-- _Frequently Asked Questions_
-  - [About the Example Party](about-the-example-party)
-  - [Dungeon Exploration](dungeon-exploration)
-  - [Detachments](detachments)
-  - [Wilderness Exploration](wilderness-exploration)
-  - [Bonds and Omens](bonds-and-omens)
-  - [Knowledge and Perception](knowledge-and-perception)
-  - [Saves](saves)
-  - [Variable Difficulty](variable-difficulty)
-  - [Combat](combat)
-- _The Setting of Vald_
+### 파트 3: 조언과 예시
+- [배경 만들기](creating-backgrounds)
+- [포인트크롤](pointcrawls)
+- _자주 묻는 질문_
+  - [예제 파티에 대하여](about-the-example-party)
+  - [던전 탐험](dungeon-exploration)
+  - [부대](detachments)
+  - [야생 탐험](wilderness-exploration)
+  - [인연과 징조](bonds-and-omens)
+  - [지식과 인식](knowledge-and-perception)
+  - [세이브](saves)
+  - [난이도 변화](variable-difficulty)
+  - [전투](combat)
+- _Vald의 설정_
   - [Vald](vald)
-  - [NPC Tables](npc-tables)
-- [Bibliography](bibliography)
+  - [NPC 테이블](npc-tables)
+- [참고문헌](bibliography)

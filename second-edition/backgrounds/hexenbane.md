@@ -1,46 +1,46 @@
 ---
-title: Hexenbane
+title: 마녀사냥꾼
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Hexenbane
+# 마녀사냥꾸
 
-> You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken.
+> 당신은 정의의 확고한 손에 달린 한 손가락일 뿐입니다. 다른 이들이 두려워하는 곳에 가며, 흔들리지 않고 꺾이지 않습니다.
 
-## Names
+## 이름
 
 Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Vestments of the Order (_petty_)
-- Blessed Tinctures
-- Silver Knife (d6)
-- Crossbow (d8, _bulky_)
+- 3d6 금화
+- 식량 (3회용)
+- 횃불 (3회용) 
+- 교단의 의복 (_소형_)
+- 축복받은 비약
+- 은칼 (d6)
+- 쇠뇌 (d8, _대형_)
 
-## To which order do you belong? Roll 1d6:
+## 어느 교단에 속하는가? 1d6 괴림:
 
 |       |                                                                                                                                                                                                                |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Order of the Crossroads**. Take a **Pocket Leyfinder**. It points to nearby ley lines and other sources of arcane power. If you lose it, the punishment is death.                                            |
-| **2** | **Order of the Bleeding Star**. Take a **Star-Iron Mace** (d8). It shines faintly in darkness and becomes very hot in the presence of witchcraft.                                                   |
-| **3** | **Order of the Glass Sigil**. Take a short sword (d8) and chainmail (2 Armor, _bulky_). You have contacts in most towns (the more rural, the better) willing to provide aid, food, or even weapons.                 |
-| **4** | **Order of the Blank Eye**. Take a **Voidglass Shard**. Peer through it to see invisible marks, creatures, and other magical effects. Lose the use of your eye for an hour afterwards (you are _deprived_). |
-| **5** | **Order of Canaas**. Once per day, you can change into a wolf. Take a **Quicksilver Chain**. Without it, you are unable to shift back.                                                                           |
-| **6** | **Order of the Silent Veil**. Take a **Quell Stone** (2 uses) wrapped in burlap. Extinguishes any nearby flames once exposed to air.                                                                             |
+| **1** | **교차로 교단**. **휴대용 레이파인더**를 얻습니다. 근처의 지맥과 다른 마법적 동력원을 가리킵니다. 잃어버리면 처벌은 죽음입니다.                                            |
+| **2** | **피 흘리는 별의 교단**. **별쇠 메이스** (d8)를 얻습니다. 어둠 속에서 희미하게 빛나며 주변에 마법이 존재할 때 매우 뜨거워집니다.                                                   |
+| **3** | **유리 인장의 교단**. 소검 (d8)과 쇠사슬 갑옷 (2 장갑, _대형_)을 얻습니다. 대부분의 마을에 연락책이 있으며 (더 시골일수록 좋음) 지원, 음식, 심지어 무기도 제공합니다.                 |
+| **4** | **빈 눈의 교단**. **공허 유리 파편**을 얻습니다. 통해 보면 보이지 않는 표식, 생물, 그리고 기타 마법 효과를 볼 수 있습니다. 사용 후 한 시간 동안 눈을 사용할 수 없습니다 (_결핍_). |
+| **5** | **카나스 교단**. 하루에 한 번 늑대로 변신할 수 있습니다. **수은 사슬**을 얻습니다. 그것 없이는 다시 변신할 수 없습니다.                                                                           |
+| **6** | **고요한 베일의 교단**. 삼배에 싸인 **진화석** (2회용)을 얻습니다. 공기에 노출되면 근처의 모든 불꽃을 꺼버립니다.                                                                             |
 
-## What was your vow? Roll 1d6:
+## 당신의 서약은 무엇이었는가? 1d6 굴림:
 
 |       |                                                                                                                                                                    |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Honesty**. Choose a **weapon type** (blunt, blade, etc). Attacks against you of this type are _impaired_. If your vow is broken, you lose d4 WIL.                |
-| **2** | **Poverty**. You carry the _Disassemble_ **Spellbook**. Only you can use it. If your vow is broken, it explodes (d12 STR damage). Disassemble: Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. _Regenerates any torn or defaced pages._                                 |
-| **3** | **Selflessness**. You are immune to **mind-altering magical effects**, such as _charm_, _hatred_, _frenzy_, and so on. If you break this vow, you lose d6 WIL.       |
-| **4** | **Mercy**. Choose a **weapon type** (blunt, blade, etc). Attacks with this weapon are _enhanced_. If your vow is broken, you can never use that weapon type again. |
-| **5** | **Charity**. Once per day you can shrug off a **Fatigue**. If your vow is ever broken, you permanently lose one inventory slot.                                           |
-| **6** | **Valor**. The first time you inflict **Critical Damage**, you receive +d4 HP, returning to the previous limit at the end of combat. If your vow is broken, you die.             |
+| **1** | **정직**. **무기 종류** 하나를 선택하세요 (둔기, 검 등). 당신에게 이 유형의 무기를 통한 공격은 _약화_됩니다. 서약을 깨면 d4 정신을 잃습니다.                |
+| **2** | **청빈**. _분해_ **주문서**를 지닙니다. 당신만 사용할 수 있습니다. 서약을 깨면 폭발합니다 (d12 근력 피해). 분해: 신체 부위를 고통이나 피해 없이 떼어내고 다시 붙일 수 있습니다. 여전히 제어할 수 있습니다. _찢기거나 훼손된 페이지를 재생시킬 수 있습니다._                                 |
+| **3** | **이타심**. **정신 변화 마법 효과**에 면역입니다. _매혹_, _증오_, _광기_ 등. 서약을 깨면 d6 정신을 잃습니다.       |
+| **4** | **자비**. **무기 종류** 하나를 선택하세요 (둔기, 검 등). 이 무기로의 공격은 _강화_됩니다. 서약을 깨면 그 무기 유형을 다시는 사용할 수 없습니다. |
+| **5** | **자선**. 하루에 한 번 **피로** 하나를 떨쳐버릴 수 있습니다. 서약을 깨면 소지품 슬롯 하나를 영구히 잃습니다.                                           |
+| **6** | **용기**. 첫 **치명적 피해**을 입힐 때 +d4 피격치를 받으며 전투 종료 시 이전 최대치로 돌아갑니다. 서약을 깨면 죽습니다.             |

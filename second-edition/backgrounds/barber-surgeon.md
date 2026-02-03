@@ -1,46 +1,46 @@
 ---
-title: Barber-Surgeon
+title: 이발-외과의
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Barber-Surgeon
+# 이발-외과의
 
-> You walk the line between healer and harrower, knowing the frailty of the flesh but also the secrets that lie within. With the right tools, life and death are merely words.
+> 당신은 치유자와 고문자 사이의 경계를 걷는다. 육체의 허약함뿐만 아니라 그 안에 숨겨진 비밀도 알고 있다. 적절한 도구만 있다면, 삶과 죽음은 단지 말일 뿐이다.
 
-## Names
+## 이름
 
-Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johanna  
+윌못, 패치, 란셋, 소본즈, 테오, 컷웰, 휴머, 란즈포드, 굿아이, 요한나  
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Bonesaw (d6)
-- Bandages (3 uses)
-- Leech (restores 1 STR, 3 uses)
-- Stained Medical Finery (_petty_)
+- 3d6 금화
+- 식량 (3회 사용)
+- 횃불 (3회 사용) 
+- 뼈톱 (d6)
+- 붕대 (3회 사용)
+- 거머리 (1 근력 회복, 3회 사용)
+- 얼룩진 의료복 (_소형_)
 
-## How have you "improved" yourself? Roll 1d6:
+## 당신은 자신을 어떻게 "개선"했는가? 1d6을 굴리시오:
 
 |       |                                                                                                                                                                                                                                                            |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | You have a replacement **eye** that can magnify objects, act as a telescope, and provide minimal night vision. You cannot wear anything metal on your head, and the presence of strong magnets make you _deprived_.                                                |
-| **2** | One **foot** is mostly metal (kick, d6), and you treat some Tough terrain as **Easy**. Carry a **Oil Can** (6 uses). Without a daily application, you are _deprived_ and noisy.    |
-| **3** | One of your fingers has been swapped, the bone replaced by gold and iron. Take a **Hook** and a **Screwdriver** that can attach to the fingertip.                                                                                                            |
-| **4** | Both **ears** have been surgically enhanced, tripling your hearing. You can focus on a specific sound, such as a conversation, at a great distance. You wear an ear flap to protect against sudden loud noises (WIL save to avoid temporary paralysis). |
-| **5** | Your **chest** is lined with alchemical sigils, _toughening the skin_ (1 Armor). Wearing other metallic armor nullifies the effect.                                                                                                                              |
-| **6** | One **arm** is fully metal and comes off at the shoulder. It can be used as a weapon (d8, _bulky_ when not attached) and can move independently if you are within sight of it.                                                                                 |
+| **1** | 당신은 물체를 확대하고, 망원경 역할을 하며, 최소한의 야간 시력을 제공하는 대체 **눈**을 가지고 있다. 머리에 금속을 착용하면 강한 자력으로 _결핍_ 상태가 된다.                                                |
+| **2** | 한쪽 **발**은 대부분 금속이며 (발차기, d6), 일부 험난한 지형을 **쉽게**이동한다. **기름통** (6회 사용)을 가져라. 매일 바르지 않으면 _결핍_ 상태가 되고 시끄럽다.    |
+| **3** | 당신의 손가락 중 하나가 교체되었으며, 뼈가 금과 철로 대체되었다. 손가락 끝에 부착할 수 있는 **갈고리**와 **스크류드라이버**를 가져라.                                                                                                            |
+| **4** | 양쪽 **귀**가 수술로 강화되어 청력이 세 배가 되었다. 먼 거리에서 대화와 같은 특정 소리에 집중할 수 있다. 갑작스러운 큰 소리로부터 보호하기 위해 귀덮개를 착용한다 (일시적 마비를 피하려면 정신 극복 굴림). |
+| **5** | 당신의 **가슴**에는 연금술 기호가 새겨져 있어 _피부를 단단하게_ 만든다 (1 장갑). 다른 금속 방어구를 착용하면 효과가 무효화된다.                                                                                                                              |
+| **6** | 한쪽 **팔**은 완전히 금속이며 어깨에서 분리된다. 무기로 사용할 수 있으며 (d8, 분리 시 _대형_), 당신이 볼 수 있는 범위 내에서 독립적으로 움직일 수 있다.                                                                                 |
 
-## What rare tool is essential to your work? Roll 1d6:
+## 당신의 작업에 필수적인 희귀한 도구는 무엇인가? 1d6을 굴리시오:
 
 |       |                    |                                                                                                                                                                   |
 | ----- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Regrowth Salve** | Regrows a body part over the course of a day. 1 use.                                                                                                                    |
-| **2** | **Graftgrub**      | A small worm that can fuse inanimate objects with parts of the body.  1 use.                                                                                      |
-| **3** | **Woundwax**       | Heals wounds from fire or chemicals (restoring full STR) but nothing else. 2 uses.                                                                               |
-| **4** | **Quicksilver**    | A stimulant. Go first in combat, and automatically pass any WIL saves for one hour. _Addictive_: Save STR or become _deprived_ after 24 hours without it. 4 uses. |
-| **5** | **Pneuma Pump**    | Portable iron lungs (_bulky_). Enables life-saving surgery or underwater breathing.                                                                               |
-| **6** | **Lodestone**      | Draws out dangerous elements from the body and acts as a powerful magnetic force.                                                                                 |
+| **1** | **재생 연고** | 하루에 걸쳐 신체 부위를 재생한다. 1회 사용.                                                                                                                    |
+| **2** | **이식 구더기**      | 움직이지 않는 물체를 신체 부위와 융합시킬 수 있는 작은 벌레. 1회 사용.                                                                                      |
+| **3** | **상처 밀랍**       | 불이나 화학 물질로 인한 상처를 치유한다 (근력 완전 회복) 하지만 다른 것은 치유하지 못한다. 2회 사용.                                                               |
+| **4** | **수은**    | 자극제. 전투에서 먼저 행동하고, 1시간 동안 모든 정신 극복 굴림을 자동으로 통과한다. _중독성_: 근력 극복 굴림 실패 시 24시간 동안 없으면 _결핍_ 상태. 4회 사용. |
+| **5** | **공기 펌프**    | 휴대용 인공 호흡기 (_대형_). 생명을 구하는 수술이나 수중 호흡을 가능하게 한다.                                                                               |
+| **6** | **자철석**      | 신체에서 위험한 요소를 끌어내고 강력한 자기력으로 작용한다.                                                                                 |

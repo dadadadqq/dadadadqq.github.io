@@ -1,301 +1,301 @@
 ---
 layout: default
-title: Procedures
+title: 절차
 parent: Player's Guide
 grand_parent: Second Edition
 ---
 
-# Procedures
+# 절차
 
-## Dungeon Exploration
+## 던전 탐험
 
-### The Basics
+### 기본 사항
 
-- The dungeon exploration cycle (see below) is divided into a series of **Turns**, **Actions**, and their consequences. 
-- On their **turn**, a character can move a distance equal to their torchlight's perimeter (about 40ft), and perform one **action**. Players can use their **action** to move up to three times that distance though that will increase the chance of triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
-- The **Warden** should present obvious information about an area and its dangers freely and at no cost. Moving quickly or without caution may increase the chance of encountering a wandering monster, springing a trap, or triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
+- 던전 탐험 주기(아래 참조)는 일련의 **턴**, **행동**, 그리고 그 결과로 나뉘어집니다.
+- 자신의 **턴**에, 캐릭터는 횃불 빛의 둘레(약 40피트) 거리만큼 이동하고 하나의 **행동**을 수행할 수 있습니다. 플레이어는 **행동**을 사용하여 그 거리의 세 배까지 이동할 수 있지만, 그렇게 하면 [던전 사건](#dungeon-events) 표에서 굴릴 확률이 증가합니다.
+- **워든**은 지역과 그 위험에 대한 명백한 정보를 자유롭고 대가 없이 제시해야 합니다. 빠르게 또는 조심성 없이 이동하면 배회하는 몬스터를 만날 확률, 함정을 발동시킬 확률, 또는 [던전 사건](#dungeon-events) 표에서 굴릴 확률이 증가할 수 있습니다.
 
-> Although the term "dungeon" is used here, it can mean any dangerous locale (mansions, farmhouses, adventure site, etc).
+> 여기서 "던전"이라는 용어가 사용되지만, 이는 모든 위험한 장소(저택, 농가, 모험 장소 등)를 의미할 수 있습니다.
 
-### Dungeon Exploration Cycle
+### 던전 탐험 주기
 
-1. The **Warden** describes the party's surroundings and any immediate dangers (combat, traps, surprises, etc.). The players then declare their character's intended movements and **actions**. 
-2. The Warden resolves the **actions** of each character simultaneously, along with any **actions** that are already in progress. Remember, the Die of Fate can be a useful tool whenever the Warden is in doubt!
-3. The players record any loss of resources and any new conditions (i.e. item use, _deprivation_, etc). The cycle then begins again. If appropriate, the **Warden** should roll on the [**Dungeon Events**](#dungeon-events) table. Keep common sense in mind when interpreting the results! 
+1. **워든**은 파티가 처한 주변 환경과 즉각적인 위험(전투, 함정, 기습 등)을 묘사합니다. 그 뒤 플레이어는 캐릭터의 이동과 **행동**을 선언합니다.
+2. 워든은 각 캐릭터의 **행동**을 (이미 진행 중인 행동까지 포함해) 동시에 처리합니다. 워든이 판단에 확신이 서지 않을 때는 **운명의 주사위**가 유용합니다!
+3. 플레이어는 자원 소모와 새로운 상태(예: 아이템 사용, _결핍_ 등)를 기록합니다. 그 다음 주기가 다시 시작됩니다. 상황에 따라 워든은 [**던전 사건**](#dungeon-events) 표에서 굴려야 합니다. 결과 해석에는 상식을 우선하세요!
 
-### Dungeon Events
+### 던전 사건 {#dungeon-events}
 
-Exploring a dungeon is always dangerous, and time must always be weighed against the risk of awakening the location's denizens, natural hazards, and worse.  
-When the party:
+던전 탐험은 언제나 위험합니다. 시간은 언제나 이 장소의 거주자, 자연 재해, 그보다 더 끔찍한 것들을 깨울 위험과 함께 저울질되어야 합니다.
+파티가 다음을 행하면:
 
-- Spends more than one dungeon cycle in a single room or location 
-- Moves quickly or haphazardly through a room
-- Moves into a new area, level, or zone
-- Creates a loud disturbance 
+- 한 방이나 한 장소에서 던전 탐험 주기를 1회 초과해 머문다
+- 방을 빠르게 또는 대충 가로지른다
+- 새로운 구역/층/영역으로 이동한다
+- 큰 소란을 일으킨다
 
-**Roll on the table below.**
+**아래 표에서 굴리세요.**
 
 |       |                 |                                                                                                           |
 | :---: | :-------------: | :-------------------------------------------------------------------------------------------------------: |
-| **1** |  **Encounter**  |    Roll on an encounter table. Possibly **hostile**. (See [Reactions](/second-edition/players-guide/core-rules/#reactions).)    |
-| **2** |    **Sign**     |                  A clue, spoor, track, abandoned lair, scent, victim, etc is discovered.                  |
-| **3** | **Environment** |      Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
-| **4** |    **Loss**     | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
-| **5** | **Exhaustion**  |   The party must rest (triggering another roll on this table), add a **Fatigue**, or consume a ration.    |
-| **6** |    **Quiet**    |                          The party is left alone (and safe) for the time being.                           |
+| **1** |  **조우**  | 조우 표에서 굴립니다. **적대적**일 수도 있습니다. ([반응](/second-edition/players-guide/core-rules/#reactions) 참조) |
+| **2** |  **징후**  | 단서, 흔적, 발자국, 버려진 소굴, 냄새, 희생자 등이 발견됩니다. |
+| **3** | **환경** | 주변 상황이 변하거나 악화됩니다. 물이 차오르고, 천장이 무너지고, 의식이 완성 직전에 다다르는 등. |
+| **4** | **손실** | 횃불이 꺼지거나, 유지 중인 주문이 사그라드는 등. 파티는 이동하기 전에 그 효과를 해결해야 합니다. |
+| **5** | **탈진** | 파티는 휴식해야 합니다(이 표에서 다시 굴림), **피로** 1개를 추가하거나, 식량 1회분을 소비해야 합니다. |
+| **6** | **고요** | 당분간 파티는 방해받지 않습니다(그리고 안전합니다). |
 
-### Actions
+### 행동
 
-- **Actions** are any non-passive activities, such as _searching for traps_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _dodging a trap_, _running away_, _resting_, etc. 
-- Some **actions** have special rules (see below), while others may take multiple **turns** to complete. 
-- Loud or noticeable **actions** may also trigger an **encounter** with the dungeon's denizens. 
+- **행동**은 수동적이지 않은 모든 활동을 뜻합니다. 예: _함정 수색_, _문 강제로 열기_, _위험을 듣기_, _함정 해제_, _전투에서 적과 교전_, _주문 시전_, _함정 회피_, _도주_, _휴식_ 등.
+- 일부 **행동**은 특별 규칙이 있고(아래 참조), 어떤 행동은 완료까지 여러 **턴**이 걸릴 수도 있습니다.
+- 소란스럽거나 눈에 띄는 **행동**은 던전 거주자와의 **조우**를 유발할 수도 있습니다.
 
-#### Searching
+#### 수색
 
-- A character can spend a **turn** performing an _exhaustive_ search of **one** object or location in an area, revealing any relevant hidden treasure, traps, secret doors, etc. 
-- Larger rooms and difficult or complex dungeon terrain may take a few **turns** to properly search.
-- Searching a room _first_ is a safer way to explore the dungeon, but it has a steep cost: time.
+- 캐릭터는 **턴** 1개를 사용해 한 구역의 **한 가지** 물체 또는 장소를 _철저히_ 수색할 수 있습니다. 그러면 관련된 숨겨진 보물, 함정, 비밀문 등이 드러납니다.
+- 방이 크거나 지형이 어렵고 복잡하다면, 제대로 수색하는 데 몇 **턴**이 필요할 수 있습니다.
+- 방을 _먼저_ 수색하는 것은 더 안전한 탐험 방식이지만, 대가가 큽니다: 시간.
 
-#### Resting
+#### 휴식
 
-- A character can spend a turn **resting** to restore all **HP**.
-- A light source and a _safe location_ are required to **rest**. Present or oncoming danger makes **rest** impossible.
-- **Resting** does not restore **Fatigue**, as it is impossible to safely **Make Camp** in a dungeon.
+- 캐릭터는 **턴** 1개를 사용해 **휴식**하고 모든 **HP**를 회복할 수 있습니다.
+- **휴식**에는 광원과 _안전한 장소_가 필요합니다. 현재 또는 임박한 위험이 있으면 **휴식**은 불가능합니다.
+- 던전에서는 안전하게 **야영**할 수 없으므로, **휴식**으로는 **피로**를 회복할 수 없습니다.
 
-## Panic
+## 공황
 
-- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
-- A _panicked_ character must make a **WIL** **save** to overcome their condition as an **action** on their **turn**.
-- A _panicked_ character has 0 **HP**, does not act in the first round of combat, and all of their attacks are _impaired_.  
+- 적에게 포위되거나, 어둠에 완전히 휩싸이거나, 가장 큰 공포와 맞닥뜨린 캐릭터는 _공황_에 빠질 수 있습니다. 통상적으로 통제력을 잃고 _공황 상태_가 되는 것을 피하려면 정신(WIL) 극복 굴림이 필요합니다.
+- _공황 상태_인 캐릭터는 자신의 **턴**에 **행동**으로 정신(WIL) 극복 굴림을 하여 그 상태를 극복해야 합니다.
+- _공황 상태_인 캐릭터는 **HP가 0**이며, 전투 첫 라운드에 행동하지 못하고, 모든 공격이 _약화_됩니다.
 
-### Dungeon Elements
+### 던전 요소
 
-#### Light
-- Torches and other radial sources of light illuminate 40ft of dungeon and beyond that only a dim outline of objects. Torches last until they are put out by a character or their environment.
-- A torch can be lit 3 times before permanently degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
-- Characters without a light source may suffer from _panic_ until their situation is remedied. 
+#### 빛
+- 횃불과 다른 방사형 광원은 던전의 약 40피트를 비추며, 그 너머는 사물의 흐릿한 윤곽만 보입니다. 횃불은 캐릭터나 환경에 의해 꺼지기 전까지 지속됩니다.
+- 횃불은 영구적으로 망가지기 전까지 3번 점화할 수 있습니다. 랜턴은 기름통 1개당 6번 다시 켤 수 있지만, 소지품 칸을 더 차지합니다.
+- 광원이 없는 캐릭터는 상황이 해결될 때까지 _공황_을 겪을 수 있습니다.
 
-#### Doors
+#### 문
 
-- Doors and entryways may be locked, stuck, or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue) or through raw ability. 
-- The party's marching order determines who is most impacted by whatever lies beyond a door.
-- A character can detect, through careful observation (listening, smelling, etc.), signs of life and other hazards through nearby doors and walls.
+- 문과 출입구는 잠겨 있거나, 끼어 있거나, 완전히 막혀 있을 수 있습니다. 캐릭터는 가진 자원(말뚝, 접착제 등)이나 순수한 힘으로 문을 강제로 열거나(또는 쐐기를 박아 닫아둘 수도) 시도할 수 있습니다.
+- 문 너머에 무엇이 있든, 파티의 행군 순서는 누가 가장 큰 영향을 받는지 결정합니다.
+- 캐릭터는 주의 깊은 관찰(듣기, 냄새 맡기 등)로 가까운 문과 벽 너머의 생명 징후나 다른 위험을 감지할 수 있습니다.
 
-#### Traps 
+#### 함정
 
-- A cautious character should be presented with any and all information that would allow them the opportunity to _avoid_ springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise will have a 2-in-6 chance.
-- **Traps** can usually be detected by carefully **searching** a room.
-- Damage from traps is taken from Attributes (usually **STR** or **DEX**) and _not_ from **HP**. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
+- 신중한 캐릭터에게는 함정을 _피할_ 기회를 주는 데 필요한 모든 정보가 제시되어야 합니다. 반대로 상황을 모르고 행동한 캐릭터는 서사에 따라 함정을 발동시키거나, 그렇지 않다면 2-in-6 확률로 함정을 발동시킵니다.
+- **함정**은 보통 방을 주의 깊게 **수색**하면 발견할 수 있습니다.
+- 함정 피해는 **HP**가 아니라 능력치(보통 **근력** 또는 **민첩**)에서 차감합니다. 장갑은 적용 가능한 경우에만 피해를 줄입니다(예: 방패는 유독 가스 피해를 줄여주지 않습니다).
 
-## Wilderness Exploration
+## 야외 탐험
 
-### Watches
+### 행동 시간
 
-- A day is divided into three **watches**, called _morning_, _afternoon_, and _night_. 
-- Each character can choose _one_ [**Wilderness Action**](#wilderness-actions) per **watch**. 
-- If the characters split up, each group is treated as an independent entity.
+- 하루는 8시간 단위의 세 **행동 시간**으로 나뉘며, 각각 _아침_, _오후_, _밤_이라 부릅니다.
+- 각 캐릭터는 **행동 시간**마다 _한 번_ [**야외 행동**](#wilderness-actions)을 선택할 수 있습니다.
+- 캐릭터들이 흩어지면, 각 그룹은 독립된 파티로 취급합니다.
 
-### Points
+### 지점
 
-- Potential destinations on a map are called **points**. 
-- One or more **watches** may be required to journey between two **points** on a map, depending on the path, terrain, weather, and party status.
-- The party has a rough idea of the challenges involved to get to their destination, but rarely any specifics. 
+- 지도 위의 잠재적인 목적지를 **지점**이라 부릅니다.
+- 지도에서 두 **지점** 사이를 이동하려면 경로, 지형, 날씨, 파티의 상태에 따라 하나 이상의 **행동 시간**이 필요할 수 있습니다.
+- 파티는 목적지까지 가는 데 어떤 난관이 있을지 대략은 알지만, 구체적인 내용까지 알기는 드뭅니다.
 
-### Travel Duration
+### 이동 시간
 
-Travel time in Cairn is counted in watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third watch of the day resting, one can use "days" as a shorthand for travel time.
+Cairn에서 이동 시간은 **행동 시간**으로 셉니다. 하루는 8시간짜리 세 구간으로 나뉘지만, 대부분의 파티는 하루의 세 번째 행동 시간을 휴식에 쓰므로 이동 시간은 편의상 “며칠”로도 표현할 수 있습니다.
 
-To determine the distance between two points, combine all penalties from the path, terrain, and weather difficulty tables, taking into account any changes to those elements along the route. For travel via waterways, refer to the surrounding terrain difficulty. For especially vast terrain, assign a penalty of up to +2 watches to the journey.
+두 지점 사이의 거리를 정할 때는 경로/지형/날씨 난이도 표에서 얻는 모든 페널티를 합산하되, 이동 경로 중 요소가 바뀌는 구간이 있다면 그 변화도 반영하세요. 수로를 통한 이동은 주변 지형 난이도를 따릅니다. 특히 광대한 지형이라면 여정에 최대 +2 행동 시간까지 추가 페널티를 부여할 수 있습니다.
 
-The weather, terrain, darkness, injured party members, and other obstacles can impact travel or even make it impossible! In some cases, the party may need to add **Fatigue** or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party’s travel speed or even negate certain penalties.
+날씨, 지형, 어둠, 부상당한 동료, 기타 장애물은 이동에 영향을 주거나 아예 불가능하게 만들 수도 있습니다! 경우에 따라 파티는 속도를 유지하기 위해 **피로**를 추가하거나 자원을 소비해야 할 수 있습니다. 탈것, 안내자, 지도는 파티의 이동 속도를 올리거나 특정 페널티를 상쇄할 수 있습니다.
 
-### Path Difficulty
+### 경로 난이도
 
 |            |             |                          |
 | ---------- | ----------- | ------------------------ |
-| **Path**   | **Penalty** | **Odds of Getting Lost** |
-| Roads      | None        | None                     |
-| Trails     | +1 Watch    | 2-in-6                   |
-| Wilderness | +2 Watches  | 3-in-6                   |
+| **경로**   | **페널티** | **길 잃을 확률** |
+| 도로      | 없음        | 없음                     |
+| 산길     | +1 행동 시간    | 2-in-6                   |
+| 야지 | +2 행동 시간  | 3-in-6                   |
 
 |                   |             |
 | ----------------- | ----------- |
-| **Path Distance** | **Penalty** |
-| Short             | +1 Watch    |
-| Medium            | +2 Watches  |
-| Long              | +3 Watches  |
+| **경로 거리** | **페널티** |
+| 짧음             | +1 행동 시간    |
+| 보통            | +2 행동 시간  |
+| 길음              | +3 행동 시간  |
 
-## Terrain Difficulty
+## 지형 난이도
 
 |                |                               |             |                                                                                                       |
 | -------------- | ----------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
-| **Difficulty** | **Terrain**                   | **Penalty** | **Factors**                                                                                           |
-| **Easy**       | **Plains, plateaus, valleys** | none        | _Safe areas for rest, fellow travelers, good visibility_                                              |
-| **Tough**      | **Forests, deserts, hills**   | +1 Watch    | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
-| **Perilous**   | **Mountains, jungles, swamp** | +2 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
+| **난이도** | **지형**                   | **페널티** | **요소**                                                                                           |
+| **쉬움**       | **평야, 고원, 계곡** | 없음        | _안전한 휴식 지점, 동행하는 여행자, 좋은 시야_                                              |
+| **험함**      | **숲, 사막, 구릉**   | +1 행동 시간    | _야생동물, 침수, 장비 파손, 낙석, 위험한 은신처, 사냥꾼의 함정_            |
+| **위험함**   | **산, 밀림, 늪** | +2 행동 시간  | _유사(流砂), 빨아들이는 진흙, 숨 막히는 덩굴, 오염된 물, 독성 식물과 동물, 열악한 항법_ |
 
-### Weather
+### 날씨
 
-Each day, the Warden should roll on the weather table for the appropriate season. If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A squall becomes a hurricane, a storm floods the valley, etc.
+매일 워든은 해당 계절의 날씨 표에서 굴립니다. "**극한**" 결과가 연속으로 두 번 나오면, 날씨는 "**대재앙**"으로 치닫습니다. 소나기가 허리케인으로 변하고, 폭풍이 계곡을 범람시키는 식입니다.
 
-#### Weather Type
+#### 날씨 종류
 
 |        |            |            |            |            |
 | :----: | :--------: | :--------: | :--------: | :--------: |
-| **d6** | **Spring** | **Summer** |  **Fall**  | **Winter** |
-| **1**  |    Nice    |    Nice    |    Fair    |    Fair    |
-| **2**  |    Fair    |    Nice    |    Fair    | Unpleasant |
-| **3**  |    Fair    |    Fair    | Unpleasant | Inclement  |
-| **4**  | Unpleasant | Unpleasant | Inclement  | Inclement  |
-| **5**  | Inclement  | Inclement  | Inclement  |  Extreme   |
-| **6**  |  Extreme   |  Extreme   |  Extreme   |  Extreme   |
+| **d6** | **봄** | **여름** |  **가을**  | **겨울** |
+| **1**  |    쾌청    |    쾌청    |    양호    |    양호    |
+| **2**  |    양호    |    쾌청    |    양호    | 불쾌 |
+| **3**  |    양호    |    양호    | 불쾌 | 악천후  |
+| **4**  | 불쾌 | 불쾌 | 악천후  | 악천후  |
+| **5**  | 악천후  | 악천후  | 악천후  |  극한   |
+| **6**  |  극한   |  극한   |  극한   |  극한   |
 
-#### Weather Difficulty
+#### 날씨 난이도
 
 |                  |                                                                                                         |                                                           |
 | :--------------: | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-|   **Weather**    | **Effect**                                                                                              | **Examples**                                              |
-|     **Nice**     | Favorable conditions for travel.                                                                        | _Clear skies, sunny_                                      |
-|     **Fair**     | Favorable conditions for travel.                                                                        | _Overcast, breezy_                                        |
-|  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                                                | _Gusting winds, rain showers, sweltering heat, chill air_ |
-|  **Inclement**   | Add a **Fatigue** _or_ add **+1 watch**. Increase terrain **Difficulty** by a step.  | _Thunderstorms, lightning, rain, muddy ground_           |
-|   **Extreme**    | Add a **Fatigue** _and_ add **+1 watch**. Increase terrain **Difficulty** by a step. | _Blizzards, freezing winds, flooding, mud slides_         |
-| **Catastrophic** | Most parties cannot travel under these conditions.                                                      | _Tornados, tidal waves, hurricane, volcanic eruption_     |
+|   **날씨**    | **효과**                                                                                              | **예시**                                              |
+|     **쾌청**     | 이동에 유리한 조건입니다.                                                                        | _맑은 하늘, 화창함_                                      |
+|     **양호**     | 이동에 유리한 조건입니다.                                                                        | _흐림, 산들바람_                                        |
+|  **불쾌**  | **피로** 1개를 추가 _또는_ 여정에 **행동 시간** 1개를 추가합니다.                                                | _돌풍, 소나기, 찌는 더위, 찬 공기_ |
+|  **악천후**   | **피로** 1개를 추가 _또는_ **행동 시간 +1**. 지형 **난이도**를 한 단계 올립니다.  | _뇌우, 번개, 폭우, 진흙투성이 땅_           |
+|   **극한**    | **피로** 1개를 추가 _그리고_ **행동 시간 +1**. 지형 **난이도**를 한 단계 올립니다. | _눈보라, 살을 에는 바람, 범람, 산사태_         |
+| **대재앙** | 대부분의 파티는 이런 조건에서는 이동할 수 없습니다.                                                      | _토네이도, 해일, 허리케인, 화산 폭발_     |
 
-### Wilderness Exploration Cycle
+### 야외 탐험 주기
 
-1. The **Warden** describes the current **point** or **region** on the map and how the path, weather, terrain, or party status might affect **travel speed**. The party plots or adjusts a given course towards their destination. 
-2. Each party member chooses a single **Wilderness Action**. The **Warden** narrates the results and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
-3. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc), and the cycle repeats. 
+1. **워든**은 지도에서 현재의 **지점** 또는 **지역**을 묘사하고, 경로/날씨/지형/파티 상태가 **이동 속도**에 어떤 영향을 주는지 알려줍니다. 파티는 목적지를 향해 경로를 세우거나 조정합니다.
+2. 파티원 각자는 **야외 행동** 1개를 선택합니다. **워든**은 결과를 서술한 뒤 [**야외 사건**](#wilderness-events) 표에서 굴립니다. 파티는 그 결과에 대응합니다.
+3. **플레이어**와 **워든**은 자원 소모와 새로운 상태(예: 횃불 사용, _결핍_ 등)를 기록하고, 주기가 반복됩니다.
 
-### Wilderness Events
+### 야외 사건 {#wilderness-events}
 
 |       |                 |                                                                                                                                                                                                                            |
 | ----- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Encounter**   | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/second-edition/players-guide/core-rules.md/#reactions) if applicable.                                                                               |
-| **2** | **Sign**        | The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.                                                                                      |
-| **3** | **Environment** | A shift in weather or terrain.                                                                                                                                                                                             |
-| **4** | **Loss**        | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort.                                                                                                                        |
-| **5** | **Exhaustion**  | The party encounters a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties. |
-| **6** | **Discovery**   | The party finds food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.                                                                                    |
+| **1** | **조우**   | 해당 지형이나 장소의 조우 표에서 굴립니다. 상황에 따라 NPC [반응](/second-edition/players-guide/core-rules.md/#reactions)도 잊지 말고 굴리세요. |
+| **2** | **징후**        | 파티는 주변의 조우, 지역, 숨겨진 요소, 혹은 근처 구역에 대한 정보로 이어지는 단서/흔적을 발견합니다. |
+| **3** | **환경** | 날씨나 지형이 변합니다. |
+| **4** | **손실**        | 파티는 자원(식량, 도구 등)이나 시간, 노력의 대가를 치르는 선택을 마주합니다. |
+| **5** | **탈진**  | 파티는 장애물을 만나며, 더 큰 노력/주의/지연이 필요합니다. 추가 시간을 쓰거나(**야외 행동** 1회 추가), 어려움을 표현하기 위해 PC의 소지품에 **피로**를 추가해야 할 수 있습니다. |
+| **6** | **발견**   | 파티는 음식, 보물, 또는 다른 유용한 자원을 찾습니다. 워든은 대신 그 지역의 핵심 요소를 드러내기로 선택할 수도 있습니다. |
 
-### Wilderness Elements
+### 야외 요소
 
-#### Night
+#### 밤
 
-- The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
-- Traveling at night is always more dangerous! The **Warden** should roll _twice_ on the [**Wilderness Events**](#wilderness-events) table.
-- Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
+- 파티는 밤에 이동하고 낮에 쉬는 방식을 선택할 수 있지만, 야간 이동은 훨씬 느리고 위험합니다!
+- 밤에 이동하는 것은 언제나 더 위험합니다. **워든**은 [**야외 사건**](#wilderness-events) 표에서 _두 번_ 굴려야 합니다.
+- 어떤 지형과 날씨는 밤에 더 이동하기 쉬울 수도 있습니다(예: 사막). **워든**은 이런 이점과 다른 위험 요소들을 함께 저울질해야 합니다.
 
-#### Sleep
+#### 수면
 
-- The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
-- Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
-- If the party skips the **Make Camp** action, they each add a **Fatigue** to their inventory and are _deprived_. Additionally, traveling when sleep-deprived raises the terrain **Difficulty** by a step (i.e. _Easy_ becomes _Tough_).
+- 하루의 마지막 **행동 시간**는 보통 [**야영**](#make-camp) 행동에 사용됩니다.
+- 캐릭터는 보통 매일 잠을 자야 합니다. 사소한 방해를 넘어서는 중단은 수면의 이점을 무효화하거나 취소할 수 있습니다.
+- 파티가 **야영** 행동을 건너뛰면, 각자는 소지품에 **피로** 1개를 추가하고 _결핍_ 상태가 됩니다. 또한 수면 부족 상태로 이동하면 지형 **난이도**가 한 단계 상승합니다(예: _쉬움_ → _험함_).
 
-#### Light
+#### 빛
 
-- Torches and other radial sources of light illuminate 40ft ahead of the party, but beyond that only provides a dim outline of objects.
-- Characters without a light source may suffer from _panic_ until their situation is remedied. 
-- Environmental conditions (sudden gusts of wind, dust, water, etc.) can easily blow out a torch.
+- 횃불과 다른 방사형 광원은 파티의 앞쪽 약 40피트를 비추며, 그 너머는 사물의 흐릿한 윤곽만 보입니다.
+- 광원이 없는 캐릭터는 상황이 해결될 때까지 _공황_을 겪을 수 있습니다.
+- 환경(갑작스런 돌풍, 먼지, 물 등)은 횃불을 쉽게 꺼뜨릴 수 있습니다.
 
-##### Light Sources
+##### 광원
 
-- A torch can be lit 3 times before degrading. 
-- A lantern can be relit indefinitely but requires a separate oil can (6 uses).
+- 횃불은 망가지기 전까지 3번 점화할 수 있습니다.
+- 랜턴은 얼마든지 다시 켤 수 있지만, 별도의 기름통이 필요합니다(6회용).
 
-### Wilderness Actions
+### 야외 행동 {#wilderness-actions}
 
-#### Travel
+#### 이동
 
-- Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. This action is typically taken by the entire party as one.
-- The party rolls 1d6 to see if they get lost along the way. This risk can increase or decrease, depending on path **Difficulty**, maps, party skills, and guides.
-- If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route. 
+- 이동을 시작합니다. 거리와 비례해 주변 구역의 뚜렷한 장소/지형/특징이 드러납니다. 이 행동은 보통 파티 전체가 함께 수행합니다.
+- 파티는 이동 중 길을 잃는지 확인하기 위해 1d6을 굴립니다. 이 위험은 경로 **난이도**, 지도, 파티의 기술, 안내자 등에 따라 늘거나 줄 수 있습니다.
+- 길을 잃었다면, 파티는 길을 되찾기 위해 **야외 행동** 1회를 추가로 써야 할 수 있습니다. 그렇지 않다면, 파티는 경로상의 다음 **지점**에 도착합니다.
 
-> Remember to compare the results of getting lost to the relevant path **Difficulty**. 
+> 길을 잃었는지의 굴림 결과는 해당 경로 **난이도**와 비교하는 것을 잊지 마세요.
 
-#### Explore
+#### 탐사
 
-- One or more party members search a large area, searching for hidden features, scouting ahead, or treading carefully.
-- A Location (shelter, village, cave, etc.) or Feature (geyser, underground river, beached ship, etc.) is discovered.
-- The **Travel** action is still required to _leave_ the current area, even if it has been completely explored.
+- 파티원 한 명 이상이 넓은 지역을 살피며 숨겨진 요소를 찾고, 앞을 정찰하거나, 조심스럽게 이동합니다.
+- 장소(피난처, 마을, 동굴 등) 또는 특징(간헐천, 지하강, 좌초선 등)을 발견합니다.
+- 현재 구역을 완전히 탐색했더라도, 그곳을 _떠나기_ 위해서는 **이동** 행동이 여전히 필요합니다.
 
-#### Supply
+#### 재보급
 
-- One or more party members may hunt, fish, or forage for food, collecting 1d4 **Rations** (3 uses each). The chance of a greater bounty increases with each additional participant (e.g. 1d4 becomes 1d6, up to a maximum of 1d12). 
-- Relevant experience or equipment may also increase the bounty collected.
-- The party may encounter homes and small villages, spending gold and a full **watch** to resupply. 
+- 파티원 한 명 이상이 사냥/낚시/채집으로 식량을 구해 1d4 **식량**을 얻을 수 있습니다(각 3회용). 참가자가 늘어날수록 더 많은 수확을 얻을 확률이 올라갑니다(예: 1d4 → 1d6, 최대 1d12).
+- 관련 경험이나 장비도 수확량을 늘릴 수 있습니다.
+- 파티는 민가나 작은 마을을 만나, 금화를 쓰고 **행동 시간** 1개를 들여 재보급할 수 있습니다.
 
-#### Make Camp
+#### 야영 {#make-camp}
 
-- The party stops to set up camp in the wilds. Each party member (and their mounts) consumes a **Ration**.
-- A **lookout rotation** is set so that the party can sleep unmolested. A smaller party may need to risk sleeping unguarded or switch off sleeping over multiple days.
-- Party members that were able to rest remove all of **Fatigue** from their inventory.
+- 파티는 야외에서 멈춰 야영을 준비합니다. 파티원(및 탈것)은 각자 **식량** 1회분을 소비합니다.
+- 파티가 방해받지 않고 잘 수 있도록 **망보기 교대**를 정합니다. 인원이 적은 파티는 무방비로 잠드는 위험을 감수하거나, 며칠에 걸쳐 번갈아 자야 할 수도 있습니다.
+- 제대로 쉬었다면, 파티원은 소지품에서 **피로**를 모두 제거합니다.
 
-## Downtime
+## 다운타임
 
-Between game sessions, players can engage in a variety of activities such as research, following up on leads, improving skills, or building relationships. A PC is limited to one **Downtime Action** at a time. These actions cannot be undertaken in unsafe conditions or while a character is in recovery. A character cannot perform an action if it would put their safety at risk.
+게임 세션 사이에, 플레이어는 조사, 실마리 추적, 기술 향상, 관계 구축 같은 다양한 활동을 할 수 있습니다. PC는 한 번에 **다운타임 행동** 1개만 수행할 수 있습니다. 이러한 행동은 안전하지 않은 상황에서, 또는 캐릭터가 회복 중일 때 수행할 수 없습니다. 또한 자신의 안전을 위협하는 행동은 수행할 수 없습니다.
 
-### Milestones
+### 마일스톤
 
-For activities requiring multiple steps, the **Warden** assigns 1-5 **Milestones** for players to track progress. Each **Milestone** represents a comprehensive, non-interactive task. The **Warden** may present different strategies to achieve these goals, each with distinct **Milestones**. Depending on the unfolding events in the game, the **Warden** is also empowered to introduce new **Milestones** or discard existing ones.
+여러 단계가 필요한 활동의 경우, **워든**은 진행 상황을 추적하기 위해 플레이어에게 1~5개의 **마일스톤**을 부여합니다. 각 **마일스톤**은 포괄적이며 상호작용이 필요 없는 과업 1개를 뜻합니다. **워든**은 같은 목표라도 서로 다른 전략을 제시할 수 있으며, 전략마다 다른 **마일스톤**을 둘 수 있습니다. 또한 게임에서 벌어지는 사건에 따라 **워든**은 새로운 **마일스톤**을 도입하거나 기존 것을 폐기할 권한이 있습니다.
 
-### Costs
+### 비용
 
-PCs can complete individual **Milestones** by taking a **Downtime Action** and paying its respective **Cost**. If a character is unable to pay the **Cost**, they may have to find some other way to achieve their goal. A few examples of **Cost**: 
-- **Gold**: Direct payment of gold from a character's inventory.
-- **Resources**: Non-monetary costs such as material goods, specific common items, and so on. 
-- **Reputation**: Betting on a character's renown, personality, presence, social connections, etc.
-- **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.
+PC는 **다운타임 행동** 1회를 사용하고 해당 **비용**을 지불함으로써 개별 **마일스톤**을 완료할 수 있습니다. 캐릭터가 **비용**을 지불할 수 없다면, 목표를 달성하기 위한 다른 방법을 찾아야 할 수도 있습니다. **비용**의 예시:
+- **금화**: 캐릭터 소지품에서 금화를 직접 지불합니다.
+- **자원**: 물자, 특정 흔한 아이템 등 화폐가 아닌 대가.
+- **평판**: 명성, 인품, 존재감, 사회적 연줄 등을 담보로 거는 것.
+- **상실**: 특별하고 고유한 무언가를 내놓는 것. 손가락, 영혼, **유물** 등.
 
-Some **Costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, another character may not be so lucky and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **WIL** save; on a success, the cost is either reduced or avoided entirely. 
+일부 **비용**은 캐릭터의 기술, 인맥, 의지로 줄이거나 면제받을 수도 있습니다. 예를 들어 PC가 이미 충분한 평판을 갖춰 명망 있는 기관에 접근할 수 있다면, **비용**은 완화됩니다. 반대로 운이 따르지 않는 캐릭터는 개인적 매력이나 기세에 의존해야 할 수도 있습니다. 이때 워든은 위험(영구 출입 금지, 평판 하락 등)을 명시해야 합니다. 그 후 PC는 정신(WIL) 극복 굴림을 하며, 성공하면 비용이 줄거나 완전히 회피됩니다.
 
-## Downtime Actions
+## 다운타임 행동
 
-The following activities represent some of the most common **Downtime Actions** a players can choose. The **Warden** can also create custom actions based on the needs of play.
+아래 활동은 플레이어가 선택할 수 있는 가장 흔한 **다운타임 행동**의 예시입니다. **워든**은 플레이의 필요에 따라 맞춤 행동을 만들어도 됩니다.
 
-### Research
+### 조사
 
-A PC investigates a question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action, the player must have a clearly formulated question they'd like to answer and a **Source** of knowledge in the game world that their character can interact with. If the PC does not have a **Source**, then they can spend a **Downtime Action** trying to find one. There is no guarantee that they will be successful. Once a question is posed and an appropriate **Source** has been identified, the **Warden** should provide any **Milestones** and associated **Costs**. 
+PC는 잊히거나 사라진 지식, 잃어버린 물건의 위치, 중요한 NPC의 행방 등과 관련된 질문을 조사합니다. 이 행동을 하려면, 플레이어는 답을 얻고 싶은 질문을 명확히 정리해야 하며, 캐릭터가 게임 세계에서 상호작용할 수 있는 지식의 **정보원**이 필요합니다. PC에게 **정보원**이 없다면, **다운타임 행동** 1회를 사용해 정보원을 찾을 수 있습니다. 성공이 보장되지는 않습니다. 질문이 정해지고 적절한 **정보원**이 확인되면, **워든**은 필요한 **마일스톤**과 그에 따른 **비용**을 제시해야 합니다.
 
-#### Questions
+#### 질문
 
-As always, the question must come from an experience that occurred during play.
+항상 그렇듯, 질문은 플레이 중 실제로 겪은 경험에서 비롯되어야 합니다.
 
-**Examples:**
+**예시:**
 
-- "Where is the **Lost Temple of East Nipoor**?" 
-- "Who in **Fortune City** might know how to crack an ancient vault?"
-- "Where can I find the cure to **curly sickness**?" 
+- "**Lost Temple of East Nipoor**는 어디에 있나?"
+- "**Fortune City**에서 고대 금고를 여는 법을 아는 사람은 누구지?"
+- "**curly sickness**의 치료제는 어디서 찾을 수 있나?"
 
-#### Sources
+#### 정보원
 
-A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. They can be NPCs, Factions, spirits, or even other PCs. 
+**정보원**은 캐릭터가 찾는 답의 일부 또는 전부를 쥐고 있는 인물/장소/파벌/존재입니다. NPC, 파벌, 정령, 심지어 다른 PC가 될 수도 있습니다.
 
-##### Examples: 
+##### 예시:
 
-- **Kewr the Mouth**, a frequent contact for the **Conclave of Merchants**. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost.
-- A **Woodwose** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition and the meeting did not end well. Still, he is said to know the nature of every herb and their healing properties.
-- The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
+- **Kewr the Mouth**. **Conclave of Merchants**와 자주 연락하는 인물입니다. 그 파벌과 관계가 아주 좋아도, 불법적인 일을 도와달라고 부탁한다면 큰 대가가 따를 수 있습니다.
+- **Forest of Knives** 깊은 곳에 사는 **Woodwose**. 파티는 예전 원정에서 그를 만났고, 그 만남은 좋게 끝나지 않았습니다. 하지만 그는 모든 약초의 성질과 치유 효능을 알고 있다고 전해집니다.
+- **Temple of Puppets**. 알려진 땅과 미지의 땅을 떠돌아다니는 유랑 서커스단입니다. **Rain of Fire** 때, 숲의 생명체들조차 보금자리를 버릴 준비를 하던 와중에 파티는 그들의 단원 한 명을 도와주었습니다. 잊힌 장소의 소문을 들었을 만한 이들이 있다면, 바로 그들입니다.
 
-### Training
+### 수련
 
-A character can improve their skills with an item or ability, with clear narrative or mechanical results. They might be interested in dealing greater damage with a particular weapon, decreasing their chances of getting lost in rough weather, or learning to read the languages of the ancients. A PC might spend multiple **Downtime Actions** sparring with a particular weapon, improving their skills week by week. Or they may need to travel to the home of a distant sage, improving themselves through short but intense study.
+캐릭터는 특정 아이템이나 능력과 관련된 기술을 향상시켜, 서사적 또는 규칙적으로 분명한 성과를 얻을 수 있습니다. 특정 무기로 더 큰 피해를 내고 싶을 수도 있고, 험한 날씨에 길을 잃을 확률을 낮추고 싶을 수도 있으며, 고대의 언어를 읽는 법을 배우고 싶을 수도 있습니다. PC는 특정 무기를 들고 여러 번의 **다운타임 행동**을 소비하며 주 단위로 대련을 거듭할 수도 있습니다. 또는 멀리 떨어진 현자의 거처로 여행해, 짧지만 강도 높은 수업으로 자신을 단련해야 할 수도 있습니다.
 
-The player must describe precisely what they'd like to improve and a **Master** whom they might train with. And of course, the character's inspiration to improve should come from an experience in play. The **Warden** should provide any **Milestones** and associated **Costs**. 
+플레이어는 무엇을 어떻게 향상시키고 싶은지, 그리고 누구에게(어떤 **스승**에게) 수련받을지 구체적으로 설명해야 합니다. 물론 향상의 동기는 플레이 중 경험에서 비롯되어야 합니다. **워든**은 필요한 **마일스톤**과 그에 따른 **비용**을 제시해야 합니다.
 
-**Examples:**
+**예시:**
 
-- **The Two-Handed Parry**: When fighting with one hand free, a PC's HP temporarily increases by 1d4. The party took on a hireling from the **Cratered Lands**, whose fighters emphasize avoiding enemy attacks. She has agreed to train anyone who can best her in hand to hand combat.
-- **Herbology**: Given proper ingredients, a PC can create a **Healing Salve** (restores 4 STR) as a **Downtime Action**. After receiving care from an elderly herbalist in the **Verdant Glades**, the wounded PC asked to be trained in the healing arts. The **Master** has agreed, but asked that they collect three rare herbs before training can begin. 
-- **Troutmaster**: When taking the Supply **Action**, **Rations** gathered near cold freshwater sources increase by one step (e.g. 1d4 becomes 1d6). The party escorted a stranded naturalist from the famously dreadful **Silver Wastes** safely back to the city. As thanks, she has offered to train a PC to identify and capture a common lakefish that frequents colder waters.
+- **양손받이**: 한 손을 비워두고 싸울 때, PC의 HP가 일시적으로 1d4만큼 증가합니다. 파티는 적의 공격을 피하는 데 중점을 두는 전사들이 있는 **Cratered Lands** 출신의 고용인을 들였습니다. 그녀는 맨손 격투로 자신을 이길 수 있는 누구든 훈련시켜주겠다고 했습니다.
+- **약초학**: 적절한 재료가 있다면, PC는 **다운타임 행동**으로 **치유 연고**(근력 4 회복)를 만들 수 있습니다. **Verdant Glades**의 노약초사에게 치료를 받은 뒤, 부상당했던 PC는 치유술을 배우고 싶다고 요청했습니다. **스승**은 이를 받아들였지만, 수련을 시작하기 전에 희귀한 약초 3종을 구해오라고 요구했습니다.
+- **송어 명인**: **재보급** 행동을 할 때, 차가운 담수 근처에서 얻는 **식량**의 주사위가 한 단계 증가합니다(예: 1d4 → 1d6). 파티는 악명 높은 **Silver Wastes**에서 발이 묶인 자연학자를 무사히 도시로 호송했습니다. 감사의 표시로, 그녀는 찬물에 서식하는 흔한 호수 물고기를 식별하고 잡는 법을 PC에게 가르쳐주겠다고 제안했습니다.
 
-### Strengthening Ties
+### 유대 강화
 
-A character fosters a connection with an NPC or Faction in the game world. First, they must identify the entity with whom they wish to strengthen ties, as well as a specific **intent** (e.g., building trust, mending a friendship, seeking membership in a Faction, forming an alliance, and so on). The **Warden** then provides concrete measures (described as **Milestones** and **Costs**) that the PC can undertake to advance the relationship. With each completed **Milestone**, the **Warden** describes how the PC's relationship has grown or changed. 
+캐릭터는 게임 세계의 NPC 또는 파벌과의 관계를 돈독히 합니다. 먼저 관계를 강화하고 싶은 대상과 구체적인 **의도**(예: 신뢰 쌓기, 우정 회복, 파벌 가입 희망, 동맹 맺기 등)를 정해야 합니다. 그 뒤 **워든**은 관계를 진전시키기 위해 PC가 수행할 수 있는 구체적인 조치(즉, **마일스톤**과 **비용**)를 제시합니다. 각 **마일스톤**을 완료할 때마다, **워든**은 PC의 관계가 어떻게 성장하거나 변화했는지 묘사합니다.
 
-**Examples:**
+**예시:**
 
-- After returning from an unsuccessful delve into the **Roots**, a PC discovers that they'd unknowingly brought along a stowaway: an eyeless devourer, barely hatched. They decide to keep the creature and train it in secret. 
-- During a play session, a PC becomes friendly with an agent of the **Order of the Helm**. Impressed by the Order's values, the PC asks what the requirements are to join.
-- An agent for a powerful faction dies during the **Battle of Frogs** while under the party's care. Now those responsible wish to provide redress, so that the party can once again perform tasks for that faction.
+- **Roots**로의 탐사가 실패로 끝난 뒤 돌아온 PC는, 자신도 모르게 밀항자를 데려왔다는 사실을 알게 됩니다: 갓 부화한 눈 없는 포식자입니다. 그들은 그 생물을 숨겨 키우고 비밀리에 훈련시키기로 합니다.
+- 한 세션 도중, PC는 **Order of the Helm**의 요원과 친해집니다. 그 조직의 가치관에 감명받은 PC는 가입 조건이 무엇인지 묻습니다.
+- 파티의 보호 아래 있던 강력한 파벌의 요원이 **Battle of Frogs** 중 사망합니다. 이제 책임이 있는 이들은 보상과 배상을 제공해, 파티가 다시 그 파벌의 일을 맡아줄 수 있기를 바랍니다.

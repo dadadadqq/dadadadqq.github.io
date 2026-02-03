@@ -1,46 +1,46 @@
 ---
-title: Bonekeeper
+title: 유골지기
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Bonekeeper
+# 유골지기
 
-> You are a shepherd to the departed. You listen to the final whispers of the dead as they descend into the cold, unyielding earth. You know that to fully celebrate the gift of life, we must honor its finale as well. 
+> 당신은 떠나간 자들의 목자입니다. 망자들이 차갑고 무자비한 대지로 내려갈 때 그들의 마지막 속삭임에 귀 기울입니다. 삶이라는 선물을 온전히 기념하려면 그 종말 또한 기려야 한다는 것을 당신은 알고 있습니다.
 
-## Names
+## 이름
 
-Rook, Ebon, Moro, Yew, Pall, Leth, Bea, Barnaby, Vesper, Leder
+룩, 에본, 모로, 유, 팰, 레스, 베아, 바나비, 베스퍼, 레더
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Lantern
-- Oil Can (6 uses)
-- Stake (d6)
-- Chains (10ft)
+- 3d6 금화
+- 식량 (3회용)
+- 랜턴
+- 기름통 (6회용)
+- 말뚝 (d6)
+- 사슬 (10피트)
 
-## What did you take from the dead? Roll 1d6:
+## 죽은 자로부터 무엇을 가져왔는가? 1d6 굴림:
 
 |       |                                                                                                                                                                                                                                                                                                                                      |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | A **crow-shaped amulet**. You can ask a question of the dead but must add a **Fatigue** each time. They do not always speak truthfully.                                                                                                                                                                                              |
-| **2** | A **mortal wound** from a freed _revenant_. You were healed, but the disfigurement has made you a pariah. You require neither air nor sustenance but are still subject to pain and death. Trapped between worlds, the dead see you as one of their own.                                                                              |
-| **3** | A **Blood Pail** (_bulky_) from a local death-cult. Empty it to raise a servant built from whatever is buried below, with 6 HP, 1 Armor, 13 STR, 11 DEX, 4 WIL, and shard fists (d8+d8). Only one servant can be raised at a time. If destroyed, you permanently lose 1d4 STR. **Recharge**: Fill with the blood of a dying warrior. |
-| **4** | A **burial wagon** (+6 slots, _slow_) from your last job. It came with a stubborn old **donkey** (+4 slots, only +2 slots if pulling wagon).                                                                                                                                                                                         |
-| **5** | The **Detect Magic** Spellbook, stolen from an ancient library. Your family worked in service to an obscure underworld deity, but you lost your faith. Though exiled, you continue to serve, even as an apostate. Detect Magic: You can see or hear nearby magical auras. _Becomes warm to the touch when magic is used nearby._     |
-| **6** | A **plague doctor's mask**, after its owner succumbed to the disease that wiped out everyone you once knew. They should have kept it on.                                                                                                                                                                                             |
+| **1** | **까마귀 모양의 부적**. 죽은 자에게 질문할 수 있지만 매번 **피로**를 추가해야 합니다. 그들이 항상 진실을 말하는 것은 아닙니다.                                                                                                                                                                                              |
+| **2** | 해방된 _망령_에게 입은 **치명적인 상처**. 치유되었지만 외형의 손상으로 당신은 추방자가 되었습니다. 공기도 음식도 필요치 않지만 여전히 고통과 죽음에는 영향을 받습니다. 두 세계 사이에 갇힌 당신을 망자들은 자신들의 일원으로 봅니다.                                                                              |
+| **3** | 지역 사교도들의 **피의 양동이** (_대형_). 부으면 땅에 묻힌 것으로 만들어진 하인을 일으킬 수 있습니다. 6 피격치, 1 장갑, 13 근력, 11 민첩, 4 정신, 파편 주먹 (d8+d8). 한 번에 하나의 하인만 일으킬 수 있습니다. 파괴되면 영구적으로 1d4 근력을 잃습니다. **충전**: 죽어가는 전사의 피로 채웁니다. |
+| **4** | 마지막 일에서 가져온 **장례 마차** (+6 슬롯, _느림_). 완고한 늙은 **당나귀**와 함께 왔습니다 (+4 슬롯, 마차를 끌 경우 +2 슬롯만).                                                                                                                                                                                         |
+| **5** | 고대 도서관에서 훔친 **마법 감지** 주문서. 당신의 가족은 모호한 지하 세계 신을 섬겼지만 당신은 신앙을 잃게 되었습니다. 추방당했지만 배교자로서도 계속 섬기고 있습니다. 마법 감지: 근처의 마법 기운을 보거나 들을 수 있습니다. _근처에서 마법이 사용되면 만지면 따뜻해집니다._     |
+| **6** | 당신이 알던 모든 이들을 쓸어간 질병에 굴복한 주인이 남긴 **역병 의사의 가면**. 그들이 벗지만 않았더라면.                                                                                                                                                                                                             |
 
-## What tool was invaluable in your work? Roll 1d6:
+## 당신의 일에 필수적이었던 도구는? 1d6 굴림:
 
 |     |               |                                                                                                                            |
 | --- | ------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Manacles**  | Though old, it's still effective even against the very strong. You don't have the key.                                     |
-| 2   | **Sponge**    | Supposedly made from the remains of a rare sea creature. It never seems to dry out.                                        |
-| 3   | **Pulley**    | Great for moving gravestones, rocks, or even bodies.                                                                       |
-| 4   | **Incense**   | Perfect for rituals or to keep the flies at bay. Cools the blood.                                                         |
-| 5   | **Crowbar**   | d6 damage. Sometimes you just need to get the damn thing open!                                                             |
-| 6   | **Repellent** | Powerful stuff. Its faded label makes it unclear what it is actually _meant_ to repel, though. Perhaps everything. 3 uses. |
+| 1   | **수갑**  | 낡았지만 매우 강한 자에게도 여전히 효과적입니다. 열쇠는 없습니다.                                     |
+| 2   | **스펀지**    | 희귀한 바다 생물의 잔해로 만들어졌다고 합니다. 절대 마르지 않는 것 같습니다.                                        |
+| 3   | **도르래**    | 묘비, 바위, 심지어 시체를 옮기는 데 좋습니다.                                                                       |
+| 4   | **향**   | 의식에 좋고 파리를 물리치는 데 좋습니다. 피를 식힙니다.                                                         |
+| 5   | **쇠지렛대**   | d6 피해. 때로는 그냥 열어젖혀야 할 때가 있습니다!                                                             |
+| 6   | **퇴치제** | 강력한 물질입니다. 바랜 라벨로는 실제로 무엇을 퇴치하기 _위한_ 것인지 불분명하지만. 아마도 모든 것일지도 모릅니다. 3회용. |
 

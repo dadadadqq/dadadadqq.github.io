@@ -1,46 +1,46 @@
 ---
-title: Rill Runner
+title: 물노래꾼
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Rill Runner
+# 물노래꾼
 
-> You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.
+> 당신은 강과 호수의 이야기를 노래하며, 당신의 재능은 친구와 자연의 원소를 모두 달랩니다. 대부분의 사람보다 많은 것을 보았지만, 어쩐지 결코 충분한 것 같지 않습니다.
 
-## Names
+## 이름
 
-Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
+게일, 파이퍼, 브룩, 아데어, 스톤, 데일, 렌, 클리프, 레인, 로빈
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Water Shoes
-- Brigandine (1 Armor, _bulky_)
-- Compass
-- Dagger (d6)
+- 3d6 금화
+- 식량 (3회 사용)
+- 횃불 (3회 사용) 
+- 물신발
+- 두정갑 (1 장갑, _대형_)
+- 나침반
+- 단검 (d6)
 
-## What songs are you best known for? Roll 1d6:
+## 당신은 어떤 노래로 가장 잘 알려져 있는가? 1d6을 굴리시오:
 
 |       |                                                                                                                                                                                                                                          |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | _The Tinker's Two-Step_. A humorous fairy tale about a gift-giving traveler. Start with a **Reed Whistle**. Anyone in earshot must pass a WIL save to perform an act of violence.                                                       |
-| **2** | _The Sylph and Her Lover_. A bawdy tale of lost love. Start with a **Breeze Knot** (3 charges). Creates a strong breeze. **Recharge**: Tie it to a mast during a storm.                                                         |
-| **3** | _Harper's Devotion_. A sad, short tale about a musician that falls in love with a star. Start with a **Celestial Lute**. Reveals the constellations above, no matter the weather.                                                              |
-| **4** | _The Reed Fisher_. A celebrated song about a massive carp that always seems to get away. Begin with a spool of **River Twine** (5 uses). Each dip into the river guarantees a catch, though it might not be pleasant.                              |
-| **5** | _Song of the Silver Stream_. A wordless lullaby that mimics flowing water. Take a **Stone Flute** that can calm almost any river.                                                                                             |
-| **6** | _The Thrush and the Meadow_. A moody tale told in alternating chorus. Start with a **Feather Quill** (1 use, _petty_). A map drawn with this quill reveals the most expedient course between any two points. |
+| **1** | _땜장이의 두 발걸음_. 선물을 주는 여행자에 관한 유머러스한 동화. **갈대 휘슬**로 시작합니다. 들을 수 있는 범위의 누구든 폭력 행위를 하려면 정신 극복 굴림을 통과해야 합니다.                                                       |
+| **2** | _실프와 그녀의 연인_. 잃어버린 사랑에 대한 외설스러운 이야기. **미풍 매듭** (3 충전)으로 시작합니다. 강한 바람을 만듭니다. **충전**: 폭풍우가 칠 때 돛대에 묶습니다.                                                         |
+| **3** | _하퍼의 헌신_. 별과 사랑에 빠진 음악가에 대한 슬픈 짧은 이야기. **천체 류트**로 시작합니다. 날씨에 상관없이 위의 별자리를 드러냅니다.                                                              |
+| **4** | _갈대 어부_. 항상 도망가는 거대한 잉어에 관한 유명한 노래. **강의 실** 한 타래 (5회 사용)로 시작합니다. 강에 담글 때마다 낚시를 보장하지만, 즐겁지 않을 수 있습니다.                              |
+| **5** | _은빛 시내의 노래_. 흐르는 물을 흉내 내는 가사 없는 자장가. 거의 모든 강을 진정시킬 수 있는 **돌 플루트**를 가집니다.                                                                                             |
+| **6** | _지빠귀와 초원_. 교대 합창으로 전하는 우울한 이야기. **깃털 펜** (1회 사용, _소형_)으로 시작합니다. 이 펜으로 그린 지도는 두 지점 사이의 가장 빠른 경로를 드러냅니다. |
 
-## What pays your way across the land? Roll 1d6:
+## 무엇으로 당신의 여행 비용을 지불하는가? 1d6을 굴리시오:
 
 |       |                     |                                                                                                                                             |
 | ----- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Performance**     | Performing at taverns always yields both room and board. Sometimes you even get tips! Start with an extra **10gp**.                          |
-| **2** | **Bodyguard**       | You are a protector for those afraid to travel alone. Start with a **Rapier** (d8).                                                          |
-| **3** | **Wares**           | You buy low and sell high, always making just enough to get by. Take a **single item** worth **20gp** (or less) from the [gear](/second-edition/players-guide/marketplace#gear) table.                              |
-| **4** | **Transport**       | You deliver "delicate" packages throughout the lands. You have at least one contact in any major town.                                        |                                                    
-| **5** | **Sailor's Friend** | Over troubled waters and dangerous winds, you always make sure a ship reaches its destination. For you, passage is always free.  |
-| **6** | **Guide**           | You shepherd caravans and travelers across water-soaked lands. Start a **map** (_petty_) relevant to your next journey. |
+| **1** | **공연**     | 선술집에서 공연하면 항상 방과 식사를 제공받습니다. 때로는 팁도 받습니다! **10gp**를 추가로 받고 시작합니다.                          |
+| **2** | **경호원**       | 혼자 여행하기 두려워하는 이들의 보호자입니다. **레이피어** (d8)를 받습니다.                                                          |
+| **3** | **물품**           | 싸게 사서 비싸게 팔며, 항상 겨우 지낼 만큼 법니다. [장비](/second-edition/players-guide/marketplace#gear) 표에서 **20금화** (이하) 가치의 **단일 물품**을 가집니다.                              |
+| **4** | **운송**       | 땅 전체에 "섬세한" 소포를 배달합니다. 주요 도시마다 최소 한 명의 연락처를 가지고 있다.                                        |                                                    
+| **5** | **뱃사람의 친구** | 험난한 물길과 위험한 바람을 넘어, 당신은 항상 배가 목적지에 도착하도록 합니다. 당신에게 뱃삯은 항상 무료입니다.  |
+| **6** | **안내자**           | 물에 젖은 땅을 건너는 대상과 여행자를 인도한다. 다음 여정과 관련된 **지도** (_소형_)로 시작합니다. |

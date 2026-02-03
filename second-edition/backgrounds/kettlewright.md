@@ -1,48 +1,48 @@
 ---
-title: Kettlewright
+title: 땜장이
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Kettlewright
+# 땜장이
 
-> You are known by the smell of molten metal and the jingle of tin. You are no mere merchant but an artisan of fire and metal. 
+> 당신은 녹은 금속 냄새와 양철 부딪치는 소리로 알려져 있습니다. 당신은 단순한 상인이 아니라 불과 금속의 장인입니다.
 
-## Names
+## 이름
 
 Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Pincers
-- Roll of Tin
-- Gloves (_petty_)
-- Hammer (d6)
+- 3d6 금화
+- 식량 (3회용)
+- 횃불 (3회용) 
+- 집게
+- 양철 두루마리
+- 장갑 (_소형_)
+- 망치 (d6)
 
-## What is your trade? Roll 1d6:
+## 당신의 특기는 무엇인가? 1d6 굴림:
 
 |       |                                                                                                                                                                                                                 |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | You build small contraptions for local guilds (and don't ask too many questions). Take an extra 40gp and a wanted poster with your face on it. Given time and materials, you can open almost any door or vault. |
-| **2** | You deal in home goods and tools, hawking your wares to townspeople across the lands. Take 20gp worth of items from the [gear](/second-edition/players-guide/marketplace#gear) table. You are fluent in the _Traveler's Cant_.       |
-| **3** | You were a military smelter, before peace destroyed your livelihood. Take a **smelting hammer** (d10, _bulky_) and a **tin helm** (+1 Armor). Given time and adequate materials, you can repair armor.          |
-| **4** | You sell rare and quality items to monasteries and nobles alike. Take a **Spyglass**, a **Necklace** (_petty_) worth 20gp, and a **Scroll** of Mirrorwalk (_petty_).                      |
-| **5** | You offer protection as a service, quietly watching for threats as money exchanges hands. You start with **+d4 HP**, and carry a **Long Sword** (d10, _bulky_) and a **Gambeson** (+1 Armor).         |
-| **6** | You scavenge raw tin and iron from battlefields, pulling teeth from still-twitching corpses. Start with a young **Donkey** (+4 slots, slow), a **Crossbow** (d8 damage, _bulky_), and a **Saw** (d6).           |
+| **1** | 지역 길드를 위한 작은 기계 장치를 만듭니다 (그리고 많은 질문은 하지 않습니다). 40금화와 당신의 얼굴이 그려진 수배 포스터를 추가로 얻습니다. 시간과 재료만 주어지면 거의 모든 문이나 금고를 열 수 있습니다. |
+| **2** | 전국의 마을 사람들에게 가정용품과 도구를 팔고 다닙니다. [gear](/second-edition/players-guide/marketplace#gear) 테이블에서 20금화 상당의 물품을 얻습니다. _여행자 은어_에 능통합니다.       |
+| **3** | 평화가 생계를 파괴하기 전 군대 제련소에서 일했습니다. **제련 망치** (d10, _대형_)와 **양철 헬멧** (+1 장갑)을 얻습니다. 시간과 적절한 재료가 주어지면 갑옷을 수리할 수 있습니다.          |
+| **4** | 수도원과 귀족 모두에게 희귀하고 양질의 물품을 팔습니다. **망원경**, 20금화 가치의 **목걸이** (_소형_), 그리고 거울걸음의 **두루마리** (_소형_)를 얻습니다.                      |
+| **5** | 돈 거래 시 조용히 위협을 감시하며 보호 서비스를 제공합니다. **+d4 피격치**으로 시작하며 **장검** (d10, _대형_)과 **누비 갑옷** (+1 장갑)을 가집니다.         |
+| **6** | 전장터에서 양철과 철을 수집하며 아직 경련하는 시체에서 이를 밀어 뽑습니다. 어린 **당나귀** (+4 슬롯, 느림), **쇠뇌** (d8 피해, _대형_), 그리고 **톱** (d6)을 가지고 시작합니다.           |
 
-## What never fails to get you out of trouble? Roll 1d6:
+## 무엇이 항상 문제에서 당신을 구해주는가? 1d6 굴림:
 
 |     |                    |                                                                                                                                                                  |
 | --- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Fire Eggs**      | Six small pellets made of sea salt, wood, and crockery-dust. They explode at low heat (d8, _blast_) but the flames dissipate quickly.                            |
-| 2   | **Black Tar**      | Versatile: both sticky and highly flammable. 3 uses.                                                                                                             |
-| 3   | **Spiked Boots**   | Cracks heads (d8) as easily as it does ice and muck. Travel is also a bit slower, but easier.                                                                    |
-| 4   | **Tinker's Paste** | Seals shut any fist-sized opening. 3 uses.                                                                                                                       |
-| 5   | **Fireworks**      | A dazzling albeit dangerous display. Enough explosive material to blow off a finger or three. 2 uses remain.                                                    |
-| 6   | **Carrion Cat**    | A clever pet, small enough to hide in your pack (_bulky_), but strong enough to scare off smaller predators. Requires one **Ration** a day, and it must be meat. |
+| 1   | **화염알**      | 바닷소금, 나무, 그리고 도기 가루로 만든 여섯 개의 작은 알갱이. 낮은 열에 폭발하지만 (d8, _범위_) 불길은 빠르게 사라집니다.                            |
+| 2   | **검은 타르**      | 다재다능: 끈적이고 매우 가연성이 높습니다. 3회용.                                                                                                             |
+| 3   | **가시 부츠**   | 얼음과 진흙만큼 머리를 부수기도(d8)  쉽습니다. 여행도 조금 느리지만 더 쉬워집니다.                                                                    |
+| 4   | **땜장이 진흙** | 주먹 크기의 구멍을 단단히 봉합니다. 3회용.                                                                                                                       |
+| 5   | **폭죽**      | 눈부신지만 위험한 장면을 보여줍니다. 손가락 하나나 세 개를 날려버릴 충분한 폭발물. 2회용 남음.                                                    |
+| 6   | **시체고양이**    | 가방에 숨길 만큼 작은 (_대형_) 영리한 애완동물이지만 작은 포식자들을 겁주기에 충분히 강합니다. 하루에 **식량** 하나가 필요하며 고기여야 합니다. |
 |     |                    |                                                                                                                                                                  |
 

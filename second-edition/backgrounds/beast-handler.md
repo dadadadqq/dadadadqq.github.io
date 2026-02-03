@@ -1,47 +1,47 @@
 ---
-title: Beast Handler
+title: 야수 조련사
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Beast Handler
+# 야수 조련사
 
-> You alone can walk among the creatures of the wild, fearless and in control. You share a connection with animals that others can only dream of... so long as you don't become their snack.
+> 당신만이 야생의 생물들 사이를 두려움 없이 걸으며 제어할 수 있다. 당신은 다른 이들이 꿈에서나 바랄 법한 동물들과의 유대를 공유한다… 물론, 그들의 간식이 되지 않는 한에서 말이다.
 
-## Names
+## 이름
 
-Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
+아마라, 울프, 미레유, 소렌, 프레키, 애스터, 게릭, 보레아스, 베다, 마테우스
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses)   
-- Leather Whip (d6)
-- Soporific Darts (STR save or fall asleep, 6 uses)
-- Lure
-- Rope (25ft)
+- 3d6 금화
+- 식량 (3회 사용)
+- 횃불 (3회 사용)   
+- 가죽 채찍 (d6)
+- 수면 다트 (근력 극복 굴림 실패 시 수면, 6회 사용)
+- 미끼
+- 밧줄 (25피트)
 
-## What creature is your specialty? Roll 1d6:
+## 당신의 전문 생물은 무엇인가? 1d6을 굴리시오:
 
 |       |               |                                                                                                                                                                                   |
 | ----- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Arachnids** | Take a **Quick-Flame Rod** and an **Oil Can** (6 uses). It can destroy a large spider nest in seconds.                                                                            |
-| **2** | **Felines**   | Take a sack of **Whiskerwort**. Its odor can calm and control even the largest of cats.                                                                                           |
-| **3** | **Canines**   | Take a wreath of **Wolfsbane** and a **Large Net**. Effective against werewolves as well.                                                                                         |
-| **4** | **Birds**     | Take a **Warble-Whistle** (3 charges). It can imitate any bird call and can even be used to send simple messages. **Recharge**: Feed a baby bird as its mother would, then blow. |
-| **5** | **Rodents**   | Take a **Pan Flute** that emits a high-pitched sound that only rodents can hear. So long as you play, they will follow, even to their deaths.                                     |
-| **6** | **Serpents**  | Take a **Warming Stone** that generates an irresistible heat and a vial of **Antitoxin** (2 uses).                                                                               |
+| **1** | **거미류** | **급속 발화봉**과 **기름통** (6회 사용)을 가져라. 큰 거미집을 수 초 만에 파괴할 수 있다.                                                                            |
+| **2** | **고양이과**   | **수염풀** 자루를 가져라. 그 냄새는 가장 큰 고양이도 진정시키고 제어할 수 있다.                                                                                           |
+| **3** | **개과**   | **늑대독풀** 화환과 **큰 그물**을 가져라. 늑대인간에게도 효과적이다.                                                                                         |
+| **4** | **조류**     | **지저귐 호루라기** (3 충전)를 가져라. 모든 새 소리를 흉내낼 수 있으며 간단한 메시지를 보내는 데도 사용할 수 있다. **충전**: 어미 새처럼 새끼 새에게 먹이를 줘야 한다. |
+| **5** | **설치류**   | 설치류만 들을 수 있는 높은 소리를 내는 **팬 플루트**를 가져라. 연주하는 동안 그들은 죽음까지도 따라올 것이다.                                     |
+| **6** | **뱀류**  | 저항할 수 없는 열을 발생시키는 **가온석**과 **해독제** 병 (2회 사용)을 가져라.                                                                               |
 
 
-## What have you learned from the creatures of the wild? Roll 1d6: 
+## 야생의 생물로부터 무엇을 배웠는가? 1d6을 굴리시오: 
 
 |       |                                                                                                                                                                                          |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | That there is far more to the world than meets the eye. With quiet concentration, you can borrow the senses of a nearby creature of your **specialty**.                                       |
-| **2** | That the behavior of beasts is a language in itself. When observing beasts of your **specialty** you gain insight into weather patterns and impending disasters.                             |
-| **3** | That the pulse of the hunt is a powerful impulse. You have a sense for when predators, even those **not of your specialty** are near.                                                        |
-| **4** | That the land is a language unto itself. Your chance of becoming lost in a terrain dominated by the beasts of your **specialty** is reduced by one step (e.g. 4-in-6 becomes 3-in-6).             |
-| **5** | That nature's symphony can be heard if you attune to its rhythm. When surrounded by creatures of your **specialty**, they can alert you to approaching danger before it arrives.               |
-| **6** | That survival is all about adaptability. Once per day, you may take on a simple feature from a creature of your **specialty** (webbed fingers, night vision, etc.). Add a **Fatigue** each time. |
+| **1** | 세상에는 눈에 보이는 것보다 훨씬 더 많은 것이 있다. 조용히 집중하면 가까운 당신의 **전문** 생물의 감각을 빌릴 수 있다.                                       |
+| **2** | 야수의 행동 그 자체가 언어다. 당신의 **전문** 야수를 관찰할 때 날씨 패턴과 임박한 재해에 대한 통찰을 얻는다.                             |
+| **3** | 사냥의 충동은 강력한 본능이다. 포식자가 가까이 있을 때 감지할 수 있으며, **전문이 아닌** 것들도 감지한다.                                                        |
+| **4** | 땅 자체가 하나의 언어다. 당신의 **전문** 야수가 지배하는 지형에서 길을 잃을 확률이 한 단계 감소한다 (예: 4-in-6이 3-in-6이 됨).             |
+| **5** | 리듬에 맞추면 자연의 교향곡을 들을 수 있다. 당신의 **전문** 생물에 둘러싸여 있을 때, 그들은 위험이 다가오기 전에 당신에게 경고할 수 있다.               |
+| **6** | 생존은 적응력이 전부다. 하루에 한 번, 당신의 **전문** 생물의 간단한 특징을 취할 수 있다 (물갈퀴 손가락, 야간 시력 등). 매번 **피로**를 추가하라. |

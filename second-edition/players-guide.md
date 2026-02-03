@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Player's Guide
+title: 플레이어 가이드
 parent: Second Edition
 has_children: true
 nav_order: 1
 ---
 
-# Player's Guide
+# 플레이어 가이드
 
-Cairn is an adventure game about exploring a dark and mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, adventures are tense and reward careful exploration, and combat is frantic and deadly.
+Cairn은 이상한 사람들, 숨겨진 보물, 그리고 형언할 수 없는 괴물들로 가득한 어둡고 신비로운 숲을 탐험하는 모험 게임입니다. 캐릭터 생성은 빠르고 무작위이며, 모험은 긴장감 넘치고 신중한 탐험을 보상하며, 전투는 격렬하고 치명적입니다.

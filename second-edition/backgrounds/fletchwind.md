@@ -1,46 +1,46 @@
 ---
-title: Fletchwind
+title: 궁수
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Fletchwind
+# 궁수
 
-> You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring nought but a warning, singing the silent promise of a quick death. 
+> 당신은 멀리서 타격하지만, 그렇다고 비겁자는 아닙니다. 당신은 음악가이며, 활시위의 노래는 경고일 뿐이며, 빠른 죽음을 예고하는 선율입니다.
 
-## Names
+## 이름
 
 Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Bow (see table)
-- Serrated Knife (d6)
-- Boiled Leather (1 Armor)
-- Heartroot Salve (restores 1d4 STR, 1 use)
+- 3d6 금화
+- 식량 (3회용)
+- 횃불 (3회용) 
+- 활 (테이블 참조)
+- 톱니 칼 (d6)
+- 고기 가죽 (1 장갑)
+- 심장뿌리 연고 (1d4 근력 회복, 1회용)
 
-## How did you earn your bow? Roll 1d6:
+## 어떻게 활을 얻었는가? 1d6 굴림:
 
 |       |                                                                                                                                                                                                             |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **War**. If you are first to attack, your bow gains the _blast_ property for the first round.                                                                                                               |
-| **2** | **Falconry**. You keep a falcon [3 hp, 5 STR, 16 DEX, 4 WIL, claws (d6+d6), bite (d8)]. It only eats live game.                                                                                             |
-| **3** | **Hunting**. When taking the Supply action, your ability to secure **Rations** increases by **one step** (e.g. 1d4 becomes 1d6).          |
-| **4** | **Tournaments**. Attacks with your bow are _enhanced_ if the target is immobile.                                                                                                                            |
-| **5** | **Training**. If you are the first to attack, melee attacks against you are _impaired_ until you take STR damage.                                                                                           |
-| **6** | **Scouting**. When taking the Travel action, your presence decreases the chance of getting lost by one step (e.g. 4-in-6 becomes 3-in-6). |
+| **1** | **전쟁**. 첫 공격자라면 첫 라운드 동안 활이 _범위_ 속성을 얻습니다.                                                                                                               |
+| **2** | **매사냥**. 매 [3 피격치, 5 근력, 16 민첩, 4 정신, 발톱 (d6+d6), 부리 (d8)]를 기릅니다. 살아있는 먹이만 먹습니다.                                                                                             |
+| **3** | **사냥**. 보급 행동 시 **식량** 확보 능력이 **한 단계 증가**합니다 (예: 1d4가 1d6이 됩니다).          |
+| **4** | **토너먼트**. 대상이 움직이지 못하면 활 공격이 _강화_됩니다.                                                                                                                            |
+| **5** | **훈련**. 첫 공격자라면, 근력 피해를 입기 전까지 당신에 대한 근접 공격이 _약화_됩니다.                                                                                           |
+| **6** | **정찰**. 여행 행동 시 당신의 존재로 길을 잃을 확률이 한 단계 감소합니다 (예: 4-in-6이 3-in-6이 됩니다). |
 
-## What kind of wood is your bow made from? Roll 1d6:
+## 활은 어떤 나무로 만들어졌는가? 1d6 굴림:
 
 |       |                                                                                                          |
 | ----- | -------------------------------------------------------------------------------------------------------- |
-| **1** | **Western Yew** (d6, _bulky_). Can be wielded as a blunt weapon (d6). Noisy.                             |
-| **2** | **Sessile Oak** (d8, _bulky_). Slams into targets. On **Critical Damage** something is torn off.         |
-| **3** | **Stone Pine** (d6, _bulky_). Produces one use of **Sticky Sap** per day. The sap is highly explosive.   |
-| **4** | **White Ash** (d6, _bulky_). Can be used in place of a shield in melee combat (+1 Armor).                |
-| **5** | **Striped Bamboo** (d6). Collapsible, it only requires one slot (but still requires both hands).         |
-| **6** | **Wych Elm** (d6, _bulky_). Protects the bearer from poisons and toxins, so long as they are holding it. |
+| **1** | **양주목** (d6, _대형_). 둔기로 휩둘러 사용할 수 있습니다 (d6). 시끄럽습니다.                             |
+| **2** | **무경 참나무** (d8, _대형_). 대상을 강타합니다. **치명적 피해** 시 무언가가 뜯겨나갑니다.         |
+| **3** | **돌소나무** (d6, _대형_). 하루에 **끈적한 수액** 1회용을 생성합니다. 수액은 매우 폭발적입니다.   |
+| **4** | **흰 물푸레나무** (d6, _대형_). 근접 전투에서 방패 대신 사용할 수 있습니다 (+1 장갑).                |
+| **5** | **줄무늬 대나무** (d6). 접을 수 있어 하나의 슬롯만 차지합니다 (여전히 양손 필요).         |
+| **6** | **느릅나무** (d6, _대형_). 들고 있는 한 독과 독소로부터 소지자를 보호합니다. |

@@ -1,167 +1,167 @@
 ---
 layout: default
-title: Core Rules
+title: 핵심 규칙
 parent: Player's Guide
 grand_parent: Second Edition
 ---
 
-# Core Rules
+# 핵심 규칙
 
-## Attributes
+## 능력치
 
-Each of the three **Attributes** are used in different circumstances. (See **Saves**, below.)
+세 가지 **능력치**는 각기 다른 상황에서 사용됩니다. (아래 **극복 굴림** 참조)
 
-- **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
-- **Dexterity (DEX)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
-- **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+- **근력 (STR)**: 문을 들어 올리고, 철창을 구부리고, 독에 저항하는 등 육체적 힘이 필요한 극복 굴림에 사용됩니다.
+- **민첩 (DEX)**: 균형 감각, 속도, 반사 신경, 회피, 등반, 은신, 균형 잡기 등이 필요한 극복 굴림에 사용됩니다.
+- **정신 (WIL)**: 설득, 기만, 심문, 협박, 매력, 도발, 주문 시전 등을 위한 극복 굴림에 사용됩니다.
 
-## Saves
+## 극복 굴림
 
-- A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
-- If two opponents are each trying to overcome the other, whoever is most at risk should save.
-- If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
+- 극복 굴림은 위험한 선택으로 인한 부정적인 결과를 피하기 위한 판정입니다. 캐릭터는 d20을 굴려 해당 능력치와 결과를 비교합니다. 그 능력치 이하로 나오면 성공입니다. 그렇지 않으면 실패합니다. 1은 항상 성공이고, 20은 항상 실패입니다.
+- 두 상대가 각기 서로를 압도하려고 한다면, 가장 위험에 처한 쪽이 극복 굴림을 해야 합니다.
+- 두 캐릭터가 함께 행동해야 한다면, 가장 위험에 처한 쪽이 극복 굴림을 해야 합니다(보통 관련 능력치가 가장 낮은 캐릭터).
 
-## Healing & Recovery
+## 회복과 치유
 
-- Resting for a few moments and having a drink of water restores lost HP but may leave the party exposed. Bandages can stabilize a character that has taken critical damage.
-- Attribute loss (see **Critical Damage**) can usually be restored with a week's rest, facilitated by a healer or other appropriate source of expertise. 
-- Some healing services are free, while magical or more expedient means of recovery may come at a cost. 
+- 몇 분간 휴식하고 물을 마시면 잃어버린 HP를 회복할 수 있지만, 파티를 위험에 노출시킬 수 있습니다. 붕대는 치명적인 피해를 입은 캐릭터를 안정시킬 수 있습니다.
+- 능력치 손실(**치명적 피해** 참조)은 보통 일주일간의 휴식으로 회복할 수 있으며, 치료사나 다른 적절한 전문 지식의 도움이 필요합니다.
+- 일부 치유 서비스는 무료이지만, 마법적이거나 더 빠른 회복 수단은 비용이 들 수 있습니다. 
 
-## Deprivation & Fatigue
+## 결핍과 피로
 
-- A PC that lacks a crucial need (such as food or rest) is **Deprived**. Anyone **Deprived** for more than a day adds **Fatigue** to their inventory, one for each day. A **Deprived** PC cannot recover HP, Attributes, or item slots from **Fatigue**.
-- A PC may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as with a full night’s rest in a safe spot).
-- If a character is forced to add **Fatigue** to their inventory but they have no free slots, they must drop an item from their inventory.
+- 중요한 필수품(음식이나 휴식 같은)이 부족한 PC는 **결핍** 상태가 됩니다. 하루 이상 **결핍**된 사람은 하루당 하나씩 **피로**를 소지품에 추가합니다. **결핍**된 PC는 HP, 능력치, 또는 **피로**로 인한 아이템 칸을 회복할 수 없습니다.
+- PC는 주문을 사용하거나 이야기에서 발생하는 사건으로 인해 **피로**를 추가하도록 강요받을 수도 있습니다. 각 피로는 하나의 칸을 차지하며 PC가 회복할 수 있을 때까지 지속됩니다(안전한 장소에서의 편안한 밤 휴식 같은).
+- 캐릭터가 **피로**를 소지품에 추가해야 하는데 빈 칸이 없다면, 소지품에서 아이템을 버려야 합니다.
 
-## Armor
+## 장갑
 
-- Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. 
-- Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
-- A PC, NPC, or monster cannot have more than 3 Armor.  
+- HP에 대한 피해를 계산하기 전에, 피해 굴림 결과에서 대상의 **장갑** 값을 뺀니다. 
+- 방패와 비슷한 방어구는 방어 보너스를 제공하지만(예: +1 장갑), 아이템을 들거나 착용하고 있을 때만 적용됩니다. 일부는 이야기에 따라 추가 혜택을 제공할 수도 있습니다.
+- PC, NPC, 또는 몬스터는 3 이상의 장갑를 가질 수 없습니다.
 
-## Reactions
+## 반응
 
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+PC가 파티에 대한 반응이 분명하지 않은 NPC를 만났을 때, 워든은 2d6을 굴려 다음 표를 참조할 수 있습니다:
 
 |         |      |         |      |         |
 | :-----: | :--: | :-----: | :--: | :-----: |
 |    2    | 3-5  |   6-8   | 9-11 |   12    |
-| Hostile | Wary | Curious | Kind | Helpful |
+| 적대적 | 경계하는 | 호기심 있는 | 호의적인 | 협조적인 |
 
-## Morale
+## 사기
 
-- Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. 
-- Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. 
-- Morale does not affect PCs.
+- 적은 첫 번째 사상자가 발생했을 때, 그리고 그들의 절반을 잃었을 때 도망치지 않으려면 정신 극복 굴림을 통과해야 합니다.
+- 일부 집단은 자신의 정신 수치 대신 지도자의 정신을 사용할 수 있습니다. 홀로 있는 적은 0 HP로 감소했을 때 극복 굴림을 해야 합니다.
+- 사기는 PC에게 영향을 주지 않습니다.
 
-## Hirelings
+## 고용인
 
-- Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions.  
-- To create a hireling, choose an appropriate role from the [Hirelings](/second-edition/players-guide/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
-- Alternatively, choose an appropriate [**background**](/second-edition/players-guide/character-creation#backgrounds) and **name** from the [Character Creation](/second-edition/players-guide/character-creation) guide. Roll (or choose from) the tables for that background. Then roll for Rations, Gold Pieces, Attributes, HP, and age. 
+- 모험 파티는 고용인을 모집하여 그들의 독특한 기술, 지식, 훈련을 이용해 원정을 돕게 할 수 있습니다.
+- 고용인을 만들려면, 상점의 [고용인](/second-edition/players-guide/marketplace#hirelings-per-day) 표에서 적절한 역할을 선택하세요. 각 능력치에 3d6을, HP에 1d6을 굴리세요. 그들의 지위에 맞는 **장비**를 주고, 캐릭터 특성 표에서 굴려 더 구체화하세요.
+- 또는 [캐릭터 생성](/second-edition/players-guide/character-creation) 가이드에서 적절한 [**배경**](/second-edition/players-guide/character-creation#backgrounds)과 **이름**을 선택하세요. 해당 배경의 표에서 굴리거나 선택하세요. 그런 다음 식량, 금화, 능력치, HP, 나이를 굴리세요. 
 
-## Die of Fate  
+## 운명의 주사위
 
-- Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance.
-- A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs.
+- 선택적으로, 사건의 결과가 불확실하거나 무작위성과 우연의 요소를 시뮬레이션하려면 1d6을 굴리세요.
+- 4 이상이 나오면 일반적으로 PC에게 유리하고, 3 이하가 나오면 보통 PC에게 불운을 의미합니다.
 
-## Combat
+## 전투
 
-### Rounds
+### 라운드
 
-- A **Round** is roughly ten seconds of in-game time and and proceeds with each side taking turns. Each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_. 
-- During the _first round of combat_, each PC must make a DEX save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save _lose their turn_ for this round.
-- Their opponents then take their turn, and the first round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled.
+- **라운드**는 게임 내 시간으로 대략 10초이며, 각 진영이 턴을 가지며 진행됩니다. 각 라운드는 행동할 수 있는 PC부터 시작하고, 그 다음 적들이 따릅니다. _양측의 행동 결과는 동시에 발생합니다_.
+- _전투의 첫 라운드_ 동안, 각 PC는 행동하기 위해 DEX 극복 굴림을 해야 합니다. 특수한 상황, 능력, 아이템, 기술이 이 요구사항을 무효화할 수 있습니다. 극복 굴림에 실패한 PC는 이번 라운드 동안 _턴을 잃습니다_.
+- 그런 다음 적들이 턴을 가지고, 첫 라운드가 끝납니다. 다음 라운드는 PC가 턴을 가지고 시작하며, 그 다음 적들이 따르고, 한쪽이 패배하거나 도망칠 때까지 계속됩니다.
 
-### Actions
+### 행동
 
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, moving for a second time, or some other reasonable action. Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs. 
+자신의 턴에, 캐릭터는 최대 40피트까지 이동하고 한 번의 행동을 할 수 있습니다. 이는 주문 시전, 공격, 두 번째 이동, 또는 다른 행동일 수 있습니다. 매 라운드마다 PC들은 주사위를 굴리기 전에 무엇을 할지 선언합니다. 캐릭터가 위험한 시도를 한다면, 워든은 플레이어나 NPC에게 극복 굴림을 요구할 수 있습니다. 
 
-### Attacking & Damage
+### 공격과 피해
 
-- The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
-- If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
-- If an attack would take a PC's HP exactly to 0, refer to the [Scars](#scars-table) table to see how they are uniquely impacted.
+- 공격자는 무기 주사위를 굴리고 대상의 장갑을 빼낸 다음, 남은 합계를 상대의 HP에 적용합니다. 전투에서 공격은 자동으로 명중합니다.
+- 여러 공격자가 같은 적을 목표로 하면, 모든 피해 주사위를 굴리고 가장 높은 결과 하나만 유지합니다. 모든 행동은 굴림이 나오기 전에 선언되어야 합니다.
+- 공격이 PC의 HP를 정확히 0으로 만든다면, [흉터](#scars-table) 표를 참조하여 그들이 어떻게 특별한 영향을 받는지 확인하세요.
 
-### Attack Modifiers
+### 공격 수정치
 
-- If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_, and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
-- If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
-- Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions to a dragon’s breath or the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
-- If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
+- 불리한 위치에서 싸운다면(엄폐물 뒤로 공격하거나 손이 묶인 상태 등), 공격은 _약화_되며, 공격자는 공격의 피해 주사위와 관계없이 1d4 피해를 굴려야 합니다. 비무장 공격은 항상 d4 피해를 줍니다.
+- 유리한 위치에서 싸운다면(무력한 적에게 또는 대담한 움직임을 통해), 공격은 _강화_되며, 공격자는 일반 주사위 대신 1d12 피해를 굴릴 수 있습니다.
+- _광역_ 속성을 가진 공격은 표시된 지역의 모든 대상에게 영향을 주며, 영향받은 각 캐릭터마다 별도로 굴립니다. 이는 폭발부터 드래곤의 숨결, 운석의 충돌까지 모든 것이 될 수 있습니다. 얼마나 많은 대상이 영향을 받을지 확실하지 않다면, _관련 피해 주사위를 굴려 결과를 보세요_.
+- 두 개의 무기로 동시에 공격한다면, 두 피해 주사위를 모두 굴리고 가장 높은 결과 하나만 유지합니다(더하기 기호로 표시됨, 예: d8+d8).
 
-### Critical Damage
+### 치명적 피해
 
-- Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immediately make a STR save to avoid taking **Critical Damage**, using their _new STR score_. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
-- Any PC that suffers Critical Damage cannot do anything but crawl weakly, grasping for life. If given aid (such as bandages), they will stabilize. If left untreated, they die within the hour. NPCs and monsters that fail a Critical Damage save are considered dead, per the **Warden's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. 
+- 대상의 HP를 0 이하로 감소시키는 피해는 남은 피해량만큼 _그것의 근력에서_ 차감됩니다. 대상은 즉시 **치명적 피해**를 받지 않기 위해 _새로운 근력 수치_를 사용하여 STR 극복 굴림을 해야 합니다. 성공하면, 대상은 여전히 전투 중이며(비록 더 낮은 STR 수치를 가지지만) 피해를 입을 때마다 계속 치명적 피해 극복 굴림을 해야 합니다.
+- 치명적 피해를 입은 PC는 약하게 기어다니며 생명을 움켜쥐는 것 외에는 아무것도 할 수 없습니다. 도움(붕대 같은)을 받으면 안정됩니다. 치료받지 못하면 한 시간 내에 죽습니다. 치명적 피해 극복 굴림에 실패한 NPC와 몬스터는 **워든**의 재량에 따라 죽은 것으로 간주됩니다. 추가로, 일부 적들은 대상이 치명적 피해 극복 굴림에 실패했을 때 발동되는 특수 능력이나 효과를 가지고 있습니다. 
 
-### Attribute Loss
+### 능력치 손실
 
-- If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
-- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+- PC가 전투 외에서 피해를 입으면, 대신 능력치에 피해를 받아야 하며, 일반적으로 근력입니다.
+- PC의 근력이 0으로 감소하면 죽습니다. 민첩이 0으로 감소하면 마비됩니다. 정신이 0으로 감소하면 정신착란 상태가 됩니다. 완전한 민첩과 정신 상실은 장기 휴식이나 특별한 수단으로 회복될 때까지 캐릭터가 행동할 수 없게 만듭니다.
 
-### Character Death
+### 캐릭터 사망
 
-- When a character dies, the player should create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+- 캐릭터가 죽으면, 플레이어는 새 캐릭터를 만들거나 고용인을 조종해야 합니다. 그들은 기다리는 시간을 줄이기 위해 즉시 파티에 합류합니다.
 
-### Detachments
+### 부대
 
-- Large groups of similar combatants fighting together are treated as a single _Detachment_. When a _detachment_ takes **Critical Damage**, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
-- Attacks against detachments by individuals are _impaired_ (excluding _blast_ damage). Attacks against individuals by detachments are _enhanced_ and deal _blast_ damage.
+- 함께 싸우는 유사한 전투원들의 대규모 집단은 단일 _부대_로 취급됩니다. _부대_가 **치명적 피해**를 입으면, 패주하거나 크게 약화됩니다. 근력이 0에 도달하면 파괴됩니다.
+- 개인이 부대를 공격할 때는 _약화_됩니다(_광역_ 피해 제외). 부대가 개인을 공격할 때는 _강화_되며 _광역_ 피해를 줍니다.
 
-### Retreat
+### 후퇴
 
-- Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+- 위급한 상황에서 도망치려면 항상 성공적인 민첩 극복 굴림이 필요하며, 도망칠 안전한 목적지도 있어야 합니다.
 
-### Ranged Attacks
+### 원거리 공격
 
-- Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are _Impaired_.
-- Ammunition is not tracked unless otherwise specified. 
+- 원거리 무기는 그들의 눈의 흰자위를 볼 수 있을 만큼 가까운 모든 적을 목표로 할 수 있습니다. 특히 먼 목표에 대한 공격은 _약화_됩니다.
+- 달리 명시되지 않는 한 탄약은 세지 않습니다. 
 
-## Scars
+## 흉터
 
-If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the _amount of HP lost in the attack_. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). 
+PC에 대한 피해가 HP를 정확히 0으로 만든다면, _공격에서 잃은 HP의 양_을 기준으로 아래 표에서 결과를 찾으세요. 예를 들어, PC가 3 HP에서 0 HP가 되었다면, 3번 항목(타격 받음)을 보게 됩니다.
 
-### Scars Table
+### 흉터 표 {#scars-table}
 
 |             |                                                                                                                                                                                                                           |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **HP Lost** | **Result**                                                                                                                                                                                                                |
-| 1           | Lasting Scar: Roll 1d6. 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                     |
-| 2           | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                           |
-| 3           | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP.                                                         |
-| 4           | Broken Limb: Roll 1d6. 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result.                                                                         |
-| 5           | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result.                                                           |
-| 6           | Reorienting Head Wound: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute, take the new result.                                                                        |
-| 7           | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result.                                                              |
-| 8           | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.                                                                              |
-| 9           | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result.                                                                                    |
-| 10          | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6.                                                                |
-| 11          | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
-| 12          | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+| **잃은 HP** | **결과**                                                                                                                                                                                                                |
+| 1           | 지속되는 흉터: 1d6을 굴립니다. 1: 목, 2: 손, 3: 눈, 4: 가슴, 5: 다리, 6: 귀. 1d6을 굴리세요. 합계가 최대 HP보다 높으면, 새로운 결과를 취하세요.                                                                     |
+| 2           | 충격적인 일격: 당신은 어지럽고 몸이 흔들립니다. 어떻게 정신을 가다듬는지 묘사하세요. 1d6을 굴리세요. 합계가 최대 HP보다 높으면, 새로운 결과를 취하세요.                                                                           |
+| 3           | 타격 받음: 당신은 날아가 얼굴부터 바닥에 처박히고 숨이 찹니다. 몇 시간 쉬기 전까지 **결핍** 상태가 됩니다. 그 후 1d6을 굴리고, 그만큼 최대 HP에 더합니다.                                                         |
+| 4           | 사지 골절: 1d6을 굴립니다. 1-2: 다리, 3-4: 팔, 5: 갈비뼈, 6: 두개골. 치료되면 2d6을 굴리세요. 합계가 최대 HP보다 높으면, 새로운 결과를 취하세요.                                                                         |
+| 5           | 감염: 역겹고 불편한 감염에 시달립니다. 나으면 2d6을 굴리세요. 합계가 최대 HP보다 높으면, 새로운 결과를 취하세요.                                                           |
+| 6           | 어지러운 머리 부상: 1d6을 굴립니다. 1-2: 근력(STR), 3-4: 민첩(DEX), 5-6: 정신(WIL). 3d6을 굴리세요. 합계가 현재 능력치보다 높으면, 새로운 결과를 취하세요.                                                                        |
+| 7           | 힘줄 손상: 큰 도움을 받아 쉬기 전까지는 거의 움직일 수 없습니다. 회복 후 3d6을 굴리세요. 합계가 최대 민첩(DEX)보다 높으면, 새로운 결과를 취하세요.                                                              |
+| 8           | 난청: 특별한 도움을 찾기 전까지 아무 소리도 들리지 않습니다. 그와 상관없이 정신(WIL) 극복 굴림을 하세요. 통과하면 최대 정신(WIL)을 1d4만큼 증가시킵니다.                                                                              |
+| 9           | 뇌가 흔들림: 정신의 숨은 일부가 덜컥 풀립니다. 3d6을 굴리세요. 합계가 최대 정신(WIL)보다 높으면, 새로운 결과를 취하세요.                                                                                    |
+| 10          | 신체 파손: 사지가 뜯겨 나가거나, 망가지거나, 쓸모없게 됩니다. (무엇인지는 워든이 말해줍니다.) 그 후 정신(WIL) 극복 굴림을 하세요. 통과하면 최대 정신(WIL)을 1d6만큼 증가시킵니다.                                                                |
+| 11          | 치명적 피해: 당신은 결핍 상태이고 전투 불능입니다. 치료받지 않으면 한 시간 내에 죽습니다. 회복되면 2d6을 굴리세요. 새로운 결과를 최대 HP로 취하세요.                                                                         |
+| 12          | 죽음의 운명: 죽음이 매우 가까워 보였지만, 어떻게든 살아남았습니다. 치명적 피해에 대한 다음 극복 굴림이 실패하면, 끔찍하게 죽습니다. 통과하면 3d6을 굴리세요. 합계가 최대 HP보다 높으면, 새로운 결과를 취하세요. |
 
-## Magic
+## 마법
 
-### Spellbooks 
+### 주문서
 
-- **Spellbooks** contain a single spell and take up one slot. They cannot be easily transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
-- Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
-- Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+- **주문서**는 하나의 주문을 담고 있으며 한 칸을 차지합니다. 쉽게 필사하거나 만들 수 없으며, 대신 무덤, 던전, 저택 같은 곳에서 회수됩니다.
+- 주문서는 때때로 비정상적인 속성이나 제한을 보입니다. 열었을 때 불쾌하거나 초자연적인 냄새를 내거나, 타고난 지능을 가지고 있거나, 달빛 아래에서만 읽을 수 있는 등입니다.
+- 주문서는 그 안의 신비한 힘을 찾는 자들의 주의를 끌 것이며, 공개적으로 보이는 것은 위험하다고 여겨집니다.
 
-### Casting Spells
+### 주문 시전
 
-- Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a **Fatigue** to inventory. 
-- Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. 
-- If the PC is _deprived_ or in danger (such as during combat), the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect and may result in added **Fatigue**, the destruction of the Spellbook, injury, and even death.
+- 누구나 주문서를 양손으로 들고 그 내용을 소리내어 읽음으로써 주문을 시전할 수 있습니다. 그런 다음 소지품에 **피로**를 추가해야 합니다.
+- 시간과 안전이 주어지면, PC는 추가 비용 없이 주문의 효과를 _향상_시킬 수 있습니다(예: 여러 목표에 영향, 위력 증가 등).
+- PC가 _결핍_ 상태이거나 위험에 처해 있다면(전투 중 같은), 워든은 주문 시전으로 인한 악영향을 피하기 위해 PC에게 WIL 극복 굴림을 요구할 수 있습니다. 실패의 결과는 의도한 효과에 상응하며 추가 **피로**, 주문서의 파괴, 부상, 심지어 죽음까지 초래할 수 있습니다.
 
-### Scrolls
+### 두루마리
 
-**Scrolls** are similar to Spellbooks, however:
+**두루마리**는 주문서와 유사하지만, 다음과 같은 차이가 있습니다:
 
-- They are _petty_.
-- They do not cause **Fatigue**.
-- They disappear after one use.
+- _소형_ 물건입니다.
+- **피로**를 유발하지 않습니다.
+- 한 번 사용 후 사라집니다.
 
-### Relics
+### 유물
 
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have limited use, as well as a **Recharge** condition.
+**유물**은 마법 주문이나 힘이 깃든 아이템입니다. 피로를 유발하지 않습니다. 유물은 보통 제한된 사용 횟수와 **재충전** 조건을 가집니다.

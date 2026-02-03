@@ -1,47 +1,46 @@
 ---
-title: Half Witch
+title: 반마녀
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Half Witch
+# 반마녀
 
-> Born of both the mortal world and the unseen, you are an enigma to some and feared by many. Yours is the tale of what happens when two worlds collide.
+> 현세와 보이지 않는 세계 모두에서 태어난 당신은 일부에게는 수수께끼이고 많은 이들에게 두려움의 대상입니다. 당신의 이야기는 두 세계가 충돌할 때 일어납니다.
 
-## Names
+## 이름
 
 Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 
-## Starting Gear
+## 시작 장비
  
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Spellbook (Thicket: A thicket of trees and dense
-brush up to 50ft wide suddenly sprouts up. _Wrapped in vines that must be destroyed again with each use._)
-- Iron Dagger (d6)
-- Herbs Pouch (restore 1 STR, 3 uses)
-- Ghillie Suit
+- 3d6 금화
+- 식량 (3회용)
+- 횃불 (3회용) 
+- 주문서 (덤불: 최대 50피트 넓이의 나무와 빽빽한 덤불이 갑자기 돋아납니다. _사용할 때마다 다시 파괴되는 덩굴로 감싸져 있습니다._)
+- 철 단검 (d6)
+- 약초 주머니 (1 근력 회복, 3회용)
+- 길리슈트
 
-## What did you bring back from the Unseelie Court? Roll 1d6:
+## 언실리의 궁정에서 무엇을 가져왔는가? 1d6 굴림:
 
 |       |                                                                                                                                                                                                                                                               |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A **Black Rose Fiddle** (_bulky_). Its music causes intense sadness and immobility in nearby mortals. (Others are merely fascinated.) You don't know how to play.                                                                                              |
-| **2** | **Paper legs**. You are extremely light, and can fall a few stories without getting hurt. Try to avoid tearing them or getting them wet.                                                                                                                                |
-| **3** | A **Living Nightmare** that dwells within you but manifests whenever you are in danger. It has your same **Attributes** and **HP** and attacks with claws (d8+d8). It disappears on **Critical Damage** (take 1d4 WIL damage), re-appearing again on the next full moon. |
-| **4** | A **Raven Familiar** [8 HP, 3 STR, 11 DEX, 13 WIL, beak, (d6)]. It speaks as an intelligent being and is entirely devoted to you.                                                                                                                             |
-| **5** | A **Briar Thorn**. It can pierce any organic material (quite painfully) but when removed leaves no trace of the intrusion.                                                                                                                                    |
-| **6** | A Fae creature's **True Name**. Use it to summon its owner for an act of great service, but only once. It could also fetch a hefty price, from the right buyer.                                                                                               |
+| **1** | **검은 장미 바이올린** (_대형_). 그 음악은 근처의 필멸자들에게 강한 슬픔과 거동 불능을 일으킵니다. (다른 존재들은 단지 매혹됩니다.) 연주법을 모릅니다.                                                                                              |
+| **2** | **종이 다리**. 당신은 매우 가벼워서 몇 층을 떨어져도 다치지 않습니다. 찢기거나 적시지 않도록 조심하세요.                                                                                                                                |  
+| **3** | **살아있는 악몽**. 당신 안에 거주하지만 위험할 때마다 나타납니다. 당신과 동일한 **능력치**와 **피격치**을 가지며 발톱으로 공격합니다 (d8+d8). **치명적 피해** 시 사라집니다 (1d4 정신 피해). 다음 보름달에 다시 나타납니다. |
+| **4** | **까마귀 사역마** [8 피격치, 3 근력, 11 민첩, 13 정신, 부리 (d6)]. 지능을 가진 존재처럼 말하며 당신에게 완전히 헌신적입니다.                                                                                                                             |
+| **5** | **가시나무 가시**. 모든 유기물을 관통할 수 있지만 (매우 고통스럽게) 제거할 때는 침투의 흔적을 남기지 않습니다.                                                                                                                                    |
+| **6** | 요정의 **진명**. 한 번만 사용하여 주인을 소환하여 큰 봉사를 요구할 수 있습니다. 적절한 구매자에게는 상당한 가격을 받을 수도 있습니다.                                                                                               |
 
-## What concoction do you carry, and what rare ingredients did you gather to make it? Roll 1d6:
+## 어떤 조합물을 지니고 있으며, 만들기 위해 어떤 희귀한 재료를 모았는가? 1d6 굴림:
 
 |       |                      |                                                                                                                                                                                |
 | ----- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Rebirth Ash**      | Remnants of a bark spirit. Sprinkle to reignite a fire that has died or return to life a creature that has died only moments before. 3 uses.                                  |
-| **2** | **Glamour Feather**  | Plume of a firebird. Can make any creature appear convincingly as someone (or something) else. 1 use.                                                                         |
-| **3** | **Hawthorn Seed**    | An acorn from the other side, gathered on the spring equinox. When planted, it sprouts a luxurious shelter, collapsing at moonrise the next day. 1 use.                         |
-| **4** | **Stonetree Sap**    | Sap obtained in exchange for blood. Hardens when rubbed on any surface (+1 Armor). 3 uses.        |
-| **5** | **Nightdust Powder** | Made from the ritual burning of six owls. When tossed in the air, day turns to night for a short while. 2 uses.                                                             |
-| **6** | **Hex Stone**        | Gathered from a river that flows from the _other side_. Removed from its iron tin, it can absorb the effects of an active magical effect. If destroyed, the magic is released. 1 use. |
+| **1** | **재생 재**      | 나무껍질 정령의 재. 뿌리면 꺼진 불을 다시 붙이거나 방금 죽은 생물을 살릴 수 있습니다. 3회용.                                  |
+| **2** | **환영 깃털**  | 불새의 깃털. 모든 생물을 다른 누군가(또는 무언가)로 설득력 있게 보이게 할 수 있습니다. 1회용.                                                                         |
+| **3** | **산사나무 씨앗**    | 다른 쪽의 도토리로 봄 춘분에 모았습니다. 심으면 호화로운 쉼터가 돋아나며 다음 날 달이 뜸 때 무너집니다. 1회용.                         |
+| **4** | **돌나무 수액**    | 피와 교환하여 얻은 수액. 모든 표면에 문지르면 굳습니다 (+1 장갑). 3회용.        |
+| **5** | **밤먼지 가루** | 여섯 마리의 올빼미를 의식적으로 태워 만든 것. 공중에 던지면 짧은 시간 동안 낮이 밤으로 바뀝니다. 2회용.                                                             |
+| **6** | **저주 돌**        | _다른 쪽_에서 흐르는 강에서 모았습니다. 쇠 통에서 꺼내면 활성된 마법 효과를 흡수할 수 있습니다. 파괴되면 마법이 풀려납니다. 1회용. |

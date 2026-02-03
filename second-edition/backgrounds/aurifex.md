@@ -1,45 +1,45 @@
 ---
-title: Aurifex
+title: 연금술사
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Aurifex
+# 연금술사
 
-> You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop, the laws that govern this world are warped to suit your needs. 
+> 당신은 신비를 다루는 기술자이자 미묘한 힘을 다루는 대장장이입니. 당신의 작업실 도가니 속에서, 이 세계를 지배하는 법칙들은 당신의 필요에 맞게 왜곡됩니다.
 
-## Names
+## 이름
 
-Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
+헤스티아, 바질, 룬, 프리즘, 엠버, 퀸테스, 알루델, 모단트, 살라만, 자지아
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Lantern
-- Oil Can (6 uses)
-- Needle-knife (d6)
-- Protective Gloves (_petty_)
+- 3d6 금화
+- 식량 (3회 사용)
+- 랜턴
+- 기름통 (6회 사용)
+- 바늘칼 (d6)
+- 보호 장갑 (_소형_)
 
-## What went horribly wrong? Roll 1d6:
+## 무엇이 끔찍하게 잘못되었는가? 1d6을 굴리시오:
 
 |       |                                                                                                                                                                                                                                     |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | There was an explosion, and you lost your sense of smell. Well, almost: you can sniff out gold as a pig does truffles. Take a **Tin of Snuff** (6 uses) to dampen the impact. Use it every day or become _deprived_.                                  |
-| **2** | You dematerialized a beloved pet. Now it follows you around, invisible but always present. Although it cannot interact with the physical realm, you are able to share its senses. (Add a **Fatigue** each time.) It follows basic commands. |
-| **3** | You were exposed to a long-acting truth serum whose effects have yet to wear off. The disorder has its advantages: you cannot repeat lies you've heard, either.                                                                     |
-| **4** | You were adept at creating _fake_ gold, which is almost as good. Eventually, your ruse was discovered, and you had to make a hasty retreat. Take a heavy **Metal Ingot** and **Gold Powder** (3 uses).                                                    |
-| **5** | Your alchemical recipe worked, but a rival stole the blueprint before your claims could be proven. Take a prototype **Blunderbuss** (d12, _blast_, _bulky_) that takes one round to reload, and a taste for revenge.                                                      |
-| **6** | Ridiculed for discovering how to turn gold into _lead_, you were a laughing stock. Take a bottle of **Universal Solvent** (2 uses) that dissolves anything it touches into its constituent parts.                                   |
+| **1** | 폭발이 있었고, 당신은 후각을 잃었다. 글쎄, 거의 잃었다: 돼지가 송로버섯을 찾듯이 금을 냄새로 찾을 수 있다. **코담배 통** (6회 사용)을 가져라, 그 영향을 완화하기 위해. 매일 사용하지 않으면 _결핍_ 상태가 된다.                                  |
+| **2** | 당신은 사랑하는 애완동물을 비물질화시켰다. 이제 그것은 보이지 않지만 항상 존재하며 당신을 따라다닌다. 물리적 영역과 상호작용할 수는 없지만, 당신은 그 감각을 공유할 수 있다. (이 때 매번 **피로**를 추가한다.) 기본적인 명령을 따른다. |
+| **3** | 당신은 아직 효과가 사라지지 않은 장기 작용 진실 혈청에 노출되었다. 이 장애에는 장점이 있다: 당신은 들은 거짓말도 다시 말할 수 없다.                                                                     |
+| **4** | 당신은 _가짜_ 금을 만드는 데 능숙했는데, 그것은 거의 진짜만큼 좋다. 결국 당신의 속임수가 발각되어 급히 도망쳐야 했다. 무거운 **금속 주괴**와 **금 가루** (3회 사용)를 가져라.                                                    |
+| **5** | 당신의 연금술 레시피는 효과가 있었지만, 경쟁자가 당신의 주장이 입증되기 전에 설계도를 훔쳤다. 시제품 **나팔총** (d12, _광역_, _대형_)를 가져라, 재장전에 한 라운드가 걸린다. 그리고 복수의 욕망을.                                                      |
+| **6** | 금을 _납_으로 바꾸는 방법을 발견했다는 이유로 조롱받았고, 웃음거리가 되었다. **만능 용해제** 한 병 (2회 사용)을 가져라, 그것이 닿는 모든 것을 구성 성분으로 녹인다.                                   |
 
-## What alchemical marvel is the product of your latest ingenuity? Roll 1d6:
+## 당신의 독창성의 산물인 연금술적 경이는 무엇인가? 1d6을 굴리시오:
 
 |       |                    |                                                                                                                                                                                                                      |
 | ----- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Pyrophoric Gel** | A sticky green fluid that catches fire when exposed to air, then burns for 8 hours. Cannot be extinguished (1 use).                                                                                                |
-| **2** | **Blast Sphere**   | A head-sized iron ball filled with explosive powder that detonates on impact (d12, _blast_, _bulky_, 1 use).                                                                                                             |
-| **3** | **Aqua Vita**      | Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR (1 use).                                                                                                                                         |
-| **4** | **Mimic Stone**    | Records a short phrase that can later be played back.                                                                                                                                                     |
-| **5** | **Spark Dust**     | Ignites easily and quickly. Useful for starting a fire or as an incendiary device (3 uses).                                                                                                                           |
-| **6** | **Homunculus**     | A miniature clay replica of yourself that follows your every command. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. 3 HP, 4 STR, 13 DEX, 5 WIL |
+| **1** | **발화성 젤** | 공기에 노출되면 불이 붙는 끈적한 녹색 액체로, 8시간 동안 탄다. 소화할 수 없다 (1회 사용).                                                                                                |
+| **2** | **폭발 구체**   | 폭발 화약으로 가득 찬 머리 크기의 철구로 충격 시 폭발한다 (d12, _광역_, _대형_, 1회 사용).                                                                                                             |
+| **3** | **생명의 물**      | 모든 액체를 정화하여 순수한 물로 변환한다. 마시면 1d6 근력을 치유한다 (1회 사용).                                                                                                                                         |
+| **4** | **흉내돌**    | 짧은 문구를 녹음하여 나중에 재생할 수 있다.                                                                                                                                                     |
+| **5** | **불꽃 가루**     | 쉽게 그리고 빠르게 점화된다. 불을 피울 때나 인화성 장비로 유용하다 (3회 사용).                                                                                                                           |
+| **6** | **호문클루스**     | 당신의 모든 명령을 따르는 당신 자신의 소형 점토 복제품. 그것은 당신에게 얽매여 있는 것을 싫어하며 가능할 때마다 심하게 불평한다. 호문클루스에 가해진 모든 피해는 당신에게도 가해진다. 3 피격치, 4 근력, 13 민첩, 5 정신 |

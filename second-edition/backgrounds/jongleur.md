@@ -1,46 +1,46 @@
 ---
-title: Jongleur
+title: 음유시인
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Jongleur
+# 음유시인
 
-> What inspires the soul more than song, words, and spectacle? Why practice for years to master the arcane when you've already got real magic inside? 
+> 노래, 말, 무대보다 영혼을 더 고무시키는 것이 있을까요? 마법을 오랜 세월 연습하는 데 의미가 있을까요? 당신은 이미 내면에 진짜 마법을 가지고 있습니다!
 
-## Names
+## 이름
 
 Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo   
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Costume
-- Simple Instrument (Pipes, Lute, etc.)
-- Lucky Jerkin (+1 Armor)
-- Sling (d6)
+- 3d6 금화
+- 식량 (3회용)
+- 횃불 (3회용) 
+- 의상
+- 간단한 악기 (파이프, 류트 등)
+- 행운의 조끼 (+1 장갑)
+- 돌팔매 (d6)
 
-## What happened at your final performance? Roll 1d6:
+## 마지막 공연에서 무슨 일이 있었는가? 1d6 굴림:
 
 |       |                                                                                                                                                                                                                                                        |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | Despite your training in the deadly arts, an actor died and you were blamed. Take a light-weight **Rapier** (d6) and a false identity.                                                                                                                 |
-| **2** | The crowd loved your catchy tune about a noble and his romantic failings. The noble in question, not so much. Take the _Read Mind_ **Spellbook** and a warrant for your arrest. Read Mind: You can hear the surface thoughts of nearby creatures. _Long-term possession can cause the reader to mistake the thoughts of others as their own._                                                                        |
-| **3** | Your debut composition reduced the audience to a gibbering mess, murmuring of bright creatures descending from the night sky. Later you noticed that the notes resembled stellar constellations. Take a **Book On Astronomy**, and a lot of questions. |
-| **4** | You mocked a forgotten trickster god and were cursed for it. You speak only in perfect rhyme. Ironically, this has only made you more popular among your peers. Take a **Thesaurus** (20gp). Without it, you are _deprived_.               |
-| **5** | You were scarred in an on-stage accident. The crowd cheered, thinking it was part of the act. Take well-worn **Stage Mail** (1 Armor), a memorable scar, and a fear of applause.                                                                       |
-| **6** | Your respectable puppeteering skills were matched only by your mimicry. You were so good you were branded a witch (literally) and banished. Take an **Uncanny Hand-Puppet** and a **Rabbit Skull** (_petty_) that protects against charms.     |
+| **1** | 치명적인 기술을 훈련받았음에도 배우가 죽었고 당신이 비난받았습니다. 가벼운 **레이피어** (d6)와 가명을 얻습니다.                                                                                                                 |
+| **2** | 군중은 귀족과 그의 실패한 연애에 대한 당신의 매력적인 곡을 사랑했습니다. 문제의 귀족은 그렇지 않았죠. _마음 읽기_ **주문서**와 체포영장을 얻습니다. 마음 읽기: 근처 생물의 표면 생각을 들을 수 있습니다. _장기 소지하면 다른 이들의 생각을 자신의 것으로 착각할 수 있습니다._                                                                        |
+| **3** | 당신의 데뷔 작곡은 청중을 웅얼거리는 괴물로 만들었고, 그들은 밤하늘에서 내려오는 밝은 생물들을 중얼거렸습니다. 나중에 음표가 별자리를 닮았다는 것을 알아챘습니다. **천문학 책**과 많은 의문을 얻습니다. |
+| **4** | 잊혀진 장난의 신을 조롱했다가 저주받았습니다. 완벽한 운율으로만 말할 수 있습니다. 아이러니하게도 이것은 동료들 사이에서 당신을 더 인기 있게 만들었습니다. **유의어 사전** (20금화)을 얻습니다. 그것 없이는 _결핍_됩니다.               |
+| **5** | 무대 사고로 흉터를 얻었습니다. 군중은 공연의 일부라고 생각하며 환호했습니다. 잘 닦은 **무대 갑옷** (1 장갑), 기억에 남을 흉터, 그리고 박수에 대한 두려움을 얻습니다.                                                                       |
+| **6** | 당신은 뛰어난 인형술과, 그에 뒤지지 않는 흉내 내기 재주를 지니고 있었습니다. 너무 뛰어나 마녀로 낙인이 찍히고 (말 그대로) 추방당했습니다. **기묘한 손 인형**과 매혹에 대항하게 하는 **토끼 해골** (_소형_)을 얻습니다.     |
 
-## What trinket were you unable to leave behind? Roll 1d6:
+## 버리고 떠날 수 없던 장신구는? 1d6 굴림:
 
 |       |                    |                                                                                                             |
 | ----- | ------------------ | ----------------------------------------------------------------------------------------------------------- |
-| **1** | **False Cuffs**    | Comfortable, realistic-looking cuffs. Only you know the trick to get out of them.                           |
-| **2** | **Pocket Theatre** | A set of small puppets and a folding stage. Good for quick distractions.                                    |
-| **3** | **Ghost Violin**   | A dark-gray violin that plays a haunting tune, mirrored by an invisible, distant twin.                      |
-| **4** | **Tragic Tales**   | Banned in proper company, this book becomes less bawdy and more harrowing towards the end. Worth **100gp**. |
-| **5** | **Mythos Mask**    | A plaster mask that allows one to take on a monster's countenance. Once it comes off, add a **Fatigue**.    |
-| **6** | **Rebreak Glass**  | A wine flute that can be broken multiple times, reforming after 24 hours. Makes a really loud noise.        |
+| **1** | **가짜 수갑**    | 편안하고 사실적으로 보이는 수갑. 빠져나오는 방법은 당신만 알고 있습니다.                           |
+| **2** | **포켓 극장** | 작은 인형들과 접는 무대. 빠른 주의 분산에 좋습니다.                                    |
+| **3** | **유령 바이올린**   | 음산한 선율을 연주하면, 보이지 않는 먼 곳의 쌍둥이가 그 소리를 거울처럼 되받아치는 짙은 회색의 바이올린.
+| **4** | **비극적 이야기들**   | 정중한 모임에서 금지된 이 책은 끝으로 갈수록 덜 음란하고 더 끔찍해집니다. **100금화** 가치. |
+| **5** | **신화 가면**    | 괴물의 모습을 취할 수 있는 석고 가면. 벗으면 **피로**를 추가합니다.    |
+| **6** | **재파쇄 유리칼**  | 여러 번 깨질 수 있으며 24시간 후 다시 형성됩니다. 정말 큰 소리를 냅니다.        |

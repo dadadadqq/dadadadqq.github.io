@@ -1,124 +1,124 @@
 ---
 layout: default
-title: Marketplace
+title: 상점
 parent: Player's Guide
 grand_parent: Second Edition
 ---
 
-# Marketplace 
+# 상점
 
-> All prices are in gold pieces  
+> 모든 가격은 금화 단위입니다.
 
-## Armor
+## 장갑
 
 |                               |     |
 | ----------------------------- | --- |
-| Shield (+1 Armor)             | 10  |
-| Helmet (+1 Armor)             | 10  |
-| Gambeson (+1 Armor)           | 15  |
-| Brigandine (1 Armor, _bulky_) | 20  |
-| Chainmail (2 Armor, _bulky_)  | 40  |
-| Plate (3 Armor, _bulky_)      | 60  |
+| 방패 (+1 장갑)             | 10  |
+| 헬멧 (+1 장갑)             | 10  |
+| 누비 갑옷 (+1 장갑)           | 15  |
+| 두정갑 (1 장갑, _대형_) | 20  |
+| 사슬 갑옷 (2 장갑, _대형_)  | 40  |
+| 판금 갑옷 (3 장갑, _대형_)      | 60  |
 
-## Weapons
+## 무기
 
 |                                                             |     |
 | ----------------------------------------------------------- | --- |
-| Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)             | 5   |
-| Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)            | 10  |
-| Halberd, War Hammer, Long Sword, etc. (d10 damage, _bulky_) | 20  |
-| Sling (d6 damage)                                           | 5   |
-| Bow (d6 damage, _bulky_)                                    | 20  |
-| Crossbow (d8 damage, _bulky_)                               | 30  |
+| 단검, 곤봉, 낫, 지팡이 등 (d6 피해)             | 5   |
+| 창, 검, 철퇴, 도끼, 도리깨 등 (d8 피해)            | 10  |
+| 할버드, 워해머, 롱소드 등 (d10 피해, _대형_) | 20  |
+| 돌팔매 (d6 피해)                                           | 5   |
+| 활 (d6 피해, _대형_)                                    | 20  |
+| 쇠뇌 (d8 피해, _대형_)                               | 30  |
 
-## Transport
+## 운송 수단
 
 |                          |     |
 | ------------------------ | --- |
-| Cart (+4 slots, _bulky_) | 30  |
-| Wagon (+8 slots, slow)   | 200 |
-| Horse (+4 slots)         | 75  |
-| Mule (+6 slots, slow)    | 30  |
-| Carriage Seat            | 5   |
-| Ship's Passage           | 10  |
+| 수레 (+4 칸, _대형_) | 30  |
+| 마차 (+8 칸, 느림)   | 200 |
+| 말 (+4 칸)         | 75  |
+| 노새 (+6 칸, 느림)    | 30  |
+| 마차 좌석            | 5   |
+| 선박 탑승           | 10  |
 
-## Upkeep & Recovery
+## 유지 및 회복
 
 |                               |     |
 | ----------------------------- | --- |
-| Room & Board (per night)      | 10  |
-| Private Room & Board (fits 4) | 35  |
-| Stable & Feed (per night)     | 5   |
-| Medical Healing               | 50  |
-| Rations (3 uses)              | 10  |
-| Animal Feed (3 uses, bulky)   | 5   |
+| 방과 식사 (하룻밤 당)      | 10  |
+| 개인실과 식사 (4명 수용) | 35  |
+| 마구간과 먹이 (하룻밤 당)     | 5   |
+| 의료 치료               | 50  |
+| 식량 (3회용)              | 10  |
+| 동물 사료 (3회용, _대형_)   | 5   |
 
-## Hirelings (per day)
+## 고용인 (하루 당)
 
 |                   |     |
 | ----------------- | --- |
-| Alchemist         | 30  |
-| Animal Handler    | 5   |
-| Blacksmith        | 15  |
-| Bodyguard         | 10  |
-| Local Guide       | 5   |
-| Lockpick          | 10  |
-| Navigator         | 10  |
-| Sailor            | 5   |
-| Scholar           | 20  |
-| Tracker           | 5   |
-| Trapper           | 5   |
-| Veteran Bodyguard | 20  |
+| 연금술사         | 30  |
+| 동물 조련사    | 5   |
+| 대장장이        | 15  |
+| 경호원         | 10  |
+| 현지 가이드       | 5   |
+| 열쇠공          | 10  |
+| 항해사         | 10  |
+| 선원            | 5   |
+| 학자           | 20  |
+| 추적자           | 5   |
+| 덫사냥꾼           | 5   |
+| 베테랑 경호원 | 20  |
 
 
-## Gear
+## 장비
 
 |                                                    |     |
 | -------------------------------------------------- | --- |
-| Air Bladder                                        | 5   |
-| Antitoxin                                          | 20  |
-| Bandages (3 uses)                                  | 30  |
-| Bathing Goods (Soap, Perfume, etc.)                | 5   |
-| Book                                               | 50  |
-| Caltrops                                           | 10  |
-| Card Deck                                          | 5   |
-| Chain (10ft)                                       | 10  |
-| Chalk (_petty_)                                    | 1   |
-| Chest                                              | 25  |
-| Chisel                                             | 5   |
-| Common Agents (Glue, Grease, etc.)                 | 10  |
-| Common Tools (Hammer, Shovel, etc.)                | 10  |
-| Compass                                            | 75  |
-| Complex Instruments (Bagpipes, Fiddle, etc.)       | 50  |
-| Containers (Sack, Waterskin, etc.)                 | 10  |
-| Cooking Gear (Pots, Utensils, etc.)                | 10  |
-| Costume Gear (Face Paint, Disguise)                | 15  |
-| Dowsing Rod                                        | 15  |
-| Expeditionary Gear (Climbing Spikes, Pulley, etc.) | 10  |
-| Fire Oil                                           | 10  |
-| Fishing Rod                                        | 10  |
-| Games (Cards, Dice, etc.)                          | 10  |
-| Gloves (_petty_)                                   | 20  |
-| Grappling Hook                                     | 25  |
-| Lantern                                            | 10  |
-| Mirror                                             | 5   |
-| Net                                                | 10  |
-| Oil Can (6 uses)                                   | 10  |
-| Outdoor Comfort (Blanket, Hammock, etc.)           | 10  |
-| Parchment (3 uses)                                 | 10  |
-| Pole (10ft)                                        | 5   |
-| Repellent (Wolfsbane, Mugwort, etc.)               | 10  |
-| Rope (25ft)                                        | 5   |
-| Sedative                                           | 30  |
-| Sewing Kit                                         | 20  |
-| Simple Instruments (Pipes, Lute, etc.)             | 10  |
-| Smoking Pipe (_petty_)                             | 15  |
-| Specialized Tools (Ink, etc.)                      | 20  |
-| Spiked Boots                                       | 15  |
-| Spyglass                                           | 40  |
-| Tent (fits 2, _bulky_)                             | 20  |
-| Thieving Tools (Lockpick, Metal File, etc.)        | 25  |
-| Torch (3 uses)                                     | 5   |
-| Trap (d6 STR damage)                               | 35  |
-| Whistle (_petty_)                                  | 15  |
-| Wilderness Clothes (Poncho, Cloak, etc.) (_petty_) | 15  |
+| 공기 주머니                                        | 5   |
+| 해독제                                          | 20  |
+| 붕대 (3회용)                                  | 30  |
+| 세면도구 (비누, 향수 등)                | 5   |
+| 책                                               | 50  |
+| 쇠못                                           | 10  |
+| 카드 덱                                          | 5   |
+| 사슬 (10피트)                                       | 10  |
+| 분필 (_소형_)                                    | 1   |
+| 궤짝                                              | 25  |
+| 끌                                             | 5   |
+| 일반 약품 (풀, 기름 등)                 | 10  |
+| 일반 도구 (망치, 삽 등)                | 10  |
+| 나침반                                            | 75  |
+| 복잡한 악기 (백파이프, 바이올린 등)       | 50  |
+| 용기 (자루, 물통 등)                 | 10  |
+| 조리 도구 (냄비, 식기 등)                | 10  |
+| 분장 도구 (분장, 변장)                | 15  |
+| 수맥 탐지봉                                        | 15  |
+| 원정 장비 (등반용 스파이크, 도르래 등) | 10  |
+| 불기름                                           | 10  |
+| 낚싯대                                        | 10  |
+| 놀이 도구 (카드, 주사위 등)                          | 10  |
+| 장갑 (_소형_)                                   | 20  |
+| 갈고리                                     | 25  |
+| 랜턴                                            | 10  |
+| 거울                                             | 5   |
+| 그물                                                | 10  |
+| 기름통 (6회용)                                   | 10  |
+| 야외용 침구 (담요, 해먹 등)           | 10  |
+| 양피지 (3회용)                                 | 10  |
+| 장대 (10피트)                                        | 5   |
+| 퇴치제 (늑대독, 쑥 등)               | 10  |
+| 밧줄 (25피트)                                        | 5   |
+| 진정제                                           | 30  |
+| 바느질 도구                                         | 20  |
+| 단순한 악기 (피리, 류트 등)             | 10  |
+| 담뱃대 (_소형_)                             | 15  |
+| 특수 도구 (잉크 등)                      | 20  |
+| 스파이크 장화                                       | 15  |
+| 망원경                                           | 40  |
+| 텐트 (2명용, _대형_)                             | 20  |
+| 도둑 도구 (자물쇠 따개, 줄 등)        | 25  |
+| 횃불 (3회용)                                     | 5   |
+| 덫 (d6 근력 피해)                               | 35  |
+| 호루라기 (_소형_)                                  | 15  |
+| 야외용 옷 (판초, 망토 등) (_소형_) | 15  |

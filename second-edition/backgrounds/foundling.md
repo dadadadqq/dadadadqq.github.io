@@ -1,47 +1,47 @@
 ---
-title: Foundling
+title: 버려진 아이
 layout: default
 parent: Backgrounds
 grand_parent: Second Edition
 ---
 
-# Foundling
+# 버려진 아이
 
-> An odd birthmark, a strange smell: somehow, the touch of _elsewhere_ still lingers. Wherever you are, you have trouble fitting in. Roll on the **Omens** table (even if you're not the youngest player), but keep the results private for now.
+> 기묘한 문양, 이상한 냄새: 어쩌든 _다른 곳_의 흔적이 여전히 남아 있습니다. 어디를 가든 당신은 어울리는 데 어려움을 겪습니다. **징조** 테이블에서 굴림하세요 (가장 어린 플레이어가 아니더라도). 그러나 결과는 당분간 비밀로 하세요.
  
-## Names
+## 이름
 
 Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Hazel
 
-## Starting Gear
+## 시작 장비
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Salt Pouch
-- Heirloom Amulet (_petty_, glows in the presence of magic)
-- Sling (d6)
-- Dagger (d6) 
+- 3d6 금화
+- 식량 (3회용)
+- 횃불 (3회용) 
+- 소금 주머니
+- 가문 부적 (_소형_, 주변의 마법에 빛남)
+- 돌팔매 (d6)
+- 단검 (d6) 
 
-## Who took you in? Roll 1d6:
+## 누가 당신을 거두었는가? 1d6 굴림:
 
 |       |                                                                                                                                                                                                                          |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | An old hunter. You were both quite happy, until it all ended. Take a **Weathered Longbow** (d8, _bulky_) and a **Leather Jerkin** (1 Armor).                                                                             |
-| **2** | A wizened apothecary, who taught you the healing arts but maintained a clinical detachment. Take a **Healing Unguent** (restores d4 STR, 1 use).                                                                                 |
-| **3** | A druid, who taught you the language of trees. When it came time to , you took with you only a **Gnarled Staff** (d8) and left a promise that one day you would return.                                                 |
-| **4** | A gruff blacksmith from a sleepy river town. You were always kept at arm's length. Now the forge is cold, and you've moved on. Take a **Smith's Apron** (_petty_) and a set of **Oft-mended Chain Mail** (2 Armor, _bulky_). |
-| **5** | A troupe of traveling entertainers. For a time, they were like family to you. One day you woke up and they were gone with no explanation. Take a **Storybook**, a **Dagger** (d6), and some burning questions.           |
-| **6** | The monks of a secluded forest monastery. When their rules became too strict, and you snuck away. Take a **Monk's Habit** (warm, _petty_) and a **Spellbook** of _Control Plants_. Control Plants: Nearby plants and trees obey you and gain the ability to move at a slow pace. _Leaves grow along the spine, and it smells faintly of decay._                                        |
+| **1** | 늙은 사냥꾼. 둘 다 행복했지만 이젠 모두 끝났습니다. **낡은 장궁** (d8, _대형_)과 **가죽 조끼** (1 장갑)를 얻습니다.                                                                             |
+| **2** | 현명한 약제사. 치유 기술을 가르쳤지만 임상적인 거리를 유지했습니다. **치유 연고** (d4 근력 회복, 1회용)를 얻습니다.                                                                                 |
+| **3** | 드루이드. 나무의 언어를 가르쳤습니다. 떠날 때가 되자 **매듭진 지팡이** (d8)만 가져가고 언젠가 돌아오겠다는 약속을 남겼습니다.                                                 |
+| **4** | 조용한 강 마을의 투박한 대장장이. 항상 거리를 유지했습니다. 이제 대장간은 차가워졌고 당신은 떠났습니다. **대장장이 앞치마** (_소형_)와 **자주 수선한 쇠사슬 갑옷** (2 장갑, _대형_)을 얻습니다. |
+| **5** | 여행 공연단. 한때는 그들이 당신에게 가족과 같았습니다. 어느 날 잠에서 깨니 설명도 없이 떠났습니다. **이야기책**, **단검** (d6), 그리고 많은 의문을 얻습니다.           |
+| **6** | 고립된 숲 수도원의 수도사들. 규율이 너무 엄격해지자 몰래 빠져나왔습니다. **수도복** (따뜻한, _소형_)과 _식물 제어_ **주문서**를 얻습니다. 식물 제어: 근처 식물과 나무가 당신에게 복종하며 느린 속도로 움직일 수 있습니다. _코등을 따라 잎이 자라고 약간 썸은 냄새가 납니다._                                        |
 
 
-## What keeps bad tidings at bay? Roll 1d6:
+## 무엇이 나쁜 조짐을 막아주는가? 1d6 굴림:
 
 |       |                   |                                                                                                                                         |
 | ----- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Pipeweed**      | Your good luck charm. Conversations tend to flow more easily after a smoke. 6 uses.                                                     |
-| **2** | **Stink Jar**     | Shattering this jar releases an odor so foul all nearby must make a STR save or immediately vomit. 1 use.                                 |
-| **3** | **Ivy Worm**      | A green worm often mistaken for a weed. Swallowed whole, it absorbs any toxins or rot in the body before exiting through the usual way. |
-| **4** | **Dream Stone**   | A smooth blue stone that helps recall dreams more clearly. Overuse can cause dream-addiction.                                           |
-| **5** | **Drowning Rod**  | A finger-sized wooden stick that doubles in size each time it is fully submerged in water. It does not shrink down again.         |
-| **6** | **Rabbit's Foot** | You were wearing it when they found you. They say it is the foot of she who left you and that it protects you from witch magic. _Petty_.       |
+| **1** | **파이프 잡초**      | 당신의 행운의 부적. 피운 후에는 대화가 더 원활하게 흐르는 경향이 있습니다. 6회용.                                                     |
+| **2** | **악취 항아리**     | 이 항아리를 깨면 너무나 역겨운 악취가 퍼져 근처의 모두가 근력 극복 굴림을 하지 않으면 즉시 구토합니다. 1회용.                                 |
+| **3** | **덩굴 벌레**      | 잔디로 오인되는 녹색 벌레. 통째로 삼키면 몸 안의 독소나 부패를 흡수한 후 일반적인 방법으로 나갑니다. |
+| **4** | **꿈의 돌**   | 꿈을 더 명확하게 기억하도록 돕는 부드러운 파란 돌. 과도한 사용은 꿈-중독을 유발할 수 있습니다.                                           |
+| **5** | **익사 막대**  | 손가락 크기의 나무 막대기로 물에 완전히 잠길 때마다 크기가 두 배가 됩니다. 다시 줄어들지는 않습니다.         |
+| **6** | **토끼 발** | 그들이 당신을 발견했을 때 착용하고 있었습니다. 당신을 버린 자의 것이며 흑마법으로부터 당신을 보호한다고 합니다. _소형_.       |

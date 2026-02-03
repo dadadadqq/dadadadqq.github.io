@@ -1,138 +1,138 @@
 ---
 layout: default
-title: Overview & Principles
+title: 개요와 원칙
 parent: Player's Guide
 grand_parent: Second Edition
 ---
 
-# Overview & Principles
+# 개요와 원칙
 
-## Overview
+## 개요
 
-### Neutrality
+### 중립성
 
-The Warden's role is to act as a neutral arbiter and portray the rules, situations, non-player characters (NPCs), and narrative clearly.
+워든의 역할은 중립적 중재자로서 행동하며, 규칙, 상황, 비플레이어 캐릭터(NPC), 그리고 서사를 명확하게 묘사하는 것입니다.
 
-### Classless
+### 클래스가 없음
 
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
+캐릭터의 역할이나 기술은 단일 클래스로 제한되지 않습니다. 대신, 그들이 지니고 있는 장비와 경험이 그들의 특기를 정의합니다.
 
-### Death
+### 죽음
 
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+캐릭터는 강력할 수 있지만, 다양한 형태의 위험에도 취약합니다. 죽음은 항상 가까이 있지만, 결코 무작위이거나 경고 없이 찾아오지 않습니다.
 
-### Fiction First
+### 이야기 우선
 
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are based on in-world elements and arbitrated by the Warden in dialogue with the players.
+주사위가 항상 장애물의 난이도나 결과를 반영하는 것은 아닙니다. 대신, 성공과 실패는 게임 세계 내의 요소에 기반하며 플레이어와의 대화를 통해 워든이 판단합니다.
 
-### Growth
+### 성장
 
-Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+캐릭터는 게임 내 성장을 통해 변화하며, 위험한 사건을 살아남고 장애물을 극복함으로써 새로운 기술과 능력을 얻습니다.
 
-### Player Choice
+### 플레이어의 선택
 
-Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
+플레이어는 자신이 내린 선택의 이유를 항상 이해해야 하며, 잠재적 위험에 대한 정보는 자유롭고 빈번하게 제공되어야 합니다.
 
-### Principles
+### 원칙
 
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+워든과 플레이어는 각기 비판적 사고, 탐험, 그리고 창발적 서사로 정의되는 특정 플레이 경험을 조성하는 데 도움이 되는 지침을 가지고 있습니다.
 
-### Shared Objectives
+### 공유된 목표
 
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore the party is typically working together towards a common goal, as a team.
+플레이어들은 공동의 배경, 캐릭터의 목표, 그리고 파티가 직면한 도전에 함께 참여할 것이라는 점에서 서로를 신뢰합니다. 따라서 파티는 보통 하나의 팀으로서 공통의 목표를 향해 협력합니다.
 
-## Principles for Players
+## 플레이어를 위한 원칙
 
-### Agency
+### 주체성
 
-- Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do; ask what you would do, too.
-- Be creative with your intuition, items, and connections.
+- 능력치와 관련 극복 굴림은 당신의 캐릭터를 정의하지 않습니다. 그것들은 도구일 뿐입니다.
+- 당신의 캐릭터가 무엇을 할지만 묻지 말고, 당신이 무엇을 할지도 물어보세요.
+- 당신의 직관, 아이템, 그리고 인맥을 활용하여 창의적으로 행동하세요.
 
-### Teamwork
+### 팀워크
 
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+- 문제에 빠르게 돌진하기 전에 다른 플레이어들의 합의를 구하세요.
+- 목표와 한계에 대해 같은 생각을 유지하고, 서로를 존중하며 혼자보다 집단으로 더 많은 것을 성취하세요.
 
-### Exploration
+### 탐험
 
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
+- 질문하고 세부 사항을 경청하는 것이 당신이 가진 어떤 능력치, 아이템, 기술보다 더 유용합니다.
+- 워든의 묘사를 의심 없이 받아들이되, 더 많은 정보를 구하는 것을 주저하지 마세요.
+- 앞으로 나아가는 단 하나의 정답은 없습니다.
 
-### Talking
+### 대화
 
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
+- NPC를 실제 사람처럼 대하고, 호기심을 바탕으로 안전하게 정보를 얻고 문제를 해결하세요.
+- 대부분의 사람들은 흥미롭고 폭력적이 되기 전에 대화로 해결하길 원한다는 것을 알게 될 것입니다.
 
-### Caution
+### 조심
 
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor, and retreat when things seem unfavorable.
+- 전투는 선택이며 드물게 현명한 선택입니다. 폭력이 목표를 달성하는 최선의 방법인지 고려하세요.
+- 유리한 상황을 만들려고 노력하고, 상황이 불리해 보이면 후퇴하세요.
 
-### Planning
+### 계획
 
-- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research, and ask around about your objectives.
+- 정찰, 은밀함, 사실 확인을 통해 장애물을 피할 방법을 생각하세요.
+- 조사를 하고 목표에 대해 물어보세요.
 
-### Ambition
+### 야망
 
-- Set goals, and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward, and play to see what happens.
+- 목표를 설정하고, 가진 것이 얼마 되지 않더라도 그 수단을 활용해 앞으로 나아가세요.
+- 아무것도 기대하지 마세요. 명성을 얻으세요.
+- 계속 앞으로 나아가고, 무슨 일이 일어나는지 보기 위해 플레이하세요.
 
-## Principles for Wardens
+## 워든을 위한 원칙
 
-### Information
+### 정보
 
-- Provide useful information about the game world as the characters explore it.
-- Players do not need to roll dice to learn about their circumstances.
-- Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
+- 플레이어가 게임 세계를 탐험하면서 유용한 정보를 제공하세요.
+- 플레이어는 자신의 상황에 대해 배우기 위해 주사위를 굴릴 필요가 없습니다.
+- 그들의 질문에 대해 도움이 되고 직접적으로 답하세요.
+- 정직하게 대답하고, 일관되게 묘사하며, 계속 질문할 수 있다는 것을 항상 알려주세요.
 
-### Difficulty
+### 난이도
 
-- Default to context and realism rather than numbers and mechanics.
-- If something the players want to do is sincerely impossible, no roll will allow them to do it.
-- Is what the player describes and how they leverage the situation sensible? Let it happen.
-- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
+- 숫자와 메커닉보다는 맥락과 현실성을 기본으로 하세요.
+- 플레이어가 하려는 것이 진심으로 불가능하다면, 어떤 판정도 그것을 할 수 없게 합니다.
+- 플레이어가 묘사한 것과 상황을 활용하는 방법이 합리적인가요? 그렇다면 일어나게 하세요.
+- 극복 굴림은 많은 불확실한 상황을 커버하며, 위험한 행동에 필요한 전부일 때가 많습니다.
 
-### Preparation
+### 준비 {#preparation}
 
-- The game world is organic, malleable and random. It intuits and makes sharp turns.
-- Use random tables and generators to develop situations, not stories or plots.
-- NPCs remember what the PCs say and do, and how they affect the world.
-- NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
+- 게임 세계는 유기적이고 유연하며, 우연을 품고 있습니다. 직관적으로 움직이고, 급격히 방향을 틀기도 합니다.
+- 무작위 표와 생성기를 사용해 이야기나 플롯이 아니라 _상황_을 발전시키세요.
+- NPC는 PC가 말하고 한 일, 그리고 그것이 세계에 끼친 영향을 기억합니다.
+- NPC는 죽고 싶어 하지 않습니다. 각 인물에게 자기 이익과 생존 의지를 심어주세요.
 
-### Narrative Focus
+### 서사 중심 {#narrative-focus}
 
-- Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
-- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+- 중요한 것은 수학이나 캐릭터 능력이 아니라, 플레이를 통해 창발적으로 생겨나는 경험입니다. 향상과 특화를 돕기 위해 무기 교관과 개인 퀘스트를 제공하세요.
+- 플레이어가 무엇을 원하고 필요로 하는지 주의 깊게 살핀 뒤, 그들의 앞에 현실적인 기회를 놓아주세요.
+- 목에 칼이 겨눠지면, 값비싼 갑옷과 인상적인 수련과 상관없이 죽습니다.
 
-### Danger
+### 위험 {#danger}
 
-- The game world produces real risk of pain and death for the player characters.
-- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
-- Put traps in plain sight and let the players take time to figure out a solution.
-- Give players opportunities to solve problems and interact with the world.
+- 게임 세계는 플레이어 캐릭터에게 실제로 고통과 죽음의 위험을 가져옵니다.
+- 심각한 위험이 있을 때는 플레이어에게 신호를 보내세요. 위험할수록 더 분명하게.
+- 함정을 눈에 띄게 놓고, 플레이어가 해결책을 찾을 시간을 주세요.
+- 플레이어가 문제를 해결하고 세계와 상호작용할 기회를 주세요.
 
-### Treasure
+### 보물 {#treasure}
 
-- A Treasure is specific to the environment from where it is recovered. It tells a story.
-- Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
-- Relics are not Treasure, though they are useful and interesting.
-- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
+- 보물은 회수한 환경에 특화된 것입니다. 보물은 이야기를 들려줍니다.
+- 보물은 매우 가치가 높고, 거의 언제나 부피가 크며, 가치와 위신을 넘어서는 용도는 드뭅니다.
+- 유물은 보물이 아니지만, 유용하고 흥미롭습니다.
+- 보물을 위협적인 적이 지키는 이국의 장소로 이끄는 미끼로 사용하세요.
 
-### Choice
+### 선택 {#choice}
 
-- Give players a solid choice to force outcomes when the situation lulls.
-- Use binary "so, A or B?" responses when their intentions are vague.
-- Work together using this conversational method to keep the game moving.
-- Ensure that the player character's actions leave their mark on the game world.
+- 상황이 느슨해질 때, 결과를 강제할 수 있는 확실한 선택지를 플레이어에게 제시하세요.
+- 의도가 모호하면 "그래서, A야 B야?" 같은 이분형 질문으로 응답하세요.
+- 이런 대화 방식을 사용해 함께 움직이며 게임의 흐름을 유지하세요.
+- 플레이어 캐릭터의 행동이 게임 세계에 흔적을 남기도록 하세요.
 
-### Die of Fate
+### 운명의 주사위 {#die-of-fate}
 
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
-- In these situations, roll 1d6. A roll of 4 or more generally favors the players.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+- 가끔은 무작위 요소가 필요할 때가 있습니다 (예: 날씨, 특정 캐릭터가 가진 고유 지식 등).
+- 이런 상황에서는 1d6을 굴립니다. 4 이상이면 대체로 플레이어에게 유리합니다.
+- 3 이하면 PC나 그들의 동료에게 불운이 찾아오는 쪽입니다.

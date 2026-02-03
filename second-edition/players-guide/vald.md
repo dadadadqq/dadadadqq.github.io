@@ -7,32 +7,33 @@ grand_parent: Second Edition
 
 # Vald
 
-## Introduction
+## 서론
 
-The implied setting of Cairn is called **Vald**, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as most adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative. 
+Cairn의 기본 설정은 **Vald**라고 불리며, 개간되었거나 정착된 모든 땅(도시, 마을, 숲 등)을 포괄합니다. 누가 통치하느냐는 중요하지 않습니다. 대부분의 모험은 작은 마을과 촌락, 숲, 그리고 왕국의 변경에서 일어납니다. 대부분의 주민들은 (지역과 관계없이) 지역 권력의 중심지를 _도시_라고 부르며, 때로는 경멸의 의미로도 사용합니다.
 
-Towns and villages are built near water and lumber sources, within a day's walk of each other. Larger villages may rely on nearby farms and hunters. Settlements are often organized around specific industries like lumber, brewing, fishing, or mining, with a Fieldwarden or Beast Handler protecting their most valued assets. 
+촌락과 마을은 물과 목재 공급원 근처에 지어지며, 서로 하루 걸음 거리 안에 자리합니다. 더 큰 마을은 주변의 농장과 사냥꾼에게 의존합니다. 정착촌은 종종 목재, 양조, 낚시, 채굴 같은 특정 산업을 중심으로 조직되며, 가장 귀중한 자산을 보호하기 위해 _벌판지기_나 _야수 조련사_를 두기도 합니다.
 
-Established trails between larger towns are fairly common, while maintained roads are almost non-existent except to the distant cities. Itinerant merchants, Kettlewrights, and various peddlers pass through settlements on a semi-regular basis, sometimes hiring Outriders to protect and escort larger caravans, or Rill Runners to help ferry passengers in the Riverlands.
 
-Even the smallest village may play host to scholarly types from the cities: a Scrivener, Aurifex, or Greenwise with keen interest in nearby tombs, barrows, and Gates. Often a Bonekeeper or Fungal Forager will be hired for their expertise, while clever adventurers will ensure that a Barber-Surgeon is never far away, or a Cutpurse if there is unsavory business that needs tending to. Of course, Mountebanks and Jongleurs often accompany these sorts, riding their coattails in hopes that they too will benefit from the next major discovery.
+큰 마을 사이에는 닳아진 오솔길이 제법 있지만, 멀리 떨어진 도시로 이어지는 길을 제외하면 관리되는 도로는 거의 없습니다. 떠돌이 상인, _땜장이_, 각종 행상들이 반쯤 규칙적으로 정착촌을 지나가며, 때로는 큰 대상단을 지키고 호위할 _기마용병_을 고용하거나, 리버랜드(Riverlands)에서 승객을 건네는 데 _물노래꾼_의 도움을 받기도 합니다.
 
-Those who enter the Wood hire a guide familiar with the territory, such as a Prowler or Fletchwind, while the truly determined traveler will seek the wisdom of a Half Witch or Foundling with some connection to its darker secrets. Closer to the border, the Marchguard work to keep the realm free of outside influence, while the Hexenbane seek to protect it from forces within.
+아주 작은 촌락이라도 도시에서 온 학자들을 맞이할 수 있습니다. 근처의 무덤과 고분, 그리고 게이트(Gates)에 관심이 많은 _필경사_, _연금술사_, _녹의 현자_ 같은 이들입니다. 전문성을 위해 _유골지기_나 _버섯 채집꾼_을 고용하는 일도 흔하며, 영리한 모험가들은 _이발-외과의_가 늘 가까이 있도록 하거나, 처리해야 할 꺼림칙한 일이 있다면 _도둑_을 곁에 두기도 합니다. 물론 _사기꾼_과 _음유시인_은 이런 무리를 따라다니며, 다음 대발견의 수혜를 함께 누리길 기대합니다.
 
-## The Wood
+숲(The Wood)으로 들어가는 이들은 _사냥꾼_이나 _궁수_처럼 지형에 밝은 안내인을 고용합니다. 더욱 완고한 여행자는 그 어두운 비밀과 어떤 식으로든 닿아 있는 _반마녀_나 _버려진 아이_의 지혜를 구합니다. 국경에 가까워질수록 _변경수비대_는 외부의 영향으로부터 왕국을 지키기 위해 움직이고, _마녀사냥꾼_은 내부에서 솟아나는 힘으로부터 이를 보호하려 합니다.
 
-The **Wood** surrounds and divides the realm, representing not just one forest, but _all_ forests. Denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its various peoples, creatures, and unrelenting natural elements have kept the outside world at bay since time immemorial. 
+## 숲 {#the-wood}
 
-At the core of each forest is a Heart Tree, the place where the forest is at its most powerful as well as its most dangerous. Each Heart Tree is born from a single Heartseed, acquired exclusively from a Heart Tree that is dying or dead. 
+**숲**(The Wood)은 왕국을 둘러싸고 갈라놓으며, 단 하나의 숲이 아니라 _모든_ 숲을 의미합니다. 숲의 거주민은 대단히 독립적이며, 오직 숲의 규칙만을 따른다고 믿습니다. 수많은 종족과 생명체, 그리고 가차 없는 자연은 태곳적부터 외부 세계를 멀리 밀어냈습니다.
 
-The Wood is populated by creatures strange and wondrous, such as Goblins, Spirits, Treants, Trolls, Werewolves, Witches, and even talking plants and animals. Most are openly hostile to outsiders (particularly humans), but others will (on occasion) parley with those that have shown respect for the Wood. Of course, all demonstrate utter respect for the Fae (sometimes called the **Pale Folk**, or the **Neighbors**).
+각 숲의 중심에는 심장나무(Heart Tree)가 있습니다. 숲이 가장 강력하면서도 가장 위험해지는 자리입니다. 각 심장나무는 오직 하나의 심장씨앗(Heartseed)에서 태어나며, 그 씨앗은 죽어가거나 이미 죽은 심장나무에서만 얻을 수 있습니다.
 
-Of course, the Wood is not empty of people. Those who can survive (or even thrive) in such places learn to live according to the rules of the forest, for those who ignore or foolishly oppose these rules often meet grisly ends. 
+숲에는 고블린, 영혼, 트렌트, 트롤, 늑대인간, 마녀, 심지어 말을 하는 식물과 동물까지, 기이하고 경이로운 존재들이 가득합니다. 대부분은 외부인(특히 인간)에게 노골적으로 적대적이지만, 어떤 이들은 (때로) 숲을 존중하는 자와 교섭하기도 합니다. 다만 모두가 예외 없이 페이(Fae)에게 절대적인 경의를 표합니다. 페이는 **창백한 이들** 또는 **이웃들**로 불리기도 합니다.
 
-## The Roots
+물론 숲에 사람이 없는 것은 아닙니다. 이곳에서 살아남는(혹은 번성하기까지 하는) 이들은 숲의 규칙에 따라 살아가는 법을 배웁니다. 그 규칙을 무시하거나 어리석게 거스르는 자는 흔히 끔찍한 최후를 맞이합니다.
 
-The **Roots** is a realm of mystery and horror underground, where vast caves loom as large as an emptied ocean, without even a hint of sunlight. The various creatures and wild animals that survive there have developed natural means to live in the utter darkness, adapting their eyesight to function in even the dimmest light or eschewing vision altogether.
+## 뿌리 {#the-roots}
 
-Entrances to the Roots, known as Gates, are scattered across the lands and are usually hidden or protected by powerful forces. Once opened, Gates permit dangerous creatures to pass through, giving them free reign over the weak and vulnerable.
+**뿌리**(The Roots)는 지하 깊은 곳의 신비와 공포의 영역입니다. 태양빛의 흔적조차 없는 곳에서, 거대한 동굴이 마치 물을 뺀 바다처럼 아득하게 펼쳐집니다. 그곳에서 살아남은 생명체와 야생 동물은 완전한 어둠에서 살기 위한 자연스러운 방식을 발달시켰습니다. 희미한 빛에서도 기능하도록 시각을 적응시키거나, 아예 시각 자체를 버리기도 합니다.
 
-Only the brave and foolish enter the Roots, and most do not return. The few that do whisper of the indescribable horrors and evil intelligence guarding these lost treasures. Still, there will always be those who cannot resist the draw of forgotten Relics, profound wealth, or knowledge, for there are rumors that creatures far more interesting than wild beasts make their home in the depths below.
+뿌리로 내려가는 입구는 게이트라 불리며, 땅 곳곳에 흩어져 있습니다. 게이트는 보통 숨겨져 있거나 강력한 힘의 보호를 받습니다. 게이트가 열리면 위험한 존재들이 통과할 수 있게 되어, 약하고 취약한 자들 위를 마음껏 활보하게 됩니다.
+
+용감하거나 어리석은 이들만이 뿌리로 들어가며, 대부분은 돌아오지 못합니다. 돌아오는 소수는, 잃어버린 보물을 지키는 형언할 수 없는 공포와 악의 지성을 속삭입니다. 그럼에도, 잊힌 유물과 막대한 부, 혹은 지식의 유혹을 참지 못하는 이들은 언제나 존재합니다. 야생 짐승보다 훨씬 흥미로운 존재들이 저 깊은 곳에 둥지를 틀고 있다는 소문이 있기 때문입니다.

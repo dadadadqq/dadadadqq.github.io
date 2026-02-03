@@ -1,194 +1,194 @@
 ---
 layout: default
-title: Character Creation
+title: 캐릭터 생성
 parent: Player's Guide
 grand_parent: Second Edition
 ---
 
-# Character Creation 
+# 캐릭터 생성 
 
-## Roll or choose a Background
+## 배경 굴리기 또는 선택하기
 
-- First, roll or choose from the [Backgrounds](#backgrounds) table below and note the page number. You will refer to that page for the next few steps.
-- Choose a name from the available list, then record each of your character's starting items. See [Inventory](#inventory) and [Inventory Slots](#inventory-slots) for how to record items. 
-- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](/second-edition/players-guide/marketplace) as well.
+- 먼저, 아래의 [배경](#backgrounds) 표에서 굴리거나 선택하고 페이지 번호를 기록하세요. 다음 몇 단계 동안 해당 페이지를 참조하게 됩니다.
+- 사용 가능한 목록에서 이름을 선택한 다음, 캐릭터의 시작 아이템을 기록하세요. 아이템 기록 방법은 [소지품](#inventory)과 [소지품 칸](#inventory-slots)을 참조하세요.
+- 배경에 포함된 각 표에서 굴리세요. 각 결과에서 나온 캐릭터의 아이템, 기술 또는 능력을 기록하세요. 일부 배경은 [상점](/second-edition/players-guide/marketplace)의 표도 참조하도록 요구할 수 있습니다.
 
-## Backgrounds
+## 배경
 
 |         |                                                                                 |        |                                                                             |
 | ------- | ------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------- |
-| **d20** | **Background**                                                                  |        |                                                                             |
-| **1**   | [Aurifex](/second-edition/backgrounds/aurifex)               | **11** | [Half-Witch](/second-edition/backgrounds/half-witch)     |
-| **2**   | [Barber-Surgeon](/second-edition/backgrounds/barber-surgeon) | **12** | [Hexenbane](/second-edition/backgrounds/hexenbane)       |
-| **3**   | [Beast Handler](/second-edition/backgrounds/beast-handler)   | **13** | [Jongleur](/second-edition/backgrounds/jongleur/)        |
-| **4**   | [Bonekeeper](/second-edition/backgrounds/bonekeeper/)        | **14** | [Kettlewright](/second-edition/backgrounds/kettlewright) |
-| **5**   | [Cutpurse](/second-edition/backgrounds/cutpurse)             | **15** | [Marchguard](/second-edition/backgrounds/marchguard/)    |
-| **6**   | [Fieldwarden](/second-edition/backgrounds/fieldwarden/)      | **16** | [Mountebank](/second-edition/backgrounds/mountebank)     |
-| **7**   | [Fletchwind](/second-edition/backgrounds/fletchwind)         | **17** | [Outrider](/second-edition/backgrounds/outrider)         |
-| **8**   | [Foundling](/second-edition/backgrounds/foundling)           | **18** | [Prowler](/second-edition/backgrounds/prowler)           |
-| **9**   | [Fungal Forager](/second-edition/backgrounds/fungal-forager) | **19** | [Rill Runner](/second-edition/backgrounds/rill-runner)   |
-| **10**  | [Greenwise](/second-edition/backgrounds/greenwise/)          | **20** | [Scrivener](/second-edition/backgrounds/scrivener)       |
+| **d20** | **배경**                                                                  |        |                                                                             |
+| **1**   | [연금술사](/second-edition/backgrounds/aurifex)               | **11** | [반마녀](/second-edition/backgrounds/half-witch)     |
+| **2**   | [이발-외과의](/second-edition/backgrounds/barber-surgeon) | **12** | [마녀사냥꾼](/second-edition/backgrounds/hexenbane)       |
+| **3**   | [야수 조련사](/second-edition/backgrounds/beast-handler)   | **13** | [음유시인](/second-edition/backgrounds/jongleur/)        |
+| **4**   | [유골지기](/second-edition/backgrounds/bonekeeper/)        | **14** | [땜장이](/second-edition/backgrounds/kettlewright) |
+| **5**   | [도둑](/second-edition/backgrounds/cutpurse)             | **15** | [변경수비대](/second-edition/backgrounds/marchguard/)    |
+| **6**   | [벌판지기](/second-edition/backgrounds/fieldwarden/)      | **16** | [사기꾼](/second-edition/backgrounds/mountebank)     |
+| **7**   | [궁수](/second-edition/backgrounds/fletchwind)         | **17** | [기마용병](/second-edition/backgrounds/outrider)         |
+| **8**   | [버려진 아이](/second-edition/backgrounds/foundling)           | **18** | [사냥꾼](/second-edition/backgrounds/prowler)           |
+| **9**   | [버섯 채집꾼](/second-edition/backgrounds/fungal-forager) | **19** | [물노래꾼](/second-edition/backgrounds/rill-runner)   |
+| **10**  | [녹의 현자](/second-edition/backgrounds/greenwise/)          | **20** | [필경사](/second-edition/backgrounds/scrivener)       |
 
-## Attributes, Hit Protection, and Traits 
+## 능력치, 피격치, 그리고 특성
 
-- Roll for your Characters **Attributes** and **Hit Protection**.
-- Roll for the rest  of your character's [Traits](#character-traits-d10), and then on the the [Bonds](#bonds) table.
-- Finally, roll for your character's **Age** (2d20+10). If you are the _youngest_ character, roll on the [Omens](#omens) table. The result should be read aloud to the other players. The Warden should incorporate Omens into the setting as they see fit.
+- 캐릭터의 **능력치**와 **피격치**을 굴리세요.
+- 캐릭터의 나머지 [특성](#character-traits-d10)을 굴린 다음, [인연](#bonds) 표에서도 굴리세요.
+- 마지막으로 캐릭터의 **나이** (2d20+10)를 굴리세요. 당신이 _가장 어린_ 캐릭터라면, [징조](#omens) 표에서 굴리세요. 결과는 다른 플레이어들에게 큰 소리로 읽어주어야 합니다. 워든은 징조를 적절하다고 판단되는 방식으로 설정에 통합해야 합니다.
 
-## Attributes
+## 능력치
 
-- Player Characters have just three Attributes: (**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**). 
-- Roll 3d6 for each of your character's **Attributes**, in order. You may then swap any two of the results. 
-- Attributes are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher. 
+- 플레이어 캐릭터는 단 세 가지 능력치를 가집니다: (**근력 (STR)**, **민첩 (DEX)**, **정신 (WIL)**). 
+- 캐릭터의 각 **능력치**를 순서대로 3d6을 굴리세요. 그런 다음 결과 중 두 개를 교환할 수 있습니다. 
+- 능력치는 보편적인 특성 설명이 아닙니다. 낮은 STR을 가진 캐릭터가 반드시 절망적으로 약한 것은 아닙니다. 그들은 여전히 무거운 문을 들어 올리거나 치명적인 전투에서 살아남을 수 있습니다! 단지 위험이 더 클 뿐입니다. 
 
-## Hit Protection
+## 피격치
 
-- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](/second-edition/players-guide/core-rules#healing--recovery). 
-- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](/second-edition/players-guide/core-rules#scars) table.
+- PC의 시작 **피격치** (HP)을 결정하기 위해 1d6을 굴리세요. 피격치는 전투에서 피해를 피하는 능력을 반영합니다. 이것은 캐릭터의 건강이나 체력을 나타내지 않으며, 오래 잃지도 않습니다. [회복과 치유](/second-edition/players-guide/core-rules#healing--recovery)를 참조하세요. 
+- 공격으로 PC의 HP가 정확히 0이 되면, 플레이어는 [**흉터**](/second-edition/players-guide/core-rules#scars) 표에서 굴려야 합니다.
 
-## Inventory
+## 소지품
 
-- Characters have a total of ten inventory slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
-- Each PC starts with a **Backpack** that can hold up to six slots of items or **Fatigue**. Carts (which must be pulled with both hands), horses, or mules can make a huge difference in how much a PC can bring with them on an adventure. **Hirelings** can also be paid to carry equipment. 
-- Inventory is abstract, dependent only on the fiction as adjudicated by the Warden. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. A character cannot fill more than ten slots.
+- 캐릭터는 총 10칸의 소지품 칸을 가지지만, 가방, 배낭, 말, 수레 등의 도움 없이는 편안하게 4−5개의 아이템만 운반할 수 있습니다.
+- 각 PC는 최대 6칸의 아이템이나 **피로**를 보관할 수 있는 **배낭**을 가지고 시작합니다. (양손으로 끌어야 하는) 수레, 말, 노새는 모험에 가져갈 수 있는 물건의 양에 큰 차이를 만들 수 있습니다. **고용인**도 돈을 받고 장비를 운반하도록 할 수 있습니다. 
+- 소지품은 추상적이며, 워든이 판단하는 이야기에만 의존합니다. 모든 소지품을 가득 채운 자(즉, 10칸을 모두 채운 자)는 0 HP로 감소됩니다. 캐릭터는 10칸을 초과하여 채울 수 없습니다.
 
-### Inventory Slots
+### 소지품 칸
 
-- Most items take up one slot unless otherwise indicated. 
-- _Petty_ items do not take up any slots. _Bulky_ items take up **two** slots. 
-- A bag of coins worth less than 100gp is _petty_ and does not occupy a slot.
+- 대부분의 아이템은 달리 명시되지 않는 한 1칸을 차지합니다. 
+- _소형_ 물건은 칸을 차지하지 않습니다. _대형_ 물건은 **두** 칸을 차지합니다. 
+- 100gp 미만의 동전 주머니는 _소형_ 물건으로 칸을 차지하지 않습니다.
 
-## Character Traits (d10)
+## 캐릭터 특성 (d10)
 
-### Physique
+### 체격
 
 |       |          |        |            |
 | ----- | -------- | ------ | ---------- |
-| **1** | Athletic | **6**  | Scrawny    |
-| **2** | Brawny   | **7**  | Short      |
-| **3** | Flabby   | **8**  | Statuesque |
-| **4** | Lanky    | **9**  | Stout      |
-| **5** | Rugged   | **10** | Towering   |
+| **1** | 탄탄한 | **6**  | 야윈 |
+| **2** | 괄대      | **7**  | 작은 키      |
+| **3** | 푸석푸석한   | **8**  | 조각같은 |
+| **4** | 함축한    | **9**  | 단단한      |
+| **5** | 거친   | **10** | 거대한   |
 
-### Skin
+### 피부
 
 |       |             |        |           |
 | ----- | ----------- | ------ | --------- |
-| **1** | Birthmarked | **6**  | Soft      |
-| **2** | Marked      | **7**  | Tanned    |
-| **3** | Oily        | **8**  | Tattooed  |
-| **4** | Rosy        | **9**  | Weathered |
-| **5** | Scarred     | **10** | Webbed    |
+| **1** | 반점이 있는 | **6**  | 부드러운      |
+| **2** | 흠집이 있는        | **7**  | 태워진    |
+| **3** | 기름진        | **8**  | 문신이 있는  |
+| **4** | 장미빛        | **9**  | 풍화에 시달린 |
+| **5** | 흉터가 있는     | **10** | 물갈퀴가 있는    |
 
-### Hair
+### 머리카락
 
 |       |         |        |           |
 | ----- | ------- | ------ | --------- |
-| **1** | Bald    | **6**  | Long      |
-| **2** | Braided | **7**  | Luxurious |
-| **3** | Curly   | **8**  | Oily      |
-| **4** | Filthy  | **9**  | Wavy      |
-| **5** | Frizzy  | **10** | Wispy     |
+| **1** | 대머리    | **6**  | 장발      |
+| **2** | 땋은 | **7**  | 풍성한 |
+| **3** | 곱슬한   | **8**  | 기름진      |
+| **4** | 더러운  | **9**  | 물결진 |
+| **5** | 고수머리  | **10** | 가느다란     |
 
-### Face
+### 얼굴
 
 |       |           |        |         |
 | ----- | --------- | ------ | ------- |
-| **1** | Bony      | **6**  | Perfect |
-| **2** | Broken    | **7**  | Rakish  |
-| **3** | Chiseled  | **8**  | Sharp   |
-| **4** | Elongated | **9**  | Square  |
-| **5** | Pale      | **10** | Sunken  |
+| **1** | 수척한      | **6**  | 완벽한 |
+| **2** | 추한    | **7**  | 불량한  |
+| **3** | 조각한  | **8**  | 날카로운   |
+| **4** | 길쭉한 | **9**  | 네모난  |
+| **5** | 창백한      | **10** | 움푹 들어간  |
 
-### Speech
+### 말투
 
 |       |         |        |            |
 | ----- | ------- | ------ | ---------- |
-| **1** | Blunt   | **6**  | Gravelly   |
-| **2** | Booming | **7**  | Precise    |
-| **3** | Cryptic | **8**  | Squeaky    |
-| **4** | Droning | **9**  | Stuttering |
-| **5** | Formal  | **10** | Whispery   |
+| **1** | 단도직입적인   | **6**  | 걸걸한   |
+| **2** | 쩌렁쩌렁한 | **7**  | 정확한    |
+| **3** | 비밀스러운 | **8**  | 삑삑거리는    |
+| **4** | 웅얼거리는 | **9**  | 더듬는 |
+| **5** | 격식차린  | **10** | 속삭이는   |
 
-### Clothing
+### 의복
 
 |       |         |        |        |
 | ----- | ------- | ------ | ------ |
-| **1** | Antique | **6**  | Frayed |
-| **2** | Bloody  | **7**  | Frumpy |
-| **3** | Elegant | **8**  | Livery |
-| **4** | Filthy  | **9**  | Rancid |
-| **5** | Foreign | **10** | Soiled |
+| **1** | 골동품 | **6**  | 찢어진 |
+| **2** | 피묻은  | **7**  | 투박한 |
+| **3** | 우아한 | **8**  | 제복 |
+| **4** | 더러운  | **9**  | 악취나는 |
+| **5** | 이국적인 | **10** | 얼룩진 |
 
-### Virtue
+### 미덕
 
 |       |             |        |           |
 | ----- | ----------- | ------ | --------- |
-| **1** | Ambitious   | **6**  | Honorable |
-| **2** | Cautious    | **7**  | Humble    |
-| **3** | Courageous  | **8**  | Merciful  |
-| **4** | Disciplined | **9**  | Serene    |
-| **5** | Gregarious  | **10** | Tolerant  |
+| **1** | 야심찬   | **6**  | 명예로운 |
+| **2** | 신중한    | **7**  | 겸손한    |
+| **3** | 용감한  | **8**  | 자비로운  |
+| **4** | 규율있는 | **9**  | 고요한    |
+| **5** | 사교적인  | **10** | 관대한  |
 
-### Vice
+### 악덕
 
 |       |            |        |          |
 | ----- | ---------- | ------ | -------- |
-| **1** | Aggressive | **6**  | Lazy     |
-| **2** | Bitter     | **7**  | Nervous  |
-| **3** | Craven     | **8**  | Rude     |
-| **4** | Deceitful  | **9**  | Vain     |
-| **5** | Greedy     | **10** | Vengeful |
+| **1** | 공격적인 | **6**  | 게으른     |
+| **2** | 냉소적인     | **7**  | 불안한  |
+| **3** | 비겁한     | **8**  | 무례한     |
+| **4** | 기만적인  | **9**  | 허영심이 강한     |
+| **5** | 탐욕스러운     | **10** | 복수심에 불타는 |
 
-## Bonds
+## 인연
 
 |         |                                                                                                                                                                                                                                                                                          |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **D20** | **Bond**                                                                                                                                                                                                                                                                                 |
-| **1**   | You inherited a **Single Gem** (500gp, cold and brittle) from a long-dead relative. It arrived with a warning: squander your newfound riches, and a debt long thought forgotten would be called in.                                                                                       |
-| **2**   | A distant cousin left you a small inheritance. Take **20Gp** and a **Strange Compass** (_petty_) that always points towards something deep in the Wood.                                                                                                                              |
-| **3**   | You carry a **Portrait** in a locket (_petty_) of a past love who disappeared into the Wood long ago. Somehow you know that they are still alive.                                                                                                                                    |
-| **4**   | You found a **Tiny Crystal Prism** (_petty_) buried in the dirt. When held up to the light, it shows visions of an unknown location deep within the Wood. Sometimes you feel a presence looking back at you.                                                                         |
-| **5**   | You once freed a Naiad from a choked stream. In return, it gave you some **Silver Moss** (petty). Swallow it near water, and the creature will come, once, to repay its debt.                                                                                                                    |
-| **6**   | You inherited an old **Journal**, bound in bark. Each evening, its pages are filled with the events of the day, crassly written from the journal's perspective. The writing is crude but accurate.                                                                                       |
-| **7**   | You protect a long-dormant family secret. Take one half of an **Ancient Key** (_petty_). They say that if joined with its twin, it opens a **Gate** through any door.                                                                                                                    |
-| **8**   | You received a **Letter** (_petty_) detailing incontrovertible proof that your true parentage is that of Fae nobility. The note also indicates a date and location where you are to meet the letter's author, deep in the the Wood.                                                  |
-| **9**   | You owe a great debt to a member of the nobility and carry their **Signet Ring** (_petty_), which serves as proof of their protection as well as your obligation.                                                                                                                        |
-| **10**  | You consumed a **Mischievous Spirit** that wreaks havoc on your insides, demanding to be taken home, deep in the Wood. It occupies one slot but absorbs one **Fatigue** each day. It wants you alive (for now). |
-| **11**  | A roaming storyteller once spun you tales of great treasure hidden deep in the Wood. You thought it naught but fancy, till they gave you **A Rolled-Up Map** (_petty_) marked with an X.                                                                                             |
-| **12**  | During your travels, you met a dying hunter who asked you to deliver a message to their loved ones. Take a **Letter** (_petty_), sealed with tree sap. It is addressed only to the **Lord Of Winter**.                                                                                   |
-| **13**  | You found a wounded beast in the forest but chose to ignore it. You see it everywhere now, but only when you're alone. It looks sad but not angry. You cannot become _panicked_ when acting alone.                                                                                       |
-| **14**  | You promised a childhood friend that you'd bring them back a rare gift, something unique in all the world. Take a **Bracelet** (_petty_) woven from twine and wildflowers.                                                                                                               |
-| **15**  | You crossed a creature of the Wood, and it cursed you with a **Stone Heart**. With each passing month, the stone grows heavier by one slot. Until your debt is lifted, you cannot truly die.                                                                      |
-| **16**  | You carved a **Whistle** (_petty_) from an **Oak Lord's** branch. Your act did not go unnoticed. You cannot seem to rid yourself of the whistle either.                                                                                                                                  |
-| **17**  | The **Dawn Brigade** did your family a service, giving you a dried **Blood-Red Flower** (_petty_) as proof. When the flower turns white, it means the favor is owed.                                                                                                                     |
-| **18**  | An entertainer once visited your home, filling it with story and song. He left one day without a word, leaving behind only **A Miniature Lute**. Something rattles inside.                                                                                                               |
-| **19**  | A white crow appeared to you in a dream, holding a twig in its mouth. You awoke the next morning with the **Twig** (_petty_) in your hand. You believe it brings you luck. It smells faintly of sulfur.                                                                                  |
-| **20**  | One of your ancestors wronged a **Moss Witch**, who cursed their bloodline. Your visage causes mirrors to shatter. You've noticed that the shards can sometimes reveal illusions.                                                                                                        |
+| **D20** | **인연**                                                                                                                                                                                                                                                                                 |
+| **1**   | 당신은 오래전 죽은 친척으로부터 **보석** (500gp, 차갑고 부서지기 쉬운)을 물려받았습니다. 경고와 함께 도착했습니다: 새로 얻은 부를 낭비하면, 오래전 잊혀진 빚이 요구될 것이라고.                                                                                       |
+| **2**   | 먼 사촌이 작은 유산을 남겼습니다. **20Gp**와 항상 숲 깊은 곳의 무언가를 가리키는 **이상한 나침반** (_소형_)을 가지세요.                                                                                                                              |
+| **3**   | 오래전 숲으로 사라진 옛 연인의 **초상화**를 로켓 (_소형_)에 담고 다닙니다. 어떻게든 그 사람이 아직 살아있다는 것을 알고 있습니다.                                                                                                                                    |
+| **4**   | 흙 속에 묻혀있던 **작은 수정 프리즘** (_소형_)을 발견했습니다. 빛에 비추면 숲 깊은 곳의 알 수 없는 장소의 환영을 보여줍니다. 때때로 당신을 되돌아보는 존재를 느낍니다.                                                                         |
+| **5**   | 당신은 한때 막힌 개울에서 나이아드를 구했습니다. 보답으로 그것은 당신에게 **은빛 이끼** (소형)를 주었습니다. 물 근처에서 그것을 삼키면, 그 생명체가 한 번, 빚을 갚기 위해 올 것입니다.                                                                                                                    |
+| **6**   | 나무껍질로 장정된 오래된 **일기장**을 물려받았습니다. 매일 저녁, 그 페이지는 일기장의 관점에서 조잡하게 쓰여진 하루의 사건들로 채워집니다. 글씨는 거칠지만 정확합니다.                                                                                       |
+| **7**   | 오랫동안 잠들어 있던 가문의 비밀을 지키고 있습니다. **고대 열쇠** (_소형_)의 절반을 가지세요. 그것의 다른 쪽과 합쳐지면 어떤 문이든 열 수 있다고 합니다.                                                                                                                    |
+| **8**   | 당신의 진짜 혈통이 요정 귀족이라는 반박할 수 없는 증거를 상세히 적은 **편지** (_소형_)를 받았습니다. 쪽지는 또한 숲 깊은 곳에서 편지의 저자를 만날 날짜와 장소를 나타냅니다.                                                  |
+| **9**   | 당신은 귀족의 일원에게 큰 빚을 지고 있으며 그들의 **인장 반지** (_소형_)를 소지하고 있습니다. 이것은 그들의 보호와 당신의 의무에 대한 증거로 작용합니다.                                                                                                                        |
+| **10**  | 당신은 숲 깊은 곳의 집으로 데려가 달라고 요구하며 당신의 내장에 혼란을 일으키는 **장난꾸러기 영혼**을 삼켰습니다. 한 칸을 차지하지만 매일 하나의 **피로**를 흡수합니다. 그것은 당신이 살아있기를 원합니다 (지금은). |
+| **11**  | 떠돌이 이야기꾼이 한때 숲 깊은 곳에 숨겨진 위대한 보물에 대한 이야기를 들려주었습니다. 단순한 환상이라고 생각했지만, 그들이 X 표시가 된 **말린 지도** (_소형_)를 주었습니다.                                                                                             |
+| **12**  | 여행 중에 당신은 사랑하는 이들에게 메시지를 전달해달라고 부탁하는 죽어가는 사냥꾼을 만났습니다. 나무 수액으로 봉인된 **편지** (_소형_)를 가지세요. 오직 **겨울의 군주**에게만 전달됩니다.                                                                                   |
+| **13**  | 숲에서 부상당한 짐승을 발견했지만 무시하기로 했습니다. 이제 혼자 있을 때만 그것이 도처에 보입니다. 슬퍼 보이지만 화나 보이지는 않습니다. 혼자 행동할 때 _공황_ 상태가 될 수 없습니다.                                                                                       |
+| **14**  | 어린 시절 친구에게 세상에서 유일한 희귀한 선물을 가져다주겠다고 약속했습니다. 끈과 들꽃으로 짠 **팔찌** (_소형_)를 가지세요.                                                                                                               |
+| **15**  | 당신은 숲의 생명체와 마찰을 빚었고, 그것은 당신에게 **돌 심장**의 저주를 걸었습니다. 매달 지나갈 때마다 돌이 한 칸씩 더 무거워집니다. 빚이 갚아질 때까지 당신은 진정으로 죽을 수 없습니다.                                                                      |
+| **16**  | **떡갈나무 군주**의 가지에서 **호루라기** (_소형_)를 조각했습니다. 당신의 행동은 눈에 띄지 않지 않았습니다. 호루라기를 없앨 수도 없는 것 같습니다.                                                                                                                                  |
+| **17**  | **새벽 여단**이 당신의 가족에게 봉사를 했고, 증거로 말린 **핏빛 꽃** (_소형_)을 주었습니다. 꽃이 하얗게 변하면 은혜를 갚아야 한다는 의미입니다.                                                                                                                     |
+| **18**  | 한 음유시인이 한때 당신의 집을 방문하여 이야기와 노래로 가득 채웠습니다. 그는 어느 날 아무 말 없이 떠났고, **소형 류트**만을 남겨두었습니다. 안에서 무언가가 덜컹거립니다.                                                                                                               |
+| **19**  | 흰 까마귀가 꿈에 나타나 입에 나뭇가지를 물고 있었습니다. 다음 날 아침 일어나니 손에 **나뭇가지** (_소형_)가 있었습니다. 행운을 가져다준다고 믿습니다. 희미한 유황 냄새가 납니다.                                                                                  |
+| **20**  | 당신의 조상 중 한 명이 **이끼 마녀**에게 잘못을 저질렀고, 그녀는 그 혈통을 저주했습니다. 당신의 모습은 거울을 산산이 부숩니다. 파편이 때때로 환영을 드러낼 수 있다는 것을 알아차렸습니다.                                                                                                        |
 
 
-## Omens
+## 징조
 
 |         |                                                                                                                                                                                                                                                    |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **d20** | **Omen**                                                                                                                                                                                                                                           |
-| **1**   | The once rich waters of a life-giving river have turned black and putrid, tainting the land and sickening those who drink from it. A village elder points to some recent desecration as the cause, but most do not heed their words.               |
-| **2**   | It feels like winter has arrived too quickly this year, frost and snows making their appearance much earlier than expected. There is talk of a pattern to the frost found in windows, ponds, and cracks in the ground. It almost looks like a map. |
-| **3**   | A thick, unnatural fog has begun encroaching upon an ancient and holy grove. It is said to be the work of a great forest spirit, angered by nearby deforestation.                                                                                  |
-| **4**   | The night sky grows dimmer each evening, as if stars are disappearing one by one. Rumors of hellish creatures capturing farmers and pulling them into the Roots are spreading like wildfire. Village elders believe the two are connected.     |
-| **5**   | The songbirds of the Wood have fallen eerily silent as of late. Hunters claim that a spectral figure has been spotted wandering the forest, gazing longingly at anyone it encounters.                                                          |
-| **6**   | Strange, tear-shaped stones have been found throughout the region, sparking a "gold rush" of sorts for jewelers and thieves alike. The locals believe they are the tears of the earth itself, weeping for a great tragedy yet to come.             |
-| **7**   | Swarming pests gnaw away at the edges of dreams, and farmers speak of a loud buzzing sound emanating from deep within the Wood. They also say that the sound is getting closer.                                                                |
-| **8**   | There is a village known far and wide for its impressive “mother tree," said to shelter the town’s secrets in its boughs. Recently it has begun bleeding red sap, worrying the elders.                                                             |
-| **9**   | The moon turns a deep crimson, bathing the night in an eerie, blood-red light. Some say it heralds a time of chaos and strife, as the boundaries between the Wood and the mortal realm grow thin.                                              |
-| **10**  | Strange cracks have appeared in the night sky, revealing a swirling vortex of light and color. Some say that the divide between realms is at its weakest in centuries and fear what may emerge from the other side.                                |
-| **11**  | A night-blooming flower once thought extinct is sprouting up throughout the Wood. Its scent is intoxicating but also causes vivid nightmares.                                                                                                  |
-| **12**  | Local livestock have grown increasingly agitated and unmanageable as of late. An old shepherd says it is due to an unsettling howl that emanates from the Wood each full moon.                                                                 |
-| **13**  | Swarms of insects are fleeing from the Wood in droves, destroying any wooden structures they come across. The sound of their wings hum a familiar tune as they pass overhead, like a forgotten nursery rhyme.                                  |
-| **14**  | Hunters talk of a curse that befalls any who kill a beast with a streak of white fur: soon after, they are found dead in their homes. Each day, there are fewer and fewer creatures to hunt.                                                                    |
-| **15**  | Folks say that a faint laughter can be heard echoing out of wells all over the city, and that the echoes change to sobs at night.                                                                                                                  |
-| **16**  | The constellations have slowly started shifting in the night sky, forming unfamiliar patterns that have stargazers and sages perplexed. Even the animals seem disturbed.                                                                           |
-| **17**  | An ancient tree at the heart of a sleepy village has suddenly withered and died, despite showing no signs of disease. After its trunk was cut, a bloody hand was found in its core.                                                                |
-| **18**  | Statues have been weeping blood for months on end, and the wombs of the village have lain barren since.  A single child has been the only exception, hidden away by elders overcome with fear and dread.                                           |
-| **19**  | The local fauna is behaving oddly, displaying heightened aggression or fleeing the area entirely. Hunters talk of a shadowy figure that roams the Wood, calling to the animals.                                                                |
-| **20**  | Border towns have become riotous in recent weeks after multiple claims of a red-robed figure appearing in their children's dreams, uttering the same warning: A fire is coming, and it will consume everything.                                    |
+| **d20** | **징조**                                                                                                                                                                                                                                           |
+| **1**   | 한때 풍요로웠던 생명을 주는 강의 물이 검고 썩은 상태로 변했고, 땅을 오염시키고 그것을 마시는 자들을 병들게 합니다. 마을 장로는 최근의 신성 모독을 원인으로 지목하지만, 대부분은 그들의 말을 귀담아듣지 않습니다.               |
+| **2**   | 올해 겨울이 너무 빨리 온 것 같습니다. 서리와 눈이 예상보다 훨씬 일찍 나타났습니다. 창문, 연못, 땅의 균열에서 발견된 서리에 패턴이 있다는 이야기가 있습니다. 거의 지도처럼 보입니다. |
+| **3**   | 두껍고 부자연스러운 안개가 고대의 성스러운 숲을 침범하기 시작했습니다. 인근 산림 벌채에 분노한 위대한 숲의 영혼의 작업이라고 합니다.                                                                                  |
+| **4**   | 밤하늘이 매일 저녁 어두워지고 있으며, 마치 별들이 하나씩 사라지는 것 같습니다. 끔찍한 괴물들이 농부들을 잡아 뿌리로 끌어들인다는 소문이 들불처럼 퍼지고 있습니다. 마을 장로들은 둘이 연결되어 있다고 믿습니다.     |
+| **5**   | 최근 숲의 새들이 섬뜩하게 침묵에 빠졌습니다. 사냥꾼들은 유령 같은 형체가 숲을 배회하며 마주치는 모든 이를 그리워하는 듯 바라보는 것을 목격했다고 주장합니다.                                                          |
+| **6**   | 이상한 눈물 모양의 돌들이 지역 전역에서 발견되어 보석상과 도둑 모두에게 열풍을 일으켰습니다. 현지인들은 그것이 아직 오지 않은 위대한 비극을 위해 울고 있는 대지 자체의 눈물이라고 믿습니다.             |
+| **7**   | 떼를 이루는 해충들이 꿈의 가장자리를 겉아먹고 있으며, 농부들은 숲 깊은 곳에서 울려 퍼지는 큰 윙윙거리는 소리에 대해 말합니다. 그들은 또한 그 소리가 점점 가까워지고 있다고 말합니다.                                                                |
+| **8**   | 마을의 비밀을 가지에 숨긴다고 전해지는 인상적인 "어머니 나무"로 멀리 널리 알려진 마을이 있습니다. 최근 붉은 수액을 흘리기 시작하여 장로들을 걱정시키고 있습니다.                                                             |
+| **9**   | 달이 짙은 진홍색으로 변하여 밤을 섬뜩한 핏빛으로 물들입니다. 일부는 숲과 인간 세계 사이의 경계가 얗아지면서 혼돈과 분쟁의 시대를 예고한다고 말합니다.                                              |
+| **10**  | 밤하늘에 이상한 균열이 나타나 빛과 색의 소용돌이치는 소용돌이를 드러냅니다. 일부는 영역 간의 경계가 수세기 만에 가장 약하다고 말하며 반대편에서 무엇이 나타날지 두려워합니다.                                |
+| **11**  | 한때 멸종된 것으로 여겨졌던 밤에 피는 꽃이 숲 전역에서 싹트고 있습니다. 향기는 황홀하지만 생생한 악몽도 일으킵니다.                                                                                                  |
+| **12**  | 최근 지역 가축들이 점점 더 동요하고 다루기 어려워지고 있습니다. 늙은 목동은 보름달마다 숲에서 울려 퍼지는 불안한 울부짖음 때문이라고 말합니다.                                                                 |
+| **13**  | 곤충 떼가 숲에서 대거 탈출하여 그들이 마주치는 모든 목조 구조물을 파괴하고 있습니다. 그들의 날개 소리는 머리 위를 지나갈 때 잊혀진 동요처럼 친숙한 곡조를 웅얼거립니다.                                  |
+| **14**  | 사냥꾼들은 흰 털이 난 짐승을 죽이는 자에게 닥치는 저주에 대해 이야기합니다: 그들은 집에서 죽은 채 발견된다고 합니다. 매일 사냥할 수 있는 생명체가 점점 줄어들고 있습니다.                                                                    |
+| **15**  | 사람들은 도시 전역의 우물에서 희미한 웃음소리가 울려 퍼지는 것을 들을 수 있으며, 밤에는 그 메아리가 흐느낌으로 바뀐다고 말합니다.                                                                                                                  |
+| **16**  | 별자리가 밤하늘에서 천천히 이동하기 시작하여 천문학자들과 현자들을 당혹하게 만드는 낯선 패턴을 형성하고 있습니다. 동물들조차 불안해 보입니다.                                                                           |
+| **17**  | 조용한 마을의 중심부에 있는 고대 나무가 질병의 징후를 보이지 않았음에도 갑자기 시들어 죽었습니다. 줄기가 잘린 후 핵심부에서 피 묻은 손이 발견되었습니다.                                                                |
+| **18**  | 석상들이 수개월 동안 피눈물을 흘려왔고, 그 이후로 마을의 여자들은 불임이 되었습니다. 단 한 명의 아이만이 유일한 예외로, 두려움과 공포에 사로잡힌 장로들에 의해 숨겨져 있습니다.                                           |
+| **19**  | 지역 동물군이 이상하게 행동하며 고조된 공격성을 보이거나 지역을 완전히 떠나고 있습니다. 사냥꾼들은 숲을 배회하며 동물들을 부르는 그림자 형체에 대해 이야기합니다.                                                                |
+| **20**  | 경계선의 마을들은 최근 몇 주 동안 붉은 로브를 입은 형체가 아이들의 꿈에 나타나 같은 경고를 외친다는 여러 주장 이후 폭동 상태가 되었습니다: 불이 오고 있으며, 모든 것을 삼킬 것이라고.                                    |
