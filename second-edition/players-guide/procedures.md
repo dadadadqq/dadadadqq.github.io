@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 절차
-parent: Player's Guide
+parent: 플레이어 가이드
 grand_parent: Second Edition
 ---
 
